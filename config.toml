@@ -1,0 +1,52 @@
+baseurl = "https://openhwgroup.github.io/openhwgroup.org/"
+DefaultContentLanguage = "en"
+title = "" 
+theme = "eclipsefdn-hugo-solstice-theme"
+metaDataFormat = "yaml"
+#googleAnalytics = ""
+disableKinds = ["taxonomyTerm"]
+themesDir = "node_modules/"
+
+[Params]
+  google_tag_manager = "GTM-5WLCZXC"
+  description = "openhwgroup.org"
+  subtitle = ""
+  seo_title_suffix = "| The openHWGroup Foundation"
+  keywords = []
+# logo = ""
+  styles = "css/styles.css"
+# favicon = "o"
+# share_img = ""
+  gcse = "011805775785170369411:p3ec0igo0qq"
+# subtheme = ""
+  header_wrapper_class = "header-default-bg-img"
+  js = "js/solstice.js"
+# call_for_action_text = ""
+# call_for_action_url = ""
+# call_for_action_icon = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[Author]
+  name = "Christopher Guindon"
+  website = "https://www.eclipse.org"
+  email = "chris.guindon@eclipse-foundation.org"
+  facebook = "eclipse.org"
+  twitter = "EclipseFdn"
+  youtube = "EclipseFdn"
+  googleplus = "+Eclipse"
+  linkedin = "company/eclipse-foundation/"
+
+[permalinks]
+  news = "/:sections/:year/:month/:day/:slug/"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1

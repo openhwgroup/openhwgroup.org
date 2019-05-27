@@ -1,0 +1,27 @@
+language: node_js
+node_js:
+- '10'
+- '12'
+install:
+- npm install
+- wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.deb
+- sudo dpkg -i hugo*.deb
+script:
+- npm run production
+- hugo
+deploy:
+  local-dir: public
+  repo: openhwgroup/openhwgroup.org
+  target-branch: gh-pages
+  provider: pages
+  keep-history: true
+  skip-cleanup: true
+  github_token: "$GITHUB_TOKEN"
+  email: chris.guindon@eclipse-foundation.org
+  name: Christopher Guindon
+  on:
+    branch: master
+    node_js: '10'
+env:
+  global:
+    secure: U+RybyEC8m9LSqsF8zDWDnlua0Uqtfnw2OH63hvjI1/4xmwoJsjtH+wejGmZg9WhKE7wFY0cR5TyKihEjGVDID0fsIGRk8lpzTWC8bT30GSQQUNIWHMdFpzqjY6bytiAdxJQEcAYKrmSJjG9xIUXM1cE3rzPIwKzy6v2KRTdTa/2S8DWuA5Gia5KKHw/d92M/VvmxnP7dnTVfYSs8RWn9UHCiHS3hBvnBU0TFrdZwVXfk2EFD1dz78fr47DeQks3b/mgMstb8F41G34J/SIP2hUC62pXXCzZ+FVEpoGGR/W2ch6jWYuZch4XpnB1ir7zxiKBigTDuixw868Cv2X9sd5xv6qwzWIGAXeH+gxldPLmFYBrWSzbOYP/GK5ZwY583Cyteztic+Hsi9RdcCMDFu8SrQXpA9l6ruvo5TlDliB2BcbT0I6D5zjoC6t24CpWHB5jkZqAdHNzHOBrgT1OwY5AyxCow2zjLQK8/u6LW37ZeqIRMi6Hac1ZP5LP4ApgtLOodyvAYj5CyGPweKyAm8Ude/TdMoW/srhhU2nOCkbGXzErN1TlEBbpEpfSUkhLP3vhF8AUqnLDW30J6Zm1pipx6r82X4He3lf0pOCsKBxXItrMV8IC1Q+yZrzWiC1ensEVmV90j1h2cJMz7+6/Js9Zt0lR8L1NesYEcNXrqwg=
