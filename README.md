@@ -57,4 +57,4 @@ Have a bug or a feature request? Please search for existing and closed issues. I
 
 ## Copyright and license
 
-Copyright 2019 the [Eclipse Foundation, Inc.](https://www.eclipse.org) and the [openhwgroup.org authors](https://github.com/openhwgroup/openhwgroup.org/graphs/contributors). Code released under the [Eclipse Public License Version 2.0 (EPL-2.0)](https://github.com/openhwgroup/openhwgroup.org/blob/src/LICENSE).
+Copyright 2019 the [OpenHW, Inc.](https://www.openhwgroup.org) and the [openhwgroup.org authors](https://github.com/openhwgroup/openhwgroup.org/graphs/contributors). Code released under the [Eclipse Public License Version 2.0 (EPL-2.0)](https://github.com/openhwgroup/openhwgroup.org/blob/src/LICENSE).
