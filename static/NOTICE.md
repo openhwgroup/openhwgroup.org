@@ -1,8 +1,8 @@
-# Notices for openadx.eclipse.org/
+# Notices for openhwgroup.org
 
 This content is produced and maintained by the Eclipse Foundation.
 
-* Project home: https://github.com/eclipsefdn/openadx.eclipse.org/
+* Project home: https://github.com/openhwgroup/openhwgroup.org/
 
 ## Trademarks
 
@@ -27,7 +27,7 @@ SPDX-License-Identifier: EPL-2.0
 
 The project maintains the following source code repositories:
 
-* https://github.com/eclipsefdn/openadx.eclipse.org/
+* https://github.com/openhwgroup/openhwgroup.org/
 
 ## Third-party Content
 

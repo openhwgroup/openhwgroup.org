@@ -1,18 +1,18 @@
-# Contributing to openadx.eclipse.org
+# Contributing to openhwgroup.org
 
 Thanks for your interest in this project.
 
 ## Project description
 
-openadx.eclipse.org is a project to regroup assets for the Eclipse Foundation look and feel. 
+openhwgroup.org is a project to regroup assets for the Eclipse Foundation look and feel. 
 
-* https://github.com/eclipsefdn/openadx.eclipse.org
+* https://github.com/openhwgroup/openhwgroup.org
 
 ## Developer resources
 
 The project maintains the following source code repositories
 
-* https://github.com/eclipsefdn/openadx.eclipse.org
+* https://github.com/openhwgroup/openhwgroup.org
 
 ## Eclipse Contributor Agreement
 
