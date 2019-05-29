@@ -1,4 +1,4 @@
-baseurl = "https://openhwgroup.github.io/openhwgroup.org/"
+baseurl = "https://www.openhwgroup.org/"
 DefaultContentLanguage = "en"
 title = "" 
 theme = "eclipsefdn-hugo-solstice-theme"
@@ -45,8 +45,3 @@ themesDir = "node_modules/"
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 1
