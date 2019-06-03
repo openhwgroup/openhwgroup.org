@@ -1,6 +1,6 @@
 {{ define "main" }}
    <!-- Announcements -->
-  <div class="row margin-bottom-50">
+  <div id="news" class="row margin-bottom-50">
     <div class="col-sm-11 col-sm-offset-2 news-list">
       <h2 class="header-underline">News</h2>
       {{ range first 5 (where (index .Site.Taxonomies.categories "announcements").Pages "Section" "news") }}
