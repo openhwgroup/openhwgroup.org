@@ -1,0 +1,66 @@
+items:
+  -
+    image: /images/sponsors/alibaba-group-logo.png
+    title: Alibaba Group
+    link: https://www.alibabagroup.com/en/global/home
+    img_width: 150
+  -
+    image: /images/sponsors/bluespec-logo.png
+    title: Bluespec
+    link: https://bluespec.com/
+    img_width: 100
+  -
+    image: /images/sponsors/cmc-logo.jpg
+    title: CMC
+    link: https://www.cmc.ca/
+    img_width: 100
+  -
+    image: /images/sponsors/embecosm-logo.png
+    title: Embecosm
+    link: https://www.embecosm.com/
+    img_width: 100
+  -
+    image: /images/sponsors/eth-zurich.png
+    title: ETH zurich
+    link: http://www.iis.ee.ethz.ch/
+    img_width: 100
+  -
+    image: /images/sponsors/imperas-logo.svg
+    title: Imperas
+    link: http://www.imperas.com/
+    img_width: 100
+  -
+    image: /images/sponsors/greenwaves.svg
+    title: Greenwaves Technologies
+    link: https://greenwaves-technologies.com/
+    img_width: 120
+  -
+    image: /images/sponsors/metrics-logo.svg
+    title: Metrics
+    link: https://metrics.ca/
+    img_width: 120
+  -
+    image: /images/sponsors/mythic-logo.png
+    title: Mythic
+    link: https://www.mythic-ai.com/
+    img_width: 100
+  -
+    image: /images/sponsors/nxp-logo.jpg
+    title: NXP
+    link: https://www.nxp.com/
+    img_width: 100
+  -
+    image: /images/sponsors/onespin.png
+    title: OneSpin
+    link: https://www.onespin.com/
+    img_width: 100
+  -
+    image: /images/sponsors/silicon-labs-logo.svg
+    title: Silicon Labs
+    link: https://www.silabs.com/
+    img_width: 80
+  -
+    image: /images/sponsors/thales.svg
+    title: Thales Group
+    link: https://www.thalesgroup.com/en
+    img_width: 120

@@ -1,0 +1,36 @@
+items:
+  -
+    image: /images/partners/risc.svg
+    title: Risc-V
+    link: https://riscv.org/
+    img_width: 100
+  -
+    image: /images/partners/eclipse-foundation.svg
+    title: Eclipse Foundation
+    link: https://www.eclipse.org/
+    img_width: 120
+  -
+    image: /images/partners/fossi-foundation.png
+    title: Fossi Foundation
+    link: https://fossi-foundation.org/
+    img_width: 80
+  -
+    image: /images/partners/publitek-logo.svg
+    title: Publitek
+    link: https://www.publitek.com/
+    img_width: 150
+  -
+    image: /images/partners/norton-rose-fulbright-logo.svg
+    title: Norton Rose Fulbright
+    link: https://www.nortonrosefulbright.com/en-ca
+    img_width: 200
+  -
+    image: /images/partners/pwc-logo.svg
+    title: PWC
+    link: https://www.pwc.com/
+    img_width: 90
+  -
+    image: /images/partners/rbc-logo-shield.svg
+    title: RBC
+    link: https://www.rbc.com/about-rbc.html
+    img_width: 60
