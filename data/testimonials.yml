@@ -15,11 +15,3 @@ items:
     title: Alessandro Piovaccari, Board Director OpenHW Group and CTO, Silicon Labs
     text: Open-source processors will be at the heart of many of the billions of devices in our smart, connected world. I’m delighted to join the board of the OpenHW Group because I believe the organization is going to make a vital contribution to the understanding and accessibility of these processors, which will in turn accelerate innovation in IoT.
     logo: /images/sponsors/silicon-labs-logo.svg
-  -
-    title: Calista Redmond, CEO RISC-V Foundation
-    text: I’m excited to see continued open innovation leveraging the RISC-V ISA.  The launch of the OpenHW Group is further evidence of the expanding adoption of RISC-V and the Core-V family of open-source cores are a welcome addition to the growing RISC-V ecosystem.
-    logo: /images/partners/risc.svg
-  -
-    title: Dave Patterson, UC Berkeley Professor, Turing Laureate, & Vice-Chair RISC-V Foundation
-    text: As a passionate believer in open innovation, I’m delighted to see Rick leverage his successful experience  with the RISC-V Foundation to lead the OpenHW Group, which will benefit the whole semiconductor industry by making open-source processor technology more accessible to a wider audience.
-    logo: /images/partners/risc.svg
