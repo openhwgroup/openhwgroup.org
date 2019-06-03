@@ -9,7 +9,7 @@ hide_breadcrumb: true
 #description: ""
 tagline: "PROVEN PROCESSOR IP"
 date: 2019-03-14T15:50:25-04:00
-links: [[href: "#about", text: "About Us"], [href: "#contact_us", text: "Join Our Mailing List"]]
+links: [[href: "#about-us", text: "About Us"], [href: "#", text: "Join Our Mailing List"]]
 ---
 
 </div> <!-- End of .container-->
