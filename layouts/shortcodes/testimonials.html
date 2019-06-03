@@ -42,11 +42,11 @@
   </div>
 {{ end }}
 <hr>
-{{ if isset .Site.Data.events "more_button_text" }}
+
   <ul class="text-center margin-top-15 list-inline">
-    {{ if and (gt (len .Site.Data.testimonials.items) 3) (isset .Site.Data.events "more_button_text") }}
-    <li><a data-toggle-text="Close" role="button" data-toggle="collapse" href="#featured-more-items" aria-expanded="true" aria-controls="featured-more-items" class="btn btn-primary toggle-text">{{.Site.Data.events.more_button_text | safeHTML }}</a></li>
+    {{ if gt (len .Site.Data.testimonials.items) 3 }}
+    <li><a data-toggle-text="Close" role="button" data-toggle="collapse" href="#featured-more-items" aria-expanded="true" aria-controls="featured-more-items" class="btn btn-primary toggle-text">View More</a></li>
     {{ end }}
   </ul>
-{{end}}
+
 
