@@ -41,31 +41,9 @@ links: [[href: "#about-us", text: "About Us"], [href: "#", text: "Join Our Maili
   <!-- Sponsors and Partners -->
   <div id="partners-sponsors" class="featured-sponsors container text-center padding-top-30 padding-bottom-40">
     <h2 class="header-underline">Sponsors</h2>
-    <ul class="list-inline">
-      <li><a href="https://www.alibabagroup.com/en/global/home"><img width="150" src="/images/sponsors/alibaba-group-logo.png"></a></li>
-      <li><a href="https://bluespec.com/"><img width="100" src="/images/sponsors/bluespec-logo.png"></a></li>
-      <li><a href="https://www.cmc.ca/"><img width="100" src="/images/sponsors/cmc-logo.jpg"></a></li>
-      <li><a href="https://www.embecosm.com/"><img width="100" src="/images/sponsors/embecosm-logo.png"></a></li>
-      <li><a href="http://www.iis.ee.ethz.ch/"><img width="100" src="/images/sponsors/eth-zurich.png"></a></li>
-      <li><a href="http://www.imperas.com/"><img width="100" src="/images/sponsors/imperas-logo.svg"></a></li>
-      <li><a href="https://greenwaves-technologies.com/"><img width="120" src="/images/sponsors/greenwaves.svg"></a></li>
-      <li><a href="https://metrics.ca/"><img width="120" src="/images/sponsors/metrics-logo.svg"></a></li>
-      <li><a href="https://www.mythic-ai.com/"><img width="100" src="/images/sponsors/mythic-logo.png"></a></li>
-      <li><a href="https://www.nxp.com/"><img width="100" src="/images/sponsors/nxp-logo.jpg"></a></li>
-      <li><a href="https://www.onespin.com/"><img width="100" src="/images/sponsors/onespin.png"></a></li>
-      <li><a href="https://www.silabs.com/"><img width="80" src="/images/sponsors/silicon-labs-logo.svg"></a></li>
-      <li><a href="https://www.thalesgroup.com/en"><img width="120" src="/images/sponsors/thales.svg"></a></li>
-    </ul>
+    {{< sponsors >}}
     <h2 class="header-underline margin-top-60">Partners</h2>
-    <ul class="list-inline">
-      <li><a href="https://riscv.org/"><img width="120" src="/images/partners/risc.svg"></a></li>
-      <li><a href="https://www.eclipse.org/"><img width="120" src="/images/partners/eclipse-foundation.svg"></a></li>
-      <li><a href="https://fossi-foundation.org/"><img width="80" src="/images/partners/fossi-foundation.png"></a></li>
-      <li><a href="https://www.publitek.com/"><img width="150" src="/images/partners/publitek-logo.svg"></a></li>
-      <li><a href="https://www.nortonrosefulbright.com/en-ca"><img width="200" src="/images/partners/norton-rose-fulbright-logo.svg"></a></li>
-      <li><a href="https://www.pwc.com/"><img width="90" src="/images/partners/pwc-logo.svg"></a></li>
-      <li><a href="https://www.rbc.com/about-rbc.html"><img width="80" src="/images/partners/rbc-logo-shield.svg"></a></li>
-    </ul>
+    {{< partners >}}
   </div>
 
   <!-- Testimonials -->
