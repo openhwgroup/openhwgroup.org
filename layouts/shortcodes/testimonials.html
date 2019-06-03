@@ -1,0 +1,52 @@
+<!-- 
+  Copyright (c) 2019 Eclipse Foundation, Inc.
+
+  This program and the accompanying materials are made available under the
+  terms of the Eclipse Public License v. 2.0 which is available at
+  http://www.eclipse.org/legal/epl-2.0.
+
+  Contributors:
+    Eric Poirier <eric.poirier@eclipse-foundation.org>
+
+  SPDX-License-Identifier: EPL-2.0
+-->
+
+<div class="row testimonial-container">
+  {{ range first 3 .Site.Data.testimonials.items }}
+  <div class="col-sm-8 margin-bottom-20 testimonial-item">
+    <div class="bg-primary padding-20 match-height-item">
+    <div class="testimonial-logo">
+      <img class="img-responsive" src="{{ .logo }}">
+    </div>
+    <p class="title"><strong>{{ .title }}</strong></p>
+    <p class="content">"{{ .text }}"</p>
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{if gt (len .Site.Data.testimonials.items) 3}}
+  <div class="collapse" id="featured-more-items" aria-expanded="true" style="">
+    <div class="row testimonial-container">
+    {{ range after 3 .Site.Data.testimonials.items }}
+      <div class="col-sm-8 margin-bottom-20 testimonial-item">
+        <div class="bg-primary padding-20 match-height-item">
+        <div class="testimonial-logo">
+          <img class="img-responsive" src="{{ .logo }}">
+        </div>
+        <p class="title"><strong>{{ .title }}</strong></p>
+        <p class="content">"{{ .text }}"</p>
+        </div>
+      </div>
+    {{ end }}
+    </div>
+  </div>
+{{ end }}
+<hr>
+{{ if isset .Site.Data.events "more_button_text" }}
+  <ul class="text-center margin-top-15 list-inline">
+    {{ if and (gt (len .Site.Data.testimonials.items) 3) (isset .Site.Data.events "more_button_text") }}
+    <li><a data-toggle-text="Close" role="button" data-toggle="collapse" href="#featured-more-items" aria-expanded="true" aria-controls="featured-more-items" class="btn btn-primary toggle-text">{{.Site.Data.events.more_button_text | safeHTML }}</a></li>
+    {{ end }}
+  </ul>
+{{end}}
+

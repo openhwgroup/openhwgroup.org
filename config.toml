@@ -9,15 +9,15 @@ themesDir = "node_modules/"
 
 [Params]
   google_tag_manager = "GTM-5WLCZXC"
-  description = "openhwgroup.org"
+  description = "OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects."
   subtitle = ""
   seo_title_suffix = "| The openHWGroup Foundation"
-  keywords = []
-# logo = ""
+  keywords = ["open-source", "risc-v", "hardware", "software", "hw", "sw", "eclipse ide"]
+  logo = "images/openhw-landscape.svg"
   styles = "css/styles.css"
-# favicon = "o"
+  favicon = "images/favicon.ico"
 # share_img = ""
-  gcse = "011805775785170369411:p3ec0igo0qq"
+  gcse = ""
 # subtheme = ""
   header_wrapper_class = "header-default-bg-img"
   js = "js/solstice.js"
@@ -30,14 +30,14 @@ themesDir = "node_modules/"
   tag = "tags"
 
 [Author]
-  name = "Christopher Guindon"
-  website = "https://www.eclipse.org"
-  email = "chris.guindon@eclipse-foundation.org"
-  facebook = "eclipse.org"
-  twitter = "EclipseFdn"
-  youtube = "EclipseFdn"
-  googleplus = "+Eclipse"
-  linkedin = "company/eclipse-foundation/"
+  name = "OpenHW Group"
+  website = "https://www.openhwgroup.org"
+  email = "info@openhwgroup.org"
+# facebook = ""
+  twitter = "openhwgroup"
+# youtube = ""
+# googleplus = ""
+# linkedin = ""
 
 [permalinks]
   news = "/:sections/:year/:month/:day/:slug/"
@@ -45,3 +45,28 @@ themesDir = "node_modules/"
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
+  
+[[menu.main]]
+    name = "Core-V Family"
+    url = "#core-v-family"
+    weight = 1
+    
+[[menu.main]]
+    name = "Testimonials"
+    url = "#testimonials"
+    weight = 2
+    
+[[menu.main]]
+    name = "Partners and Sponsors"
+    url = "#partners-sponsors"
+    weight = 3
+    
+[[menu.main]]
+    name = "About Us"
+    url = "#about-us"
+    weight = 3
+    
+[[menu.main]]
+    name = "Contact Us"
+    url = "#contact-us"
+    weight = 4
