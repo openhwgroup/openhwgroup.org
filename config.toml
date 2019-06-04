@@ -48,25 +48,25 @@ themesDir = "node_modules/"
   
 [[menu.main]]
     name = "CORE-V Family"
-    url = "#core-v-family"
+    url = "/#core-v-family"
     weight = 1
     
 [[menu.main]]
     name = "Testimonials"
-    url = "#testimonials"
+    url = "/#testimonials"
     weight = 2
     
 [[menu.main]]
     name = "Partners and Sponsors"
-    url = "#partners-sponsors"
+    url = "/#partners-sponsors"
     weight = 3
     
 [[menu.main]]
     name = "About Us"
-    url = "#about-us"
+    url = "/#about-us"
     weight = 3
     
 [[menu.main]]
     name = "Contact Us"
-    url = "#contact-us"
+    url = "/#contact-us"
     weight = 4
