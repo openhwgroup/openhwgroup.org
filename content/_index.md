@@ -19,10 +19,10 @@ links: [[href: "#about-us", text: "About Us"], [href: "#", text: "Join Our Maili
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-md-offset-2">
-          <h2 class="header-underline">Core-V Family</h2>
-          <p>Core-V is a series of RISC-V based open-source cores with
+          <h2 class="header-underline">CORE-V Family</h2>
+          <p>CORE-V is a series of RISC-V based open-source cores with
             associated processor subsystem IP, tools and software for
-            electronic system designers. The Core-V family provides
+            electronic system designers. The CORE-V family provides
             quality core IP in line with industry best practices in both
             silicon and FPGA optimized implementations. These cores can be
             used to facilitate rapid design innovation and ensure

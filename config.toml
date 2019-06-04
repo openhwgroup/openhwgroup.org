@@ -47,7 +47,7 @@ themesDir = "node_modules/"
   hrefTargetBlank = true
   
 [[menu.main]]
-    name = "Core-V Family"
+    name = "CORE-V Family"
     url = "#core-v-family"
     weight = 1
     
