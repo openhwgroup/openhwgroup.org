@@ -39,7 +39,7 @@ links: [[href: "#about-us", text: "About Us"], [href: "#", text: "Join Our Maili
   </div>
   
   <!-- Sponsors and Partners -->
-  <div id="partners-sponsors" class="featured-sponsors container text-center padding-top-30 padding-bottom-40">
+  <div id="partners-sponsors" class="featured-partners container text-center padding-top-30 padding-bottom-40">
     <h2 class="header-underline">Sponsors</h2>
     {{< sponsors >}}
     <h2 class="header-underline margin-top-60">Partners</h2>
