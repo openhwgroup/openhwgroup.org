@@ -58,13 +58,8 @@ links: [[href: "#about-us", text: "About Us"], [href: "#", text: "Join Our Maili
   <div id="about-us" class="featured-about-us container padding-top-30 padding-bottom-40">
     <div class="row">
       <div class="col-sm-16 col-sm-push-8">
-        <h2 class="header-underline">About Us</h2>
-        <p class="margin-bottom-40">OpenHW Group is a not-for-profit, global organization
-          driven by its members and individual contributors where hardware
-          and software designers collaborate on open source cores, related
-          IP, tools and software projects. OpenHW provides an
-          infrastructure for hosting high quality open-source HW
-          developments in line with industry best practices.</p>
+        <h2 class="header-underline">About the OpenHW Group</h2>
+        <p class="margin-bottom-40">OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software. OpenHW provides an infrastructure for hosting high quality open-source HW developments in line with industry best practices.</p>
       </div>
       <div class="col-sm-8 col-sm-pull-16">
         <img class="img-responsive" src="/images/about-us.jpg">
