@@ -27,7 +27,7 @@ links: [[href: "#about-us", text: "About Us"], [href: "https://mailchi.mp/77bbac
             silicon and FPGA optimized implementations. These cores can be
             used to facilitate rapid design innovation and ensure
             effective manufacturability of production SoCs.</p>
-          <p><a class="btn btn-primary" href="#">Join Our Mailing List</a></p>
+          <p><a class="btn btn-primary" href="https://mailchi.mp/77bbac3766fb/openhwgroup">Join Our Mailing List</a></p>
         </div>
         <div class="col-sm-12 col-md-8 col-md-offset-2">
           <div class="core-v-circle margin-top-20">
