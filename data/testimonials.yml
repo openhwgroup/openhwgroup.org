@@ -74,3 +74,13 @@ items:
     text: The Eclipse Foundation has been at the forefront of community-based open source software development for many years,” said Mike Milinkovich, Executive Director of the Eclipse Foundation. "We are pleased to provide our guidance and expertise for the launch of the OpenHW Group and for the ongoing development of open source processor cores and related subsystem IP, tools, and software.
     logo: /images/partners/eclipse-foundation.svg
     logo_width: 110
+  -
+    title: Ty Garibay, VP Engineering, Mythic AI
+    text: Mythic relies on the ability to customize processor cores to optimize our system performance. RISC-V based cores have therefore become a critical component of our novel AI inference processor architecture. We look forward to working with the OpenHW Group to develop the CORE-V Family of open-source RISC-V cores that will meet the growing demands of our products, including vital eco-system support, tools and friendly licensing alternatives.
+    logo: /images/sponsors/mythic-logo.png
+    logo_width: 110
+  -
+    title: Marko Erman, Chief Technology Officer, Thales
+    text: Thales, as a dedicated supporter of the open source community through both the RISC-V and Eclipse Foundations, is proud to support the development of the OpenHW Group CORE-V Family of open-source RISC-V based cores. This is a major step to bring safety and security properties in open hardware solutions.
+    logo: /images/sponsors/thales.svg
+    logo_width: 110
