@@ -9,7 +9,7 @@ hide_breadcrumb: true
 #description: ""
 tagline: "PROVEN PROCESSOR IP"
 date: 2019-03-14T15:50:25-04:00
-links: [[href: "#about-us", text: "About Us"], [href: "#", text: "Join Our Mailing List"]]
+links: [[href: "#about-us", text: "About Us"], [href: "https://mailchi.mp/77bbac3766fb/openhwgroup", text: "Join Our Mailing List"]]
 ---
 
 </div> <!-- End of .container-->
@@ -81,7 +81,7 @@ links: [[href: "#about-us", text: "About Us"], [href: "#", text: "Join Our Maili
           <p><a class="white" href="mailto:info@openhwgroup.org">info@openhwgroup.org</a></p>
         </div>
         <div class="col-sm-8">
-          <p class="margin-top-60"><a class="btn btn-primary btn-mailing-list" href="#">Join Our Mailing List</a></p>
+          <p class="margin-top-60"><a class="btn btn-primary btn-mailing-list" href="https://mailchi.mp/77bbac3766fb/openhwgroup">Join Our Mailing List</a></p>
         </div>
       </div>
     </div>
