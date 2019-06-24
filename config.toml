@@ -8,10 +8,10 @@ disableKinds = ["taxonomyTerm"]
 themesDir = "node_modules/"
 
 [Params]
-# google_tag_manager = "GTM-5WLCZXC"
+  google_tag_manager = "GTM-5WLCZXC"
   description = "OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects."
   subtitle = ""
-  seo_title_suffix = "| OpenHW Group"
+  seo_title_suffix = " | OpenHW Group"
   keywords = ["open-source", "risc-v", "hardware", "software", "hw", "sw", "eclipse ide"]
   logo = "images/openhw-landscape.svg"
   styles = "css/styles.css"
