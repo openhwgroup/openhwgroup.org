@@ -20,6 +20,6 @@
   },
   "readmeFilename": "README.md",
   "dependencies": {
-    "eclipsefdn-hugo-solstice-theme": "0.0.21"
+    "eclipsefdn-hugo-solstice-theme": "0.0.27"
   }
 }
