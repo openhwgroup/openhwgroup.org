@@ -64,3 +64,8 @@ items:
     title: Thales Group
     link: https://www.thalesgroup.com/en
     img_width: 120
+  -
+    image: /images/sponsors/huawei-logo.png
+    title: Huawei
+    link: https://www.huawei.com
+    img_width: 135
