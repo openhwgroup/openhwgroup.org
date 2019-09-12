@@ -25,15 +25,20 @@ items:
     link: http://www.iis.ee.ethz.ch/
     img_width: 100
   -
-    image: /images/sponsors/imperas-logo.svg
-    title: Imperas
-    link: http://www.imperas.com/
-    img_width: 100
-  -
     image: /images/sponsors/greenwaves.svg
     title: Greenwaves Technologies
     link: https://greenwaves-technologies.com/
     img_width: 120
+  -
+    image: /images/sponsors/huawei-logo.png
+    title: Huawei
+    link: https://www.huawei.com
+    img_width: 135
+  -
+    image: /images/sponsors/imperas-logo.svg
+    title: Imperas
+    link: http://www.imperas.com/
+    img_width: 100
   -
     image: /images/sponsors/metrics-logo.svg
     title: Metrics
@@ -64,8 +69,3 @@ items:
     title: Thales Group
     link: https://www.thalesgroup.com/en
     img_width: 120
-  -
-    image: /images/sponsors/huawei-logo.png
-    title: Huawei
-    link: https://www.huawei.com
-    img_width: 135
