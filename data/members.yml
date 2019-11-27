@@ -69,3 +69,8 @@ items:
     title: Thales Group
     link: https://www.thalesgroup.com/en
     img_width: 120
+  -
+    image: /images/sponsors/ultrasoc-logo.png
+    title: UltraSoC
+    link: https://www.ultrasoc.com/
+    img_width: 100
