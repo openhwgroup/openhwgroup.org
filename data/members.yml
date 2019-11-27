@@ -30,6 +30,11 @@ items:
     link: /#
     img_width: 120
   -
+    image: /images/sponsors/global-foundries.jpeg
+    title: Global Foundries
+    link: https://www.globalfoundries.com/
+    img_width: 120
+  -
     image: /images/sponsors/greenwaves.svg
     title: Greenwaves Technologies
     link: https://greenwaves-technologies.com/
