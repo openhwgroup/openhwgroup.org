@@ -25,6 +25,11 @@ items:
     link: http://www.iis.ee.ethz.ch/
     img_width: 100
   -
+    image: /images/sponsors/futurewei.png
+    title: Futurewei
+    link: /#
+    img_width: 120
+  -
     image: /images/sponsors/greenwaves.svg
     title: Greenwaves Technologies
     link: https://greenwaves-technologies.com/
