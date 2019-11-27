@@ -39,9 +39,9 @@ links: [[href: "#about-us", text: "About Us"], [href: "https://mailchi.mp/77bbac
   </div>
   
   <!-- Sponsors and Partners -->
-  <div id="partners-sponsors" class="featured-partners container text-center padding-top-30 padding-bottom-40">
-    <h2 class="header-underline">Sponsors</h2>
-    {{< sponsors >}}
+  <div id="partners-members" class="featured-partners container text-center padding-top-30 padding-bottom-40">
+    <h2 class="header-underline">Members</h2>
+    {{< members >}}
     <h2 class="header-underline margin-top-60">Partners</h2>
     {{< partners >}}
   </div>
