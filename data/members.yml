@@ -10,6 +10,11 @@ items:
     link: https://bluespec.com/
     img_width: 100
   -
+    image: /images/sponsors/bta-design-services.jpg
+    title: BTA Design Services
+    link: https://www.btadesignservices.com/
+    img_width: 135
+  -
     image: /images/sponsors/cmc-logo.jpg
     title: CMC
     link: https://www.cmc.ca/
