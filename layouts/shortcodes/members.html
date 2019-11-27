@@ -12,7 +12,7 @@
 -->
 
 <ul class="list-inline">
-  {{ range .Site.Data.sponsors.items }}
+  {{ range .Site.Data.members.items }}
     <li><a href="{{ .link }}"><img width="{{ .img_width }}" alt="{{ .title }}" src="{{ .image }}"></a></li>
   {{ end }}
 </ul>
