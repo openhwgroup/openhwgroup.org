@@ -84,3 +84,8 @@ items:
     title: UltraSoC
     link: https://www.ultrasoc.com/
     img_width: 100
+  -
+    image: /images/sponsors/verisilicon.png
+    title: VeriSilicon
+    link: http://www.verisilicon.com/
+    img_width: 100
