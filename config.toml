@@ -57,8 +57,8 @@ themesDir = "node_modules/"
     weight = 2
     
 [[menu.main]]
-    name = "Partners and Members"
-    url = "/#partners-members"
+    name = "Members and Partners"
+    url = "/#members-partners"
     weight = 3
     
 [[menu.main]]
