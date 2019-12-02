@@ -50,6 +50,11 @@ items:
     link: https://www.huawei.com
     img_width: 135
   -
+    image: /images/sponsors/ibm-cloud.svg
+    title: IBM Cloud
+    link: https://www.ibm.com/cloud
+    img_width: 140
+  -
     image: /images/sponsors/imperas-logo.svg
     title: Imperas
     link: http://www.imperas.com/
