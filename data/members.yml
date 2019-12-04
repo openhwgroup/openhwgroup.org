@@ -1,101 +1,149 @@
-items:
-  -
-    image: /images/sponsors/alibaba-group-logo.png
-    title: Alibaba Group
-    link: https://www.alibabagroup.com/en/global/home
-    img_width: 150
-  -
-    image: /images/sponsors/bluespec-logo.png
-    title: Bluespec
-    link: https://bluespec.com/
-    img_width: 100
-  -
-    image: /images/sponsors/bta-design-services.jpg
-    title: BTA Design Services
-    link: https://www.btadesignservices.com/
-    img_width: 135
-  -
-    image: /images/sponsors/cmc-logo.jpg
-    title: CMC
-    link: https://www.cmc.ca/
-    img_width: 100
-  -
-    image: /images/sponsors/embecosm-logo.png
-    title: Embecosm
-    link: https://www.embecosm.com/
-    img_width: 100
-  -
-    image: /images/sponsors/eth-zurich.png
-    title: ETH zurich
-    link: http://www.iis.ee.ethz.ch/
-    img_width: 100
-  -
-    image: /images/sponsors/futurewei.png
-    title: Futurewei
-    link: /#
-    img_width: 120
-  -
-    image: /images/sponsors/global-foundries.jpeg
-    title: Global Foundries
-    link: https://www.globalfoundries.com/
-    img_width: 120
-  -
-    image: /images/sponsors/greenwaves.svg
-    title: Greenwaves Technologies
-    link: https://greenwaves-technologies.com/
-    img_width: 120
-  -
-    image: /images/sponsors/huawei-logo.png
-    title: Huawei
-    link: https://www.huawei.com
-    img_width: 135
-  -
-    image: /images/sponsors/ibm-cloud.svg
-    title: IBM Cloud
-    link: https://www.ibm.com/cloud
-    img_width: 140
-  -
-    image: /images/sponsors/imperas-logo.svg
-    title: Imperas
-    link: http://www.imperas.com/
-    img_width: 100
-  -
-    image: /images/sponsors/metrics-logo.svg
-    title: Metrics
-    link: https://metrics.ca/
-    img_width: 120
-  -
-    image: /images/sponsors/mythic-logo.png
-    title: Mythic
-    link: https://www.mythic-ai.com/
-    img_width: 100
-  -
-    image: /images/sponsors/nxp-logo.jpg
-    title: NXP
-    link: https://www.nxp.com/
-    img_width: 100
-  -
-    image: /images/sponsors/onespin.png
-    title: OneSpin
-    link: https://www.onespin.com/
-    img_width: 100
-  -
-    image: /images/sponsors/silicon-labs-logo.svg
-    title: Silicon Labs
-    link: https://www.silabs.com/
-    img_width: 80
-  -
-    image: /images/sponsors/thales.svg
-    title: Thales Group
-    link: https://www.thalesgroup.com/en
-    img_width: 120
-  -
-    image: /images/sponsors/ultrasoc-logo.png
-    title: UltraSoC
-    link: https://www.ultrasoc.com/
-    img_width: 100
-  -
-    image: /images/sponsors/verisilicon.png
-    title: VeriSilicon
-    link: http://www.verisilicon.com/
-    img_width: 100
+types:
+  - name: members
+    items:
+    -
+      image: /images/sponsors/alibaba-group-logo.png
+      title: Alibaba Group
+      link: https://www.alibabagroup.com/en/global/home
+      img_width: 150
+    -
+      image: /images/sponsors/bluespec-logo.png
+      title: Bluespec
+      link: https://bluespec.com/
+      img_width: 100
+    -
+      image: /images/sponsors/bta-design-services.jpg
+      title: BTA Design Services
+      link: https://www.btadesignservices.com/
+      img_width: 135
+    -
+      image: /images/sponsors/cmc-logo.jpg
+      title: CMC
+      link: https://www.cmc.ca/
+      img_width: 100
+    -
+      image: /images/sponsors/embecosm-logo.png
+      title: Embecosm
+      link: https://www.embecosm.com/
+      img_width: 100
+    -
+      image: /images/sponsors/eth-zurich.png
+      title: ETH zurich
+      link: http://www.iis.ee.ethz.ch/
+      img_width: 100
+    -
+      image: /images/sponsors/futurewei.png
+      title: Futurewei
+      link: /#
+      img_width: 120
+    -
+      image: /images/sponsors/global-foundries.jpeg
+      title: Global Foundries
+      link: https://www.globalfoundries.com/
+      img_width: 120
+    -
+      image: /images/sponsors/greenwaves.svg
+      title: Greenwaves Technologies
+      link: https://greenwaves-technologies.com/
+      img_width: 120
+    -
+      image: /images/sponsors/huawei-logo.png
+      title: Huawei
+      link: https://www.huawei.com
+      img_width: 135
+    -
+      image: /images/sponsors/imperas-logo.svg
+      title: Imperas
+      link: http://www.imperas.com/
+      img_width: 100
+    -
+      image: /images/sponsors/metrics-logo.svg
+      title: Metrics
+      link: https://metrics.ca/
+      img_width: 120
+    -
+      image: /images/sponsors/mythic-logo.png
+      title: Mythic
+      link: https://www.mythic-ai.com/
+      img_width: 100
+    -
+      image: /images/sponsors/nxp-logo.jpg
+      title: NXP
+      link: https://www.nxp.com/
+      img_width: 100
+    -
+      image: /images/sponsors/onespin.png
+      title: OneSpin
+      link: https://www.onespin.com/
+      img_width: 100
+    -
+      image: /images/sponsors/silicon-labs-logo.svg
+      title: Silicon Labs
+      link: https://www.silabs.com/
+      img_width: 80
+    -
+      image: /images/sponsors/thales.svg
+      title: Thales Group
+      link: https://www.thalesgroup.com/en
+      img_width: 120
+    -
+      image: /images/sponsors/ultrasoc-logo.png
+      title: UltraSoC
+      link: https://www.ultrasoc.com/
+      img_width: 100
+    -
+      image: /images/sponsors/verisilicon.png
+      title: VeriSilicon
+      link: http://www.verisilicon.com/
+      img_width: 100
+  - name: partners
+    levels: 2
+    items:
+    -
+      image: /images/partners/eclipse-foundation.svg
+      title: Eclipse Foundation
+      link: https://www.eclipse.org/
+      img_width: 120
+      level: 1
+    -
+      image: /images/partners/fossi-foundation.png
+      title: Fossi Foundation
+      link: https://fossi-foundation.org/
+      img_width: 80
+      level: 1
+    -
+      image: /images/sponsors/ibm-cloud.svg
+      title: IBM Cloud
+      link: https://www.ibm.com/cloud
+      img_width: 140
+      level: 1
+    -
+      image: /images/partners/publitek-logo.svg
+      title: Publitek
+      link: https://www.publitek.com/
+      img_width: 150
+      level: 1
+    -
+      image: /images/partners/risc.svg
+      title: Risc-V
+      link: https://riscv.org/
+      img_width: 100
+      level: 1
+    -
+      image: /images/partners/norton-rose-fulbright-logo.svg
+      title: Norton Rose Fulbright
+      link: https://www.nortonrosefulbright.com/en-ca
+      img_width: 200
+      level: 2
+    -
+      image: /images/partners/pwc-logo.svg
+      title: PWC
+      link: https://www.pwc.com/
+      img_width: 90
+      level: 2
+    -
+      image: /images/partners/rbc-logo-shield.svg
+      title: RBC
+      link: https://www.rbc.com/about-rbc.html
+      img_width: 60
+      level: 2
