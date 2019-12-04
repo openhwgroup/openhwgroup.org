@@ -1,6 +1,7 @@
 ---
 title: "OpenHW Group Privacy Policy"
 date: 2019-05-28T16:09:45-04:00
+hide_sidebar: true
 ---
 
 May 29, 2019

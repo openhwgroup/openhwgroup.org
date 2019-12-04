@@ -10,9 +10,11 @@
 
   SPDX-License-Identifier: EPL-2.0
 -->
-
-<ul class="list-inline">
-  {{ range .Site.Data.members.items }}
+{{ $data := index (where .Site.Data.members.types "name" "members") 0 }}
+<div class="row">
+  <ul class="list-inline">
+    {{ range $data.items }}
     <li><a href="{{ .link }}"><img width="{{ .img_width }}" alt="{{ .title }}" src="{{ .image }}"></a></li>
-  {{ end }}
-</ul>
+    {{ end }}
+  </ul>
+</div>

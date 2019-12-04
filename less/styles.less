@@ -18,20 +18,6 @@
   font-weight: 600;
 }
 
-.featured-jumbotron h1:after {
-  border-bottom: 8px solid @brand-primary;
-  width: 600px;
-  margin: 15px 0 0;
-  @media (max-width: 768px) {
-    width: 300px;
-    margin: 15px auto 0;
-  }
-  height: 5px;
-  display: block;
-  content: "";
-  
-}
-
 .btn {
   text-transform: uppercase;
 }
@@ -45,8 +31,23 @@
     font-weight: 400;
     margin-bottom:20px;
   }
+  /** Required to override base featured-jumbotron h1 styling */
+  h1.heading-underline:after {
+    border-bottom: 8px solid #6a9d58;
+  }
+  .home-alt.heading-underline:after {
+    @media (min-width: 768px) {
+      margin: 15px 0 0;
+      text-align: left;
+    } 
+  }
+  .home-alt.heading-underline {
+    @media (min-width: 768px) {
+      text-align: left;
+    } 
+  }
   p {
-    margin-bottom: 30px;
+    margin-bottom: 0;
     font-size: 30px;
     font-weight: 200;
   }

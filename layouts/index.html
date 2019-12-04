@@ -1,7 +1,8 @@
 {{ define "main" }}
    <!-- Announcements -->
-  <div id="news" class="row margin-bottom-50">
-    <div class="col-sm-11 col-sm-offset-2 news-list">
+  <div id="news" class="container margin-bottom-50">
+  <div class="row">
+    <div class=" col-sm-11 col-sm-offset-2 news-list">
       <h2 class="header-underline margin-bottom-30">News</h2>
       <div class="news-items">
         {{ range first 5 (where (index .Site.Taxonomies.categories "announcements").Pages "Section" "news") }}
@@ -40,6 +41,7 @@
         <li class="news-list-links-rss"><a href="categories/events/index.xml" title="Subscribe to our RSS-feed">Subscribe to our RSS-feed <i class="fa fa-rss"></i></a></li>
       </ul>
     </div>
-  </div>
+    </div>
+  </div>  
   {{ .Content }}
 {{ end }}
