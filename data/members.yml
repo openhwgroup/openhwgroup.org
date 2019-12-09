@@ -115,7 +115,7 @@ types:
       image: /images/sponsors/ibm-cloud.svg
       title: IBM Cloud
       link: https://www.ibm.com/cloud
-      img_width: 140
+      img_width: 175
       level: 1
     -
       image: /images/partners/publitek-logo.svg
