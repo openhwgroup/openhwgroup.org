@@ -13,6 +13,29 @@
 
 <div class="background-white">
   <div class="container">
+  <div class="text-right toolbar-row row hidden-print">
+      <div class="col-md-24 row-toolbar-col">
+        <ul class="list-inline">
+          <li><a href="/register" ><i class="fa fa-user fa-fw"></i> {{ i18n "navbar-create-account-label" }}</a></li>
+          <li><a href="/register" ><i class="fa fa-edit fa-fw"></i> {{ i18n "navbar-edit-acccount-label" }}</a></li>
+          <li><a href="#" class="toolbar-manage-cookies"><i class="fa fa-wrench"></i> {{ i18n "navbar-manage-cookies-label" }}</a></li>
+          {{ if gt (len .AllTranslations) 1 }}
+          <li class="language-selector dropdown">
+            <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+              <i class="fa fa-globe"></i>
+              <span> {{ .Language.LanguageName }}</span>
+              <b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+              {{ range .AllTranslations }}
+              <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+              {{ end }}
+            </ul>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
     <div class="row" id="header-row">
       <div class="col-sm-6 col-md-5" id="header-left">
         <div class="wrapper-logo-default">
