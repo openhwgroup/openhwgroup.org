@@ -52,7 +52,7 @@ container: "container-fluid"
 </div>
 
 <!-- About Us -->
-<div id="about-us" class="featured-about-us container padding-top-30 padding-bottom-40">
+<div id="about-us" class="featured-about-us container padding-top-30 padding-bottom-10">
   <div class="row">
     <div class="col-sm-16 col-sm-push-8">
       <h2 class="header-underline">About the OpenHW Group</h2>
@@ -64,21 +64,3 @@ container: "container-fluid"
   </div>
 </div>
 
-<!-- Contact Us -->
-<div id="contact-us" class="row featured-section featured-contact-us padding-top-30 padding-bottom-40">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12 col-sm-offset-3">
-        <h2 class="header-underline">Contact Us</h2>
-        <h3>Mailing Address</h3>
-        <p>OpenHW Group<br>
-        2934 Baseline Road, Suite 202, Ottawa, ON, Canada K2H 1B2</p>
-        <h3>Email Address</h3>
-        <p><a class="white" href="mailto:info@openhwgroup.org">info@openhwgroup.org</a></p>
-      </div>
-      <div class="col-sm-8">
-        <p class="margin-top-60"><a class="btn btn-primary btn-mailing-list" href="https://mailchi.mp/77bbac3766fb/openhwgroup">Join Our Mailing List</a></p>
-      </div>
-    </div>
-  </div>
-</div>
