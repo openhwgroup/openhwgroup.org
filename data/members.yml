@@ -7,6 +7,11 @@ types:
       link: https://www.alibabagroup.com/en/global/home
       img_width: 150
     -
+      image: /images/sponsors/axiomise-logo.png
+      title: Axiomise
+      link: https://www.axiomise.com/
+      img_width: 150
+    -
       image: /images/sponsors/bluespec-logo.png
       title: Bluespec
       link: https://bluespec.com/
