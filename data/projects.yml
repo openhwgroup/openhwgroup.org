@@ -1,0 +1,9 @@
+items:
+  - title: core-v-verif
+    description: Functional verification project for the CORE-V family of RISC-V cores. 
+    anchor: https://github.com/openhwgroup/core-v-verif
+    anchorText: View the repository
+  - title: riscv_vm 
+    description: Instructions to import Ubuntu guest Virtual Machine for RISC-V development for the VEGA board.
+    anchor: https://github.com/openhwgroup/riscv_vm
+    anchorText: View the repository

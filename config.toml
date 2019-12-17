@@ -52,8 +52,8 @@ themesDir = "node_modules/"
     weight = 1
     
 [[menu.main]]
-    name = "Testimonials"
-    url = "/#testimonials"
+    name = "Projects"
+    url = "/projects"
     weight = 2
     
 [[menu.main]]
