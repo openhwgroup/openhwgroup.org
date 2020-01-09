@@ -4,8 +4,8 @@ date: 2019-12-01T15:50:25-04:00
 ---
 To become a member, follow these steps:  
 
-1. Read the [Bylaws](/membership/openhw-group-bylaws-2019-10-16.pdf), then complete and sign the [Membership Agreement](/membership/openhw-group-membership-agreement-2019-10-16.pdf).  
-1. [Email us](mailto:info@openhwgroup.org) the signed Membership Agreement.  
+1. Read the [Bylaws](/membership/openhw-group-bylaws-2019-10-16.pdf), then complete the [Membership Application form](openhw-membership-application-form.pdf) and sign the [Membership Agreement](/membership/openhw-group-membership-agreement-2019-10-16.pdf).  
+1. [Email us](mailto:info@openhwgroup.org) PDF copies of the completed [Membership Application form](openhw-membership-application-form.pdf) and the signed [Membership Agreement](/membership/openhw-group-membership-agreement-2019-10-16.pdf).
 
 We will respond to you via email within 2 business days.
 
