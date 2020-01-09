@@ -27,6 +27,11 @@ types:
       link: https://www.cmc.ca/
       img_width: 100
     -
+      image: /images/sponsors/datum-logo.png
+      title: Datum
+      link: '#members-partners'
+      img_width: 115
+    -
       image: /images/sponsors/embecosm-logo.png
       title: Embecosm
       link: https://www.embecosm.com/
