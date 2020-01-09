@@ -57,6 +57,11 @@ types:
       link: http://www.imperas.com/
       img_width: 100
     -
+      image: /images/sponsors/inzone-ai.png
+      title: INZONE.AI
+      link: http://www.inzone.ai/
+      img_width: 125
+    -
       image: /images/sponsors/metrics-logo.svg
       title: Metrics
       link: https://metrics.ca/
