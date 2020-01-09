@@ -7,3 +7,7 @@ items:
     description: Instructions to import Ubuntu guest Virtual Machine for RISC-V development for the VEGA board.
     anchor: https://github.com/openhwgroup/riscv_vm
     anchorText: View the repository
+  - title: CORE-V-docs 
+    description: Design, Verification and Platform documentation for the CORE-V family of RISC-V cores.
+    anchor: https://github.com/openhwgroup/core-v-docs
+    anchorText: View the repository
