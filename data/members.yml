@@ -7,6 +7,11 @@ types:
       link: https://www.alibabagroup.com/en/global/home
       img_width: 150
     -
+      image: /images/sponsors/ashling.png
+      title: Ashling
+      link: https://www.ashling.com/
+      img_width: 135
+    -
       image: /images/sponsors/axiomise-logo.png
       title: Axiomise
       link: https://www.axiomise.com/
@@ -15,7 +20,7 @@ types:
       image: /images/sponsors/bluespec-logo.png
       title: Bluespec
       link: https://bluespec.com/
-      img_width: 100
+      img_width: 120
     -
       image: /images/sponsors/bta-design-services.jpg
       title: BTA Design Services
