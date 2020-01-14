@@ -107,6 +107,11 @@ types:
       link: https://www.ultrasoc.com/
       img_width: 100
     -
+      image: /images/sponsors/university-of-utah.png
+      title: University of Utah
+      link: https://sites.google.com/site/pegaillardon/research/openfpga
+      img_width: 145
+    -
       image: /images/sponsors/verisilicon.png
       title: VeriSilicon
       link: http://www.verisilicon.com/
