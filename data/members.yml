@@ -67,11 +67,6 @@ types:
       link: http://www.imperas.com/
       img_width: 100
     -
-      image: /images/sponsors/inzone-ai.png
-      title: INZONE.AI
-      link: http://www.inzone.ai/
-      img_width: 125
-    -
       image: /images/sponsors/metrics-logo.svg
       title: Metrics
       link: https://metrics.ca/
@@ -126,6 +121,11 @@ types:
       title: University of Utah
       link: https://www.ece.utah.edu/
       img_width: 145
+    -
+      image: /images/sponsors/verifai-ai.png
+      title: verifai.ai
+      link: http://www.verifai.ai/
+      img_width: 110
     -
       image: /images/sponsors/verisilicon.png
       title: VeriSilicon
