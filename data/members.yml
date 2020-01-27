@@ -140,6 +140,12 @@ types:
     levels: 2
     items:
     -
+      image: /images/partners/cadence.png
+      title: Cadence
+      link: https://www.cadence.com/
+      img_width: 120
+      level: 1
+    -
       image: /images/partners/eclipse-foundation.svg
       title: Eclipse Foundation
       link: https://www.eclipse.org/
