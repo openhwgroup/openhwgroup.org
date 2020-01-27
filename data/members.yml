@@ -92,6 +92,11 @@ types:
       link: https://www.opersys.com/
       img_width: 140
     -
+      image: /images/sponsors/praesum.png
+      title: Praesum
+      link: http://praesum.com/
+      img_width: 120
+    -
       image: /images/sponsors/silicon-labs-logo.svg
       title: Silicon Labs
       link: https://www.silabs.com/
