@@ -133,6 +133,11 @@ types:
       link: http://carg.site.uottawa.ca/index.html
       img_width: 125
     -
+      image: /images/sponsors/u-of-t-logo.jpg
+      title: University of Toronto
+      link: https://utoronto.ca
+      img_width: 125
+    -
       image: /images/sponsors/university-of-utah.png
       title: University of Utah
       link: https://www.ece.utah.edu/
