@@ -49,7 +49,7 @@ types:
     -
       image: /images/sponsors/futurewei.png
       title: Futurewei
-      link: /#
+      link: '#members-partners'
       img_width: 120
     -
       image: /images/sponsors/greenwaves.svg
@@ -60,7 +60,13 @@ types:
       image: /images/sponsors/huawei-logo.png
       title: Huawei
       link: https://www.huawei.com
+      member_id: 1380
       img_width: 135
+    -
+      image: /images/sponsors/iar-logo.png
+      title: IAR Systems
+      link: https://www.iar.com
+      img_width: 90
     -
       image: /images/sponsors/imperas-logo.svg
       title: Imperas
