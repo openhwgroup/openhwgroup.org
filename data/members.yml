@@ -57,6 +57,11 @@ types:
       link: https://greenwaves-technologies.com/
       img_width: 120
     -
+      image: /images/sponsors/hensoldt-logo.png
+      title: Hensoldt
+      link: https://www.hensoldt-cyber.com/
+      img_width: 120
+    -
       image: /images/sponsors/huawei-logo.png
       title: Huawei
       link: https://www.huawei.com
