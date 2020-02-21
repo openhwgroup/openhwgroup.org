@@ -37,6 +37,11 @@ types:
       link: '#members-partners'
       img_width: 115
     -
+      image: /images/sponsors/ecspec-logo.png
+      title: ECSpec
+      link: https://www.ecspec.com/
+      img_width: 100
+    -
       image: /images/sponsors/embecosm-logo.png
       title: Embecosm
       link: https://www.embecosm.com/
