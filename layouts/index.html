@@ -5,7 +5,7 @@
     <div class=" col-sm-11 col-sm-offset-2 news-list">
       <h2 class="header-underline margin-bottom-30">News</h2>
       <div class="news-items">
-        {{ range first 5 (where (index .Site.Taxonomies.categories "announcements").Pages "Section" "news") }}
+        {{ range first 3 (where (index .Site.Taxonomies.categories "announcements").Pages "Section" "news") }}
           <ul class="list-unstyled news-item">
             <li>
               <p class="margin-bottom-0">{{ .Date.Format "Monday, Jan 2, 2006" }}</p>
