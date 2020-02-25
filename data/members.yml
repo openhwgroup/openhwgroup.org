@@ -88,6 +88,11 @@ types:
       link: https://metrics.ca/
       img_width: 120
     -
+      image: /images/sponsors/mitacs-logo.png
+      title: Mitacs
+      link: https://mitacs.ca/en
+      img_width: 100
+    -
       image: /images/sponsors/mythic-logo.png
       title: Mythic
       link: https://www.mythic-ai.com/
