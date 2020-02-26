@@ -22,6 +22,11 @@ types:
       link: https://bluespec.com/
       img_width: 120
     -
+      image: /images/sponsors/bsc-logo.png
+      title: Barcelona Supercomupting Center
+      link: https://www.bsc.es/
+      img_width: 200
+    -
       image: /images/sponsors/bta-design-services.jpg
       title: BTA Design Services
       link: https://www.btadesignservices.com/
