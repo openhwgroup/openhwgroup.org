@@ -158,6 +158,11 @@ types:
       link: https://www.ultrasoc.com/
       img_width: 100
     -
+      image: /images/sponsors/university-of-bologna-logo.png
+      title: University of Bologna
+      link: https://www.unibo.it/en
+      img_width: 175
+    -
       image: /images/sponsors/university-of-ottawa.png
       title: University of Ottawa
       link: http://carg.site.uottawa.ca/index.html
