@@ -50,11 +50,6 @@ items:
     logo: /images/sponsors/metrics-logo.svg
     logo_width: 130
   -
-    title: Ty Garibay, VP Engineering, Mythic
-    text: Mythic relies on the ability to customize processor cores to optimize our system performance. RISC-V based cores have therefore become a critical component of our novel AI inference processor architecture. We look forward to working with the OpenHW Group to develop the CORE-V Family of open-source RISC-V cores that will meet the growing demands of our products, including vital eco-system support, tools and friendly licensing alternatives.
-    logo: /images/sponsors/mythic-logo.png
-    logo_width: 110
-  -
     title: Raik Brinkmann, CEO of Onespin
     text: The success of widespread RISC-V adoption hinges on design integrity of the processors and SoCs that contain them. We look forward to leveraging our verification expertise and working as a founding member of the OpenHW Group to make the highest quality CORE-V Family of open-source RISC-V cores available to the community.
     logo: /images/sponsors/onespin.png
