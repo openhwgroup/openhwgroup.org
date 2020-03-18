@@ -227,6 +227,12 @@ types:
       img_width: 100
       level: 1
     -
+      image: /images/partners/digilent.png
+      title: Digilent
+      link: https://store.digilentinc.com/
+      img_width: 100
+      level: 1
+    -
       image: /images/partners/norton-rose-fulbright-logo.svg
       title: Norton Rose Fulbright
       link: https://www.nortonrosefulbright.com/en-ca
