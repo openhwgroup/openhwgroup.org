@@ -10,41 +10,45 @@
 
   SPDX-License-Identifier: EPL-2.0
 -->
-
-<div class="row testimonial-container">
-  {{ range first 3 .Site.Data.testimonials.items }}
-  <div class="col-sm-8 margin-bottom-20 testimonial-item">
-    <div class="bg-primary padding-20 match-height-item">
-    <div class="testimonial-logo">
-      <img width="{{ .logo_width }}" class="img-responsive" src="{{ .logo }}">
-    </div>
-    <p class="title"><strong>{{ .title }}</strong></p>
-    <p class="content">"{{ .text }}"</p>
-    </div>
-  </div>
-  {{ end }}
-</div>
-{{if gt (len .Site.Data.testimonials.items) 3}}
-  <div class="collapse" id="featured-more-items" aria-expanded="true" style="">
-    <div class="row testimonial-container">
-    {{ range after 3 .Site.Data.testimonials.items }}
-      <div class="col-sm-8 margin-bottom-20 testimonial-item">
-        <div class="bg-primary padding-20 match-height-item">
-        <div class="testimonial-logo">
-          <img width="{{ .logo_width }}" class="img-responsive" src="{{ .logo }}">
+<div id="testimonials" class="row featured-section featured-testimonials text-center padding-top-30 padding-bottom-40">
+  <div class="container">
+    <h2 class="header-underline">Testimonials</h2>
+      <div class="row testimonial-container">
+        {{ range first 3 .Site.Data.testimonials.items }}
+        <div class="col-sm-8 margin-bottom-20 testimonial-item">
+          <div class="bg-primary padding-20 match-height-item">
+          <div class="testimonial-logo">
+            <img width="{{ .logo_width }}" class="img-responsive" src="{{ .logo }}">
+          </div>
+          <p class="title"><strong>{{ .title }}</strong></p>
+          <p class="content">"{{ .text }}"</p>
+          </div>
         </div>
-        <p class="title"><strong>{{ .title }}</strong></p>
-        <p class="content">"{{ .text }}"</p>
-        </div>
+        {{ end }}
       </div>
-    {{ end }}
-    </div>
+      {{if gt (len .Site.Data.testimonials.items) 3}}
+        <div class="collapse" id="featured-more-items" aria-expanded="true" style="">
+          <div class="row testimonial-container">
+          {{ range after 3 .Site.Data.testimonials.items }}
+            <div class="col-sm-8 margin-bottom-20 testimonial-item">
+              <div class="bg-primary padding-20 match-height-item">
+              <div class="testimonial-logo">
+                <img width="{{ .logo_width }}" class="img-responsive" src="{{ .logo }}">
+              </div>
+              <p class="title"><strong>{{ .title }}</strong></p>
+              <p class="content">"{{ .text }}"</p>
+              </div>
+            </div>
+          {{ end }}
+          </div>
+        </div>
+      {{ end }}
+      {{ if gt (len .Site.Data.testimonials.items) 3 }}
+        <hr>
+        <ul class="text-center margin-top-15 list-inline">
+          <li><a data-toggle-text="Close" role="button" data-toggle="collapse" href="#featured-more-items" aria-expanded="true" aria-controls="featured-more-items" class="btn btn-primary toggle-text">View More</a></li>
+        </ul>
+      {{ end }}
   </div>
-{{ end }}
-{{ if gt (len .Site.Data.testimonials.items) 3 }}
-  <hr>
-  <ul class="text-center margin-top-15 list-inline">
-    <li><a data-toggle-text="Close" role="button" data-toggle="collapse" href="#featured-more-items" aria-expanded="true" aria-controls="featured-more-items" class="btn btn-primary toggle-text">View More</a></li>
-  </ul>
-{{ end }}
+</div>
 
