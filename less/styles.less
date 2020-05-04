@@ -126,6 +126,7 @@ h2 {
   }
   .testimonial-item {
     margin-top:120px;
+    display: block;
     .testimonial-logo {
       background-color: #fff;
       border-radius: 150px;
@@ -137,6 +138,7 @@ h2 {
       position: relative;
       img {
         margin:0 auto;
+        border-radius: 0;
       }
     }
     .title {
@@ -144,6 +146,12 @@ h2 {
     }
     .content {
       font-size:14px;
+    }
+    .content:before {
+      content: "";
+    }
+    .content:after {
+      content: "";
     }
   }
 }
