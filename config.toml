@@ -47,8 +47,8 @@ themesDir = "node_modules/"
   hrefTargetBlank = true
   
 [[menu.main]]
-    name = "CORE-V Family"
-    url = "/#core-v-family"
+    name = "About Us"
+    url = "/about-us"
     weight = 1
     
 [[menu.main]]
@@ -62,8 +62,8 @@ themesDir = "node_modules/"
     weight = 3
     
 [[menu.main]]
-    name = "About Us"
-    url = "/#about-us"
+    name = "Working Groups"
+    url = "/working-groups"
     weight = 3
     
 [[menu.main]]
