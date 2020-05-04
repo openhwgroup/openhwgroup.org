@@ -1,0 +1,86 @@
+groups:
+  - name: Technical Working Group
+    description: |
+      The Technical Working Group has the mandate to drive the overall technical direction, development roadmap and project execution for all technology related activities within the OpenHW Group.  In doing so, the following sub Task Groups have been established.
+    chairs:
+      - name: Sebastian Ahmed
+        company: Silicon Laboratories
+        position: Co-chair
+        linkedin: https://www.linkedin.com/in/sebastianahmed/
+      - name: Jerry Zeng
+        company: NXP Semiconductors
+        position: Co-chair
+        linkedin: https://www.linkedin.com/in/jerry-zeng-2b2b0b3
+    task_groups:
+      - name: Cores Task Group
+        description: |
+          <p>The Cores Task Group has the mandate to develop feature and functionality roadmap and the open-source IP for the cores within the OpenHW Group such as the CORE-V Family of open-source RISC-V processors.  Existing <a href="https://www.openhwgroup.org/projects/">cores Task Group projects can be found here</a>.</p>
+        chairs:
+          - name: Arjan Bink
+            company: Silicon Laboratories
+            position: Chair
+            linkedin: https://www.linkedin.com/in/arjanbink/" class="btn btn-primary"><i class="fa fa-linkedin margin-right-10"></i>LinkedIn</a>
+          - name: Jérôme Quévremont
+            company: Thales Research & Technology
+            position: Vice Chair
+            linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-qu%C3%A9vremont-245335/
+      - name: Verification Task Group
+        description: |
+          <p>The Verification Task Group has the mandate to develop best in class verification test bench environments for the cores and IP blocks developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">Verification Task Group projects can be found here</a>.</p>
+        chairs:
+          - name: Jingliang (Leo) Wang
+            company: Futurewei Technologies, Inc.
+            position: Co-chair
+            linkedin: https://www.linkedin.com/in/jingliang-leo-wang-2016b88/
+          - name: Steve Richmond
+            company: Silicon Laboratories
+            position: Co-chair
+            linkedin: https://www.linkedin.com/in/steverichmond19/
+      - name: SW Task Group
+        description: |
+          <p>The SW Task Group has the mandate to define, develop and support SW tool chain, operating system ports and firmware for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">SW Task Group projects can be found here</a>.</p>
+        chairs:
+          - name: Jeremy Bennett
+            company: Embecosm
+            position: Chair
+            linkedin: https://www.linkedin.com/in/jeremypbennett/
+          - name: Yunhai Shang
+            company: Alibaba T-Head
+            position: Vice Chair
+            linkedin: http://www.linkedin.com/in/yunhai-shang/
+      - name: HW Task Group
+        description: |
+          <p>The HW Task Group has the mandate to define, develop and support SoC and FPGA based evaluation / development platforms for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">HW Task Group projects can be found here</a>.</p>
+        chairs:
+          - name: Hugh Pollitt-Smith
+            company: CMC Microsystems
+            position: Chair
+            linkedin: https://www.linkedin.com/in/hugh-pollitt-smith-460aba3/
+          - name: Open
+            position: Vice Chair
+  - name: Marketing Working Group 
+    description: |
+       The Marketing Working Group has the mandate to drive positioning, promotion, training, University research initiatives and overall membership growth for the OpenHW Group. The following sub Task Group has been established to manage OpenHW Group University research initiatives:
+    chairs:
+       - name: Kevin Dobie
+         company: CMC Microsystems
+         position: Co-chair
+         linkedin: https://www.linkedin.com/in/kdobie/
+       - name: Hansheng (Hans) Tan
+         company: Futurewei Technologies, Inc.
+         position: Co-chair
+         linkedin: https://www.linkedin.com/in/hanshengtan/
+    task_groups:
+      - name: University Outreach Task Group
+        description: |
+          <p>The University Outreach Task Group has the mandate to establish industry sponsored research projects and their respective funding (with government matching) in collaboration with leading universities throughout the world.</p>
+        chairs:
+          - name: Mel Chaar
+            company: Mitacs
+            position: Co-chair
+            linkedin: https://www.linkedin.com/in/melchaar
+          - name: Hugh Pollitt-Smith
+            company: CMC Microsystems
+            position: Co-chair
+            linkedin: https://www.linkedin.com/in/hugh-pollitt-smith-460aba3/
+          
