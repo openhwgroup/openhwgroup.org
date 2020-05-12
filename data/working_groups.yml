@@ -57,6 +57,8 @@ groups:
       - name: HW Task Group
         description: |
           <p>The HW Task Group has the mandate to define, develop and support SoC and FPGA based evaluation / development platforms for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">HW Task Group projects can be found here</a>.</p>
+        mailingList: OpenHW CORE-V HW TG Mailing List here
+        mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.core-v.hw
         chairs:
           - name: Hugh Pollitt-Smith
             company: CMC Microsystems
