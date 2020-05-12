@@ -29,6 +29,8 @@ groups:
             position: Vice Chair
             linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-qu%C3%A9vremont-245335/
       - name: Verification Task Group
+        mailingList: OpenHW CORE-V Verification Mailing List here
+        mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.core-v.verif
         description: |
           <p>The Verification Task Group has the mandate to develop best in class verification test bench environments for the cores and IP blocks developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">Verification Task Group projects can be found here</a>.</p>
         chairs:
