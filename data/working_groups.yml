@@ -15,6 +15,8 @@ groups:
         linkedin: https://www.linkedin.com/in/jerry-zeng-2b2b0b3
     task_groups:
       - name: Cores Task Group
+        mailingList: OpenHW CORE-V Cores Mailing List here
+        mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.core-v.cores
         description: |
           <p>The Cores Task Group has the mandate to develop feature and functionality roadmap and the open-source IP for the cores within the OpenHW Group such as the CORE-V Family of open-source RISC-V processors.  Existing <a href="https://www.openhwgroup.org/projects/">cores Task Group projects can be found here</a>.</p>
         chairs:
