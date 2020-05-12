@@ -43,6 +43,8 @@ groups:
       - name: SW Task Group
         description: |
           <p>The SW Task Group has the mandate to define, develop and support SW tool chain, operating system ports and firmware for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">SW Task Group projects can be found here</a>.</p>
+        mailingList: OpenHW CORE-V SW TG Mailing List here
+        mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.core-v.sw
         chairs:
           - name: Jeremy Bennett
             company: Embecosm
