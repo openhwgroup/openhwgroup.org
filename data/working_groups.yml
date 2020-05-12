@@ -1,5 +1,7 @@
 groups:
   - name: Technical Working Group
+    mailingList: OpenHW TWG Mailing List here
+    mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.twg
     description: |
       The Technical Working Group has the mandate to drive the overall technical direction, development roadmap and project execution for all technology related activities within the OpenHW Group.  In doing so, the following sub Task Groups have been established.
     chairs:

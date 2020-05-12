@@ -33,6 +33,11 @@
         </div>
         {{ end }}
       </div>
+      {{ if .mailingListAnchor }}
+      <div class="row text-center margin-top-20">
+        <p>You can join the <a href="{{ .mailingListAnchor }}">{{ .mailingList }}</a>.
+      </div>
+      {{ end }}
     </div>
     <h3>Task groups</h3>
     {{ range .task_groups }}
@@ -56,6 +61,11 @@
             </div>
             {{ end }}
           </div>
+          {{ if .mailingListAnchor }}
+          <div class="row text-center margin-top-20">
+            <p>You can join the <a href="{{ .mailingListAnchor }}">{{ .mailingList }}</a>.
+          </div>
+          {{ end }}
         </div>
     </div>
     {{ end }}
