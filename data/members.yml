@@ -2,6 +2,11 @@ types:
   - name: members
     items:
        -
+         image: /images/sponsors/ab-open-logo.svg
+         title: AB Open
+         link: https://abopen.com
+         img_width: 150
+       -
          image: /images/sponsors/alibaba-group-logo.png
          title: Alibaba Group
          link: https://www.alibabagroup.com/en/global/home
