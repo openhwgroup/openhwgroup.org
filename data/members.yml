@@ -44,7 +44,7 @@ types:
        -
          image: /images/sponsors/datum-logo.png
          title: Datum
-         link: '#members-partners'
+         link: http://www.datumtc.ca/
          img_width: 115
        -
          image: /images/sponsors/ecspec-logo.png
