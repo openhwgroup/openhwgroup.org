@@ -133,6 +133,11 @@ types:
          link: https://www.onespin.com/
          img_width: 100
        -
+         image: /images/sponsors/openuk-logo.png
+         title: OpenUK
+         link: https://openuk.uk/
+         img_width: 100
+       -
          image: /images/sponsors/opersys-logo.png
          title: Opersys
          link: https://www.opersys.com/
