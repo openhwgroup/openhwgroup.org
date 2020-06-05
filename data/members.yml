@@ -70,7 +70,7 @@ types:
          image: /images/sponsors/eth-zurich.png
          title: ETH zurich
          link: http://www.iis.ee.ethz.ch/
-         img_width: 100i
+         img_width: 100
        -
          image: /images/sponsors/ets-logo.png
          title: ETS
@@ -209,36 +209,6 @@ types:
          image: /images/partners/cadence.png
          title: Cadence
          link: https://www.cadence.com/
-         img_width: 120
-         level: 1
-       -
-         image: /images/partners/eclipse-foundation.svg
-         title: Eclipse Foundation
-         link: https://www.eclipse.org/
-         img_width: 120
-         level: 1
-       -
-         image: /images/partners/fossi-foundation.png
-         title: Fossi Foundation
-         link: https://fossi-foundation.org/
-         img_width: 80
-         level: 1
-       -
-         image: /images/sponsors/ibm-cloud.svg
-         title: IBM Cloud
-         link: https://www.ibm.com/cloud
-         img_width: 175
-         level: 1
-       -
-         image: /images/partners/publitek-logo.svg
-         title: Publitek
-         link: https://www.publitek.com/
-         img_width: 150
-         level: 1
-       -
-         image: /images/partners/risc.svg
-         title: Risc-V
-         link: https://riscv.org/
          img_width: 100
          level: 1
        -
@@ -248,16 +218,46 @@ types:
          img_width: 100
          level: 1
        -
-         image: /images/partners/norton-rose-fulbright-logo.svg
-         title: Norton Rose Fulbright
-         link: https://www.nortonrosefulbright.com/en-ca
-         img_width: 200
-         level: 2
+         image: /images/partners/eclipse-foundation.svg
+         title: Eclipse Foundation
+         link: https://www.eclipse.org/
+         img_width: 100
+         level: 1
+       -
+         image: /images/partners/fossi-foundation.png
+         title: Fossi Foundation
+         link: https://fossi-foundation.org/
+         img_width: 70
+         level: 1
+       -
+         image: /images/sponsors/ibm-cloud.svg
+         title: IBM Cloud
+         link: https://www.ibm.com/cloud
+         img_width: 150
+         level: 1
        -
          image: /images/sponsors/openuk-logo.png
          title: OpenUK
          link: https://openuk.uk/
+         img_width: 100
+         level: 1
+       -
+         image: /images/partners/publitek-logo.svg
+         title: Publitek
+         link: https://www.publitek.com/
          img_width: 120
+         level: 1
+       -
+         image: /images/partners/risc.svg
+         title: Risc-V
+         link: https://riscv.org/
+         img_width: 70
+         level: 1
+       -
+         image: /images/partners/norton-rose-fulbright-logo.svg
+         title: Norton Rose Fulbright
+         link: https://www.nortonrosefulbright.com/en-ca
+         img_width: 200
          level: 2
        -
          image: /images/partners/pwc-logo.svg
