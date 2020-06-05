@@ -57,6 +57,11 @@ types:
          link: https://www.ecspec.com/
          img_width: 100
        -
+         image: /images/sponsors/em-micro-logo.svg
+         title: EM Micro
+         link: https://www.emmicroelectronic.com/
+         img_width: 175
+       -
          image: /images/sponsors/embecosm-logo.png
          title: Embecosm
          link: https://www.embecosm.com/
