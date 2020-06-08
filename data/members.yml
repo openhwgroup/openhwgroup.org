@@ -82,6 +82,11 @@ types:
          link: '#members-partners'
          img_width: 120
        -
+         image: /images/sponsors/global-foundries-logo.png
+         title: Greenwaves Technologies
+         link: https://www.globalfoundries.com/
+         img_width: 175
+       -
          image: /images/sponsors/greenwaves.svg
          title: Greenwaves Technologies
          link: https://greenwaves-technologies.com/
