@@ -1,11 +1,26 @@
-<div class="row news-item padding-bottom-15">
+<div class="eclipsefdn-event-list-teaser">
 {{#events}}
-  <div class="col-sm-24">
-    <p class="margin-bottom-0">
-      <a class="fw-700" href="{{ registration }}">{{ title }}</a>
-    </p>
-    <p class="margin-bottom-0">{{ locationName }}</p>
-    <p>{{ date }} - {{ end-date }}</p>
+  <div class="eclipsefdn-event-list-teaser-content">
+    
+    {{#infoLink}}
+      <h3><a href="{{infoLink}}">{{ title }}</a></h3>
+    {{/infoLink}}
+
+    {{^infoLink}}
+      <h3>{{ title }}</h3>
+    {{/infoLink}}
+
+    {{#locationName}}
+      <p class="eclipsefdn-event-list-teaser-location"><span class="fw-700">Location:</span> {{ locationName }}</p>
+    {{/locationName}}
+
+    {{#date}}
+      <p class="eclipsefdn-event-list-teaser-date">{{ date }}{{#end-date}} - {{ end-date }}{{/end-date}}</p>
+    {{/date}}
+    
+    {{#registration}}
+      <p class="eclipsefdn-event-list-teaser-registation"><a href="{{registration}}" class="btn btn-primary btn-sm">Register</a></p>
+    {{/registration}}
   </div>
 {{/events}}
 </div>
