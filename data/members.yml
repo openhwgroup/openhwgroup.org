@@ -123,6 +123,11 @@ types:
          link: https://mitacs.ca/en
          img_width: 100
        -
+         image: /images/sponsors/mnt.svg
+         title: MNT
+         link: https://mntre.com/
+         img_width: 100
+       -
          image: /images/sponsors/nvidia-logo.png
          title: NVIDIA
          link: https://www.nvidia.com/en-us/
