@@ -8,7 +8,7 @@ OpenHW Group is a not-for-profit, global organization driven by its members and 
 
 ## Getting started
 
-Install dependencies, build assets and start a webserver:
+Install dependencies, build assets and start a web server:
 
 ```bash
 npm install && npm run dev && hugo server --disableFastRender --buildFuture
