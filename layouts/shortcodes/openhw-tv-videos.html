@@ -1,0 +1,41 @@
+<!-- 
+  Copyright (c) 2020 Eclipse Foundation, Inc.
+
+  This program and the accompanying materials are made available under the
+  terms of the Eclipse Public License v. 2.0 which is available at
+  http://www.eclipse.org/legal/epl-2.0.
+
+  Contributors:
+    Martin Lowe <martin.lowe@eclipse-foundation.org>
+
+  SPDX-License-Identifier: EPL-2.0
+-->
+{{ $videosLocation := .Get "videosSection" | default .Site.Params.openhw_tv_section | default "/resources/videos/_index.md" }}
+{{ $seasonsLocation := .Get "seasonsSection" | default .Site.Params.openhw_tv_seasons_location | default "/resources/videos/seasons/" }}
+{{ $videosSection := .Site.GetPage "section" $videosLocation }}
+{{ $displayArchiveButtons := .Get "displayArchive" | default "false" }}
+<div class="row">
+{{ $seasons := sort ($videosSection.Pages.GroupByParam "season") "Key" "desc"}}
+<!-- Defaults to the latest season (as int keys sort from largest to smallest by default), or 1 if there is only one season -->
+{{ $season := .Get "season" | default .Page.Params.season | default (index $seasons 0).Key | default 1 }}
+{{ range $seasons }}
+  {{ if eq .Key $season }}
+    {{ range (sort .Pages "Date" "desc") }}
+    <div class="openhw-tv-item col-xs-24 col-sm-12 margin-bottom-20" data-mh="openhw-tv-{{ $season }}">
+      <h3>{{ .Title }}</h3>
+      <p>{{ dateFormat "Jan 2, 2006" .Date }}</p>
+      {{ .Content }}
+    </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</div>
+{{ if and (eq $displayArchiveButtons "true") (gt (len $seasons) 1) }}
+<div>
+  {{ range $seasons }}
+    {{ if ne .Key $season }}
+    <a class="btn btn-primary" href="{{ $seasonsLocation }}season{{ .Key }}">View Season {{ .Key }}</a>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}
