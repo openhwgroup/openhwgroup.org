@@ -68,7 +68,7 @@ themesDir = "node_modules/"
     
 [[menu.main]]
     name = "OpenHW TV"
-    url = "/resources/videos/"
+    url = "/resources/openhwtv/"
     weight = 5
     
 [[menu.main]]
