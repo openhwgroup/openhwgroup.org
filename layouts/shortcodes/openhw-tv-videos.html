@@ -10,8 +10,8 @@
 
   SPDX-License-Identifier: EPL-2.0
 -->
-{{ $videosLocation := .Get "videosSection" | default .Site.Params.openhw_tv_section | default "/resources/videos/_index.md" }}
-{{ $seasonsLocation := .Get "seasonsSection" | default .Site.Params.openhw_tv_seasons_location | default "/resources/videos/seasons/" }}
+{{ $videosLocation := .Get "videosSection" | default .Site.Params.openhw_tv_section | default "/resources/openhwtv/_index.md" }}
+{{ $seasonsLocation := .Get "seasonsSection" | default .Site.Params.openhw_tv_seasons_location | default "/resources/openhwtv/seasons/" }}
 {{ $videosSection := .Site.GetPage "section" $videosLocation }}
 {{ $displayArchiveButtons := .Get "displayArchive" | default "false" }}
 <div class="row">
