@@ -9,7 +9,7 @@ hide_breadcrumb: true
 #description: ""
 tagline: "Proven processor IP"
 date: 2019-03-14T15:50:25-04:00
-links: [[href: "#about-us", text: "About Us"], [href: "https://mailchi.mp/77bbac3766fb/openhwgroup", text: "Join Our Mailing List"]]
+links: [[href: "#about-us", text: "About Us"], [href: "https://share.hsforms.com/1XdNvwOBNRTONOVdZjwVleg4o9yd", text: "Join Our Mailing List"]]
 container: "container-fluid"
 ---
 {{< core-v-family >}}
