@@ -27,6 +27,11 @@ types:
          link: https://www.axiomise.com/
          img_width: 150
        -
+         image: /images/sponsors/beagle-board-logo.png
+         title: Beagle Board
+         link: https://beagleboard.org/
+         img_width: 180
+       -
          image: /images/sponsors/bluespec-logo.png
          title: Bluespec
          link: https://bluespec.com/
