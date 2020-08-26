@@ -23,6 +23,7 @@
     {{ range (sort .Pages "Date" "desc") }}
     <div class="openhw-tv-item col-xs-24 col-sm-12 margin-bottom-20" data-mh="openhw-tv-{{ $season }}">
       <h3>{{ .Title }}</h3>
+      {{- with .Params.episode_title }}<h4>{{ . }}</h4> {{ end -}}
       <p>{{ dateFormat "Jan 2, 2006" .Date }}</p>
       {{ .Content }}
     </div>
