@@ -163,6 +163,11 @@ types:
          link: http://praesum.com/
          img_width: 120
        -
+         image: /images/sponsors/quicklogic-logo.png
+         title: QuickLogic
+         link: https://www.quicklogic.com
+         img_width: 165
+       -
          image: /images/sponsors/secure-thingz-logo.png
          title: Secure Thingz
          link: https://securethingz.com
