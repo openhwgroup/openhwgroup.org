@@ -47,13 +47,18 @@ items:
          </ul>
          <p>Davide holds Bachelor and Master degrees in Computer Engineering from Politecnico di Torino, Italy.</p>
        linkedin: https://www.linkedin.com/in/pasquale-davide-schiavone-96812758/
-     - name: Jim Parisien
-       position: Staff Member
-       bio: |
-         <p>Jim is the OpenHW Group Director of Engineering, HW & SW Task Groups.  Jim is an experienced engineer with 17+ years with System Architecture, Design, Prototyping, Test and Manufacture of digital hardware. With strong communication (written and verbal) and interpersonal skills, Jim has the ability to communicate to both technical and non-technical audiences and has managed cross functional Engineering teams, performed in various Project/Team lead roles. Jim holds a Bachelor of Science degree in Electrical Engineering from the University of Ottawa, Canada.</p>
-       linkedin: https://www.linkedin.com/in/jim-parisien-902b0b/
      - name: Mike Thompson
        position: Staff Member
        bio: |
          <p>Mike Thompson is the OpenHW Group Director of Engineering, Verification Task Group.  He is a senior IC Functional Verification engineering manager with more than 20 years experience.  Mike has led all aspects of the discipline with broad experience in simulation, emulation and prototyping plus management level experience of formal verification projects.  He has both hands-on and management level experience with multiple SV/UVM projects and has developed teams driving SV/UVM for constrained-random, coverage driven verification efforts. Michael has been involved in a dozen successful tape-outs including five 100M gate-scale devices based on proprietary RISC processors which were verified using a novel random instruction generator and coverage model implemented in SV/VMM.  Mike holds a Bachelor of Applied Science degree in Electrical and Electronics Engineering from the University of Regina, Canada.</p>
        linkedin: https://www.linkedin.com/in/michael-thompson-0a581a/
+     - name: Duncan Bees
+       position: Staff Member
+       bio: |
+         <p>Duncan Bees is Director, Technical Programs of the OpenHW Group and the Eclipse Foundation. He manages the open-source engineering process supporting industrial-quality design and verification of the IP curated by the OpenHW Group, as well as the SW tools, FPGA, SoC implementations, and board level designs that support this ecosystem. Duncan has previously held executive roles with the Home Gateway Initiative (HGI) and the Digital Living Network Alliance (DLNA) and has contributed to many worldwide standards and technology initiatives. He managed R&D and product research for telecom, wireless and semiconductor companies. Duncan holds a bachelor’s degree in Applied Science from the University of British Columbia, a master’s degree with Honours in Electrical Engineering from McGill University, and has completed extensive study in machine learning, software, and data analytics. He is a certified Project Management Professional and Certified Scrum Master.</p>
+       linkedin: https://www.linkedin.com/in/duncanbees/
+     - name: Florian Zaruba
+       position: Staff Member
+       bio: |
+         <p>Florian is the OpenHW Group Director of Engineering, HW & SW Task Groups and a PhD student at the Integrated Systems Laboratory of ETH Zurich. His research interests include exploring new directions in energy-efficient high-performance computing. He is also the principle architect of CVA6 (Ariane). His experience includes a strong background in physical design with more than eight ASICs designed, manufactured and tested. Florian holds a Bachelor of Science degree from TU Wien and a master’s degree from ETH Zurich. See the following link for further information. <a href="http://asic.ethz.ch/authors/Florian_Zaruba.html">http://asic.ethz.ch/authors/Florian_Zaruba.html</a></p>
+       linkedin: https://www.linkedin.com/in/florianzaruba/
