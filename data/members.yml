@@ -52,6 +52,11 @@ types:
          link: https://www.cmc.ca/
          img_width: 100
        -
+         image: /images/sponsors/codeplay-software-logo.svg
+         title: Codeplay Software
+         link: https://www.codeplay.com/
+         img_width: 150
+       -
          image: /images/sponsors/datum-logo.png
          title: Datum
          link: http://www.datumtc.ca/
