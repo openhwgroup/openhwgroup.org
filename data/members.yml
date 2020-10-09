@@ -227,6 +227,17 @@ types:
          title: VeriSilicon
          link: http://www.verisilicon.com/
          img_width: 100
+       -
+         image: /images/sponsors/alean-tec-logo-tagline.svg
+         title: Alean-Tec
+         link: https://www.alien-tec.com/
+         img_width: 150
+       -
+         image: /images/sponsors/rios-lab-logo.png
+         title: RIOS Lab
+         link: https://rioslab.org/
+         img_width: 150
+
   - name: partners
     levels: 2
     items:
