@@ -7,6 +7,10 @@ types:
          link: https://abopen.com
          img_width: 150
        -
+         image: /images/sponsors/alean-tec-logo-tagline.svg
+         title: Alean-Tec
+         img_width: 150
+       -
          image: /images/sponsors/alibaba-group-logo.png
          title: Alibaba Group
          link: https://www.alibabagroup.com/en/global/home
@@ -173,6 +177,11 @@ types:
          link: https://www.quicklogic.com
          img_width: 165
        -
+         image: /images/sponsors/rios-lab-logo.png
+         title: RIOS Lab
+         link: https://rioslab.org/
+         img_width: 150
+       -
          image: /images/sponsors/secure-thingz-logo.png
          title: Secure Thingz
          link: https://securethingz.com
@@ -227,16 +236,6 @@ types:
          title: VeriSilicon
          link: http://www.verisilicon.com/
          img_width: 100
-       -
-         image: /images/sponsors/alean-tec-logo-tagline.svg
-         title: Alean-Tec
-         img_width: 150
-       -
-         image: /images/sponsors/rios-lab-logo.png
-         title: RIOS Lab
-         link: https://rioslab.org/
-         img_width: 150
-
   - name: partners
     levels: 2
     items:
