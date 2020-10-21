@@ -7,6 +7,11 @@ types:
          link: https://abopen.com
          img_width: 150
        -
+         image: /images/sponsors/aldec-logo.png
+         title: Aldec Inc
+         link: https://www.aldec.com/en
+         img_width: 150
+       -
          image: /images/sponsors/alean-tec-logo-tagline.svg
          title: Alean-Tec
          link: https://alean-tec.com/
@@ -51,6 +56,11 @@ types:
          title: BTA Design Services
          link: https://www.btadesignservices.com/
          img_width: 135
+       -
+         image: /images/sponsors/circuit-sutra-logo.jpg
+         title: CircuitSutra Technologies
+         link: https://www.circuitsutra.com/
+         img_width: 150
        -
          image: /images/sponsors/cmc-logo.jpg
          title: CMC
