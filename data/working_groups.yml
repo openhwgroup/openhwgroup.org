@@ -70,7 +70,9 @@ groups:
             company: QuickLogic Corporation
             position: Vice Chair
             linkedin: https://www.linkedin.com/in/tim-saxe-aa281a4/
-  - name: Marketing Working Group 
+  - name: Marketing Working Group
+    mailingList: OpenHW MWG Mailing List here
+    mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.mwg
     description: |
        The Marketing Working Group has the mandate to drive positioning, promotion, training, University research initiatives and overall membership growth for the OpenHW Group. The following sub Task Group has been established to manage OpenHW Group University research initiatives:
     chairs:
