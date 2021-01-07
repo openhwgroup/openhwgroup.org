@@ -243,11 +243,6 @@ types:
          link: https://www.ece.utah.edu/
          img_width: 145
        -
-         image: /images/sponsors/verifai-ai.png
-         title: verifai.ai
-         link: http://www.verifai.ai/
-         img_width: 110
-       -
          image: /images/sponsors/verisilicon.png
          title: VeriSilicon
          link: http://www.verisilicon.com/
