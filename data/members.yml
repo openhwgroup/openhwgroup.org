@@ -208,11 +208,6 @@ types:
          link: https://www.silabs.com/
          img_width: 80
        -
-         image: /images/sponsors/symbiotic-eda.png
-         title: Symbiotic EDA
-         link: https://www.symbioticeda.com/
-         img_width: 195
-       -
          image: /images/sponsors/thales.svg
          title: Thales Group
          link: https://www.thalesgroup.com/en
