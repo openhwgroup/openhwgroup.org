@@ -242,6 +242,11 @@ types:
          title: VeriSilicon
          link: http://www.verisilicon.com/
          img_width: 100
+       -
+         image: /images/sponsors/intrinsix-logo.png
+         title: Intrinsix Corp
+         link: https://www.intrinsix.com/
+         img_width: 145
   - name: partners
     levels: 2
     items:
