@@ -72,6 +72,11 @@ types:
          link: https://www.codeplay.com/
          img_width: 150
        -
+         image: /images/sponsors/csem-logo-cmyk.png
+         title: CSEM
+         link: https://www.csem.ch/Home
+         img_width: 150
+       -
          image: /images/sponsors/datum-logo.png
          title: Datum
          link: http://www.datumtc.ca/
@@ -137,6 +142,11 @@ types:
          title: Imperas
          link: http://www.imperas.com/
          img_width: 100
+       -
+         image: /images/sponsors/intrinsix-logo.png
+         title: Intrinsix Corp
+         link: https://www.intrinsix.com/
+         img_width: 145
        -
          image: /images/sponsors/metrics-logo.svg
          title: Metrics
@@ -242,11 +252,7 @@ types:
          title: VeriSilicon
          link: http://www.verisilicon.com/
          img_width: 100
-       -
-         image: /images/sponsors/intrinsix-logo.png
-         title: Intrinsix Corp
-         link: https://www.intrinsix.com/
-         img_width: 145
+
   - name: partners
     levels: 2
     items:
