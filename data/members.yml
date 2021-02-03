@@ -218,6 +218,11 @@ types:
          link: https://www.silabs.com/
          img_width: 80
        -
+         image: /images/sponsors/logo-technion.png
+         title: Technion
+         link: https://www.technion.ac.il/en/technion-israel-institute-of-technology/
+         img_width: 120
+       -
          image: /images/sponsors/thales.svg
          title: Thales Group
          link: https://www.thalesgroup.com/en
