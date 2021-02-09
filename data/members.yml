@@ -193,11 +193,6 @@ types:
          link: https://www.polymtl.ca/en
          img_width: 150
        -
-         image: /images/sponsors/praesum.png
-         title: Praesum
-         link: http://praesum.com/
-         img_width: 120
-       -
          image: /images/sponsors/quicklogic-logo.png
          title: QuickLogic
          link: https://www.quicklogic.com
