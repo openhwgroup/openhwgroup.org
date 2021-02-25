@@ -57,7 +57,7 @@ types:
          link: https://www.btadesignservices.com/
          img_width: 135
        -
-         image: /images/sponsors/cea-logo.png
+         image: /images/sponsors/cea-logo.svg
          title: CEA List
          link: http://www-list.cea.fr/en/
          img_width: 100
@@ -257,6 +257,11 @@ types:
          title: VeriSilicon
          link: http://www.verisilicon.com/
          img_width: 100
+       -
+         image: /images/sponsors/yosyshq-logo.png
+         title: YosysHQ
+         link: https://www.yosyshq.com/
+         img_width: 150
 
   - name: partners
     levels: 2
