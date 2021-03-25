@@ -27,6 +27,11 @@ items:
        position: Board Member
        bio: |
          <p>Xiaoning Qi is the Vice President of Alibaba Group and he was CEO of C-Sky Systems which was acquired by Alibaba. Previously, he held senior management and technical positions in companies such as Intel, working on integrated circuit devices, micro-processor design and platform electrical design for semiconductor systems. Additionally, he was Chairman and President of the Chinese American Semiconductor Professional Association, USA. Currently, he is a member of Asia-Pacific Leadership Council, Global Semiconductor Alliance (GSA), and member of the CEO Council, GSA. Xiaoning Qi received his Ph.D. degree in Electrical Engineering from Stanford University.</p>
+     - name: John B. Davis
+       position: Board Member
+       linkedin: https://www.linkedin.com/in/johnddavis/
+       bio: |
+         <p>John is the director of LOCA, the Laboratory for Open Computer Architecture, and the PI for MEEP and eProcessor RISC-V projects at the Barcelona Supercomputing Center. He has published over 30-refereed conference and journal papers in Computer Architecture (ASIC and FPGA-based domain-specific accelerators, non-volatile memories and processor design), Distributed Systems, and Bioinformatics. He also holds over 35 issued or pending patents in the USA and multiple international filings. He has designed and built distributed storage systems in research and as products. John has led the entire product strategy, roadmap, and execution for a big data and analytics company. He has worked in research at Microsoft Research, where he also co-advised 4 PhDs, as well as large and small companies like Sun Microsystems, Pure Storage, and Bigstream. John holds a B.S. in Computer Science and Engineering from the (University of Washington) and an M.S. and Ph.D. in Electrical Engineering (Stanford University).</p>
   staff:
     title: OpenHW Group Executive Staff
     members:
