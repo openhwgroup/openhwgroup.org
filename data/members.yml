@@ -22,6 +22,11 @@ types:
          link: https://www.alibabagroup.com/en/global/home
          img_width: 150
        -
+         image: /images/sponsors/amiq-eda-logo.png
+         title: AMIQ EDA
+         link: https://www.dvteclipse.com/
+         img_width: 115
+       -
          image: /images/sponsors/arc-logo.png
          title: Arc
          link: https://arcglobal.fund/
