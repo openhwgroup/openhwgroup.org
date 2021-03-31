@@ -14,7 +14,7 @@
 {{ range .Site.Data.staff.items }}
   <div class="margin-bottom-40">
     <h2>{{ .title }}</h2>
-    {{ range .members }}
+    {{ range (sort (sort .members "name") "weight" "desc") }}
     {{ $anchor := urlize .anchor }}
     {{ if not $anchor }}
       {{ $anchor = urlize .name }}
