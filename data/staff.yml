@@ -34,6 +34,11 @@ items:
        linkedin: https://www.linkedin.com/in/johnddavis/
        bio: |
          <p>John is the director of LOCA, the Laboratory for Open Computer Architecture, and the PI for MEEP and eProcessor RISC-V projects at the Barcelona Supercomputing Center. He has published over 30-refereed conference and journal papers in Computer Architecture (ASIC and FPGA-based domain-specific accelerators, non-volatile memories and processor design), Distributed Systems, and Bioinformatics. He also holds over 35 issued or pending patents in the USA and multiple international filings. He has designed and built distributed storage systems in research and as products. John has led the entire product strategy, roadmap, and execution for a big data and analytics company. He has worked in research at Microsoft Research, where he also co-advised 4 PhDs, as well as large and small companies like Sun Microsystems, Pure Storage, and Bigstream. John holds a B.S. in Computer Science and Engineering from the (University of Washington) and an M.S. and Ph.D. in Electrical Engineering (Stanford University).</p>
+     - name: Fabien Clermidy
+       position: Board Member
+       linkedin: https://www.linkedin.com/in/fabien-clermidy-9452602/
+       bio: |
+         <p>Fabien Clermidy is currently heading the digital architecture and IC design department in the research technology division of CEA. In this position, he develops the hardware and software computing strategy for High-Performance Computing, Artificial Intelligence, Cybersecurity and Cyber-Physical-Systems in relation with system developments in automotive, factory of future, avionics or defense and new nanotechnologies such as 3D chip-stacking, embedded Non-Volatile-Memories, photonic and quantum computing. Fabien has been working in CEA since 2000, holding different positions as project leader and manager of different teams. He is also a senior expert with a Ph’D supervisor degree and has published more than 80 papers in the greatest conferences such as ISSCC or DAC.</p>
   staff:
     title: OpenHW Group Executive Staff
     members:
