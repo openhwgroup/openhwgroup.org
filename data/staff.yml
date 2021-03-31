@@ -4,11 +4,13 @@ items:
     members:
      - name: Rob Oshana
        position: Chairman of the Board
+       weight: 10
        bio: |
          <p>Rob Oshana is vice president of software engineering R&D for NXP Microcontrollers, where he leads open-source efforts across the company.  In addition to being Chairman of the Board for the OpenHW Group, Rob is also a member of the RISC-V International board of directors.  Rob is a recognized international speaker and a senior member of IEEE.  He is also an adjunct professor at Southern Methodist University and the University of Texas.</p>
        linkedin: https://www.linkedin.com/in/robert-oshana-58a1784/
      - name: Charlie Hauck
        position: Treasurer
+       weight: 5
        anchor: charlie-hauck
        bio: |
          <p>Charlie is CEO of Bluespec, Inc., a provider of high­-level tools and IP for ASIC and FPGA design. Before Bluespec, he was general manager of Faraday Technology USA, a fabless ASIC company. Charlie has over 25 years of experience in marketing and developing RISC processors at Lexra, LSI Logic, Kendall Square Research and Commodore. Charlie received a Bachelor of Science from Johns Hopkins University and a Master of Science from the Massachusetts Institute of Technology.</p>
@@ -37,6 +39,7 @@ items:
     members:
      - name: Rick O’Connor
        position: President & CEO
+       weight: 10
        bio: |
          <p>Rick O'Connor is Founder and serves as President & CEO of the OpenHW Group a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects.  Previously Rick was Executive Director of the RISC-V Foundation.  Founded by Rick in 2015 with the support of over 40 Founding Members, the RISC-V Foundation currently comprises more than 400 members building an open, collaborative community of software and hardware innovators powering processor innovation. With many years of Executive level management experience in semiconductor and systems companies, Rick possesses a unique combination of business and technical skills and was responsible for the development of dozens of products accounting for over $750 million in revenue.  Rick holds an Executive MBA degree from the University of Ottawa, Canada and is an honors graduate of the faculty of Electronics Engineering Technology at Algonquin College, Canada.</p>
        linkedin: https://www.linkedin.com/in/rickoco/
