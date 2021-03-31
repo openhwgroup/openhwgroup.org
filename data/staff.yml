@@ -39,6 +39,11 @@ items:
        linkedin: https://www.linkedin.com/in/fabien-clermidy-9452602/
        bio: |
          <p>Fabien Clermidy is currently heading the digital architecture and IC design department in the research technology division of CEA. In this position, he develops the hardware and software computing strategy for High-Performance Computing, Artificial Intelligence, Cybersecurity and Cyber-Physical-Systems in relation with system developments in automotive, factory of future, avionics or defense and new nanotechnologies such as 3D chip-stacking, embedded Non-Volatile-Memories, photonic and quantum computing. Fabien has been working in CEA since 2000, holding different positions as project leader and manager of different teams. He is also a senior expert with a Ph’D supervisor degree and has published more than 80 papers in the greatest conferences such as ISSCC or DAC.</p>
+     - name: Tim Whitfield
+       position: Board Member
+       linkedin: https://www.linkedin.com/in/tim-whitfield-3340581/
+       bio: |
+         <p>Tim is responsible for all aspects of engineering, from concept to delivery of Imagination’s innovative hardware and software products. Prior to this Tim spent nearly 20 years at Arm initially working in engineering before holding a number of senior leadership roles encompassing business strategy and engineering as well as 5 years living and working in Taiwan. With over 25 years of experience in the industry Tim has strong background in hardware system design and design methodology as well as the semiconductor business and ecosystem.</p>
   staff:
     title: OpenHW Group Executive Staff
     members:
