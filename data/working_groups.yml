@@ -34,10 +34,10 @@ groups:
         description: |
           <p>The Verification Task Group has the mandate to develop best in class verification test bench environments for the cores and IP blocks developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">Verification Task Group projects can be found here</a>.</p>
         chairs:
-          - name: Jingliang (Leo) Wang
+          - name: Robert Chu
             company: Futurewei Technologies, Inc.
             position: Co-chair
-            linkedin: https://www.linkedin.com/in/jingliang-leo-wang-2016b88/
+            linkedin: https://www.linkedin.com/in/robertchu/
           - name: Steve Richmond
             company: Silicon Laboratories
             position: Co-chair
