@@ -258,6 +258,11 @@ types:
          link: http://carg.site.uottawa.ca/index.html
          img_width: 125
        -
+         image: /images/sponsors/university-of-saskatchewan.png
+         title: University of Saskatchewan
+         link: https://www.usask.ca/
+         img_width: 100
+       -
          image: /images/sponsors/u-of-t-logo.jpg
          title: University of Toronto
          link: https://utoronto.ca
