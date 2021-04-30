@@ -63,8 +63,8 @@ types:
          img_width: 135
        -
          image: /images/sponsors/cea-logo.svg
-         title: CEA List
-         link: http://www-list.cea.fr/en/
+         title: CEA
+         link: https://www.cea-tech.fr/cea-tech/english/Pages/home-uk.aspx
          img_width: 100
        -
          image: /images/sponsors/circuit-sutra-logo.jpg
