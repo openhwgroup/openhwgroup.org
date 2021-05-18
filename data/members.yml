@@ -238,11 +238,6 @@ types:
          link: https://www.thalesgroup.com/en
          img_width: 120
        -
-         image: /images/sponsors/ultrasoc-logo.png
-         title: UltraSoC
-         link: https://www.ultrasoc.com/
-         img_width: 100
-       -
          image: /images/sponsors/university-of-bologna-logo.png
          title: University of Bologna
          link: https://www.unibo.it/en
