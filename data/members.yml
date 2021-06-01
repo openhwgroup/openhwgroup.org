@@ -53,7 +53,7 @@ types:
          img_width: 120
        -
          image: /images/sponsors/bsc-logo.png
-         title: Barcelona Supercomupting Center
+         title: Barcelona Supercomputing Center
          link: https://www.bsc.es/
          img_width: 200
        -
