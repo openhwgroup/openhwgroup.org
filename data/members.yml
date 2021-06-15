@@ -243,6 +243,11 @@ types:
          link: https://www.unibo.it/en
          img_width: 175
        -
+         image: /images/sponsors/ucsb-logo.png
+         title: University of California, Santa Barbara
+         link: https://www.ucsb.edu/
+         img_width: 175
+       -
          image: /images/sponsors/university-of-ottawa.png
          title: University of Ottawa
          link: http://carg.site.uottawa.ca/index.html
