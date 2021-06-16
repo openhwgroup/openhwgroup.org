@@ -19,7 +19,11 @@
     <div class="container margin-top-30 margin-bottom-30">
       <div class="row text-center">
         {{ range .chairs }}
+        {{if eq .name "Jérôme Quevremont"}}
+        <div class="col-xs-24 col-sm-24 match-height-item-row">
+        {{else}}
         <div class="col-xs-24 col-sm-12 match-height-item-row">
+        {{end}}
           <p>{{ .name }}</p>
           <p><strong>{{ .position }}</strong></p>
           <p><em>{{ .company }}</em></p>

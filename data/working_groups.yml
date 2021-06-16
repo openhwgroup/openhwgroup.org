@@ -5,14 +5,10 @@ groups:
     description: |
       The Technical Working Group has the mandate to drive the overall technical direction, development roadmap and project execution for all technology related activities within the OpenHW Group.  In doing so, the following sub Task Groups have been established.
     chairs:
-      - name: Sebastian Ahmed
-        company: Silicon Laboratories
-        position: Co-chair
-        linkedin: https://www.linkedin.com/in/sebastianahmed/
-      - name: Jerry Zeng
-        company: NXP Semiconductors
-        position: Co-chair
-        linkedin: https://www.linkedin.com/in/jerry-zeng-2b2b0b3
+      - name: Jérôme Quevremont
+        company: Thales Group
+        position: Chair
+        linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-qu%C3%A9vremont-245335/?originalSubdomain=fr
     task_groups:
       - name: Cores Task Group
         mailingList: OpenHW CORE-V Cores Mailing List here
