@@ -288,6 +288,12 @@ types:
          img_width: 100
          level: 1
        -
+         image: /images/partners/caspa-logo.jpeg
+         title: Chinese American Semiconductor Professional Association
+         link: http://www.caspa.com/
+         img_width: 120
+         level: 1
+       -
          image: /images/partners/digilent.png
          title: Digilent
          link: https://store.digilentinc.com/
