@@ -18,8 +18,9 @@
     <p>{{ .description }}</p>
     <div class="container margin-top-30 margin-bottom-30">
       <div class="row text-center">
+        {{ $chairs := .chairs }}
         {{ range .chairs }}
-        {{if eq .name "Jérôme Quevremont"}}
+        {{if eq (len $chairs) 1}}
         <div class="col-xs-24 col-sm-24 match-height-item-row">
         {{else}}
         <div class="col-xs-24 col-sm-12 match-height-item-row">
