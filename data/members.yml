@@ -168,6 +168,11 @@ types:
          link: https://metrics.ca/
          img_width: 120
        -
+         image: /images/sponsors/mcmaster-university-logo.png
+         title: McMaster University
+         link: https://www.mcmaster.ca/
+         img_width: 120
+       -
          image: /images/sponsors/mitacs-logo.png
          title: Mitacs
          link: https://mitacs.ca/en
