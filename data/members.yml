@@ -24,7 +24,7 @@ types:
        -
          image: /images/sponsors/amazon-logo.png
          title: Amazon
-         link: https://www.amazon.com/
+         link: https://aws.amazon.com/
          img_width: 90
        -
          image: /images/sponsors/amiq-eda-logo.png
