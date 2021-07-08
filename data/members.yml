@@ -312,6 +312,12 @@ types:
     levels: 2
     items:
        -
+         image: /images/sponsors/amazon-logo.png
+         title: Amazon
+         link: https://aws.amazon.com/
+         img_width: 90
+         level: 1
+       -
          image: /images/partners/cadence.png
          title: Cadence
          link: https://www.cadence.com/
@@ -340,12 +346,6 @@ types:
          title: Fossi Foundation
          link: https://fossi-foundation.org/
          img_width: 70
-         level: 1
-       -
-         image: /images/sponsors/ibm-cloud.svg
-         title: IBM Cloud
-         link: https://www.ibm.com/cloud
-         img_width: 150
          level: 1
        -
          image: /images/sponsors/openuk-logo.png
