@@ -278,6 +278,11 @@ types:
          link: https://www.usask.ca/
          img_width: 100
        -
+         image: /images/sponsors/university-of-southampton-logo.png
+         title: University of Southampton
+         link: https://www.southampton.ac.uk/
+         img_width: 160
+       -
          image: /images/sponsors/u-of-t-logo.jpg
          title: University of Toronto
          link: https://utoronto.ca
