@@ -173,6 +173,11 @@ types:
          link: https://www.intrinsix.com/
          img_width: 145
        -
+         image: /images/sponsors/iscas-logo.png
+         title: ISCAS
+         link: http://english.is.cas.cn/
+         img_width: 145
+       -
          image: /images/sponsors/metrics-logo.svg
          title: Metrics
          link: https://metrics.ca/
@@ -186,11 +191,6 @@ types:
          image: /images/sponsors/mitacs-logo.png
          title: Mitacs
          link: https://mitacs.ca/en
-         img_width: 100
-       -
-         image: /images/sponsors/mnt.svg
-         title: MNT
-         link: https://mntre.com/
          img_width: 100
        -
          image: /images/sponsors/nec-logo.svg
@@ -298,6 +298,11 @@ types:
          link: http://www.verisilicon.com/
          img_width: 100
        -
+         image: /images/sponsors/wavious-logo.png
+         title: Wavious
+         link: https://wavious.com/
+         img_width: 120
+       -
          image: /images/sponsors/yosyshq-logo.png
          title: YosysHQ
          link: https://www.yosyshq.com/
@@ -337,22 +342,10 @@ types:
          img_width: 70
          level: 1
        -
-         image: /images/sponsors/ibm-cloud.svg
-         title: IBM Cloud
-         link: https://www.ibm.com/cloud
-         img_width: 150
-         level: 1
-       -
          image: /images/sponsors/openuk-logo.png
          title: OpenUK
          link: https://openuk.uk/
          img_width: 100
-         level: 1
-       -
-         image: /images/partners/publitek-logo.svg
-         title: Publitek
-         link: https://www.publitek.com/
-         img_width: 120
          level: 1
        -
          image: /images/partners/risc.svg
@@ -367,10 +360,10 @@ types:
          img_width: 200
          level: 2
        -
-         image: /images/partners/pwc-logo.svg
-         title: PWC
-         link: https://www.pwc.com/
-         img_width: 90
+         image: /images/partners/deloitte-logo.svg
+         title: Deloitte
+         link: https://www2.deloitte.com/ca/en.html
+         img_width: 140
          level: 2
        -
          image: /images/partners/rbc-logo-shield.svg
