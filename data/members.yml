@@ -329,6 +329,12 @@ types:
          img_width: 100
          level: 1
        -
+         image: /images/partners/cayenne-global-logo.jpeg
+         title: Cayenne Global, LLC
+         link: https://cayennecom.com/
+         img_width: 120
+         level: 1
+       -
          image: /images/partners/caspa-logo.jpeg
          title: Chinese American Semiconductor Professional Association
          link: http://www.caspa.com/
@@ -365,16 +371,16 @@ types:
          img_width: 70
          level: 1
        -
-         image: /images/partners/norton-rose-fulbright-logo.svg
-         title: Norton Rose Fulbright
-         link: https://www.nortonrosefulbright.com/en-ca
-         img_width: 200
-         level: 2
-       -
          image: /images/partners/deloitte-logo.svg
          title: Deloitte
          link: https://www2.deloitte.com/ca/en.html
          img_width: 140
+         level: 2
+       -
+         image: /images/partners/norton-rose-fulbright-logo.svg
+         title: Norton Rose Fulbright
+         link: https://www.nortonrosefulbright.com/en-ca
+         img_width: 200
          level: 2
        -
          image: /images/partners/rbc-logo-shield.svg
