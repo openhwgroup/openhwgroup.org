@@ -2,53 +2,59 @@ items:
   board:
     title: OpenHW Group Board of Directors
     members:
-     - name: Rob Oshana
+     - name: Xiaoning Qi
        position: Chairman of the Board
        weight: 10
        bio: |
-         <p>Rob Oshana is vice president of software engineering R&D for NXP Microcontrollers, where he leads open-source efforts across the company.  In addition to being Chairman of the Board for the OpenHW Group, Rob is also a member of the RISC-V International board of directors.  Rob is a recognized international speaker and a senior member of IEEE.  He is also an adjunct professor at Southern Methodist University and the University of Texas.</p>
-       linkedin: https://www.linkedin.com/in/robert-oshana-58a1784/
+         <p>Xiaoning Qi is the Vice President of Alibaba Group and he was CEO of C-Sky Systems which was acquired by Alibaba. Previously, he held senior management and technical positions in companies such as Intel, working on integrated circuit devices, micro-processor design and platform electrical design for semiconductor systems. Additionally, he was Chairman and President of the Chinese American Semiconductor Professional Association, USA. Currently, he is a member of Asia-Pacific Leadership Council, Global Semiconductor Alliance (GSA), and member of the CEO Council, GSA. Xiaoning Qi received his Ph.D. degree in Electrical Engineering from Stanford University.</p>
+     - name: John B. Davis
+       position: Board Member
+       weight: 9
+       linkedin: https://www.linkedin.com/in/johnddavis/
+       bio: |
+         <p>John is the director of LOCA, the Laboratory for Open Computer Architecture, and the PI for MEEP and eProcessor RISC-V projects at the Barcelona Supercomputing Center. He has published over 30-refereed conference and journal papers in Computer Architecture (ASIC and FPGA-based domain-specific accelerators, non-volatile memories and processor design), Distributed Systems, and Bioinformatics. He also holds over 35 issued or pending patents in the USA and multiple international filings. He has designed and built distributed storage systems in research and as products. John has led the entire product strategy, roadmap, and execution for a big data and analytics company. He has worked in research at Microsoft Research, where he also co-advised 4 PhDs, as well as large and small companies like Sun Microsystems, Pure Storage, and Bigstream. John holds a B.S. in Computer Science and Engineering from the (University of Washington) and an M.S. and Ph.D. in Electrical Engineering (Stanford University).</p>
      - name: Charlie Hauck
        position: Treasurer
-       weight: 5
+       weight: 8
        anchor: charlie-hauck
        bio: |
          <p>Charlie is CEO of Bluespec, Inc., a provider of high­-level tools and IP for ASIC and FPGA design. Before Bluespec, he was general manager of Faraday Technology USA, a fabless ASIC company. Charlie has over 25 years of experience in marketing and developing RISC processors at Lexra, LSI Logic, Kendall Square Research and Commodore. Charlie received a Bachelor of Science from Johns Hopkins University and a Master of Science from the Massachusetts Institute of Technology.</p>
        linkedin: https://www.linkedin.com/in/charlie-hauck-5030124/
+     - name: Fabien Clermidy
+       position: Board Member
+       weight: 7
+       linkedin: https://www.linkedin.com/in/fabien-clermidy-9452602/
+       bio: |
+         <p>Fabien Clermidy is currently heading the digital architecture and IC design department in the research technology division of CEA. In this position, he develops the hardware and software computing strategy for High-Performance Computing, Artificial Intelligence, Cybersecurity and Cyber-Physical-Systems in relation with system developments in automotive, factory of future, avionics or defense and new nanotechnologies such as 3D chip-stacking, embedded Non-Volatile-Memories, photonic and quantum computing. Fabien has been working in CEA since 2000, holding different positions as project leader and manager of different teams. He is also a senior expert with a Ph’D supervisor degree and has published more than 80 papers in the greatest conferences such as ISSCC or DAC.</p>
+     - name: Liang Peng
+       position: Board Member
+       weight: 6
+       linkedin: https://www.linkedin.com/in/liang-peng-7635943/
+       bio: |
+         <p>Liang Peng is Vice President, head of IC-Lab and head of HMS Ecosystem Development in Futurewei Technologies. In this role, Liang leads R&D, ecosystem development in IC design, and HMS ecosystem development. He has a professional career in the semiconductor industry for 20+ years in many Silicon Valley companies including Nvidia, Intel, Rambus. He has played leading roles in technology and product development as well as strategy planning and partnership from mobile to cloud at chip and system level on GPU, CPU, video processor, memory and SOC etc. His early pioneer work and invention at Nvidia on pixel shader architecture is an industry milestone for GPU, setting the foundation for programmable shading, massive parallel computing as well as convolutional neural network for deep learning with GPU. He is also advisor and former Chairman and President of CASPA (2012-13). Liang has a B.S. in Astrophysics from Peking University, and a Ph.D. in Electrical Engineering from Cornell University.</p>
+     - name: Tim Whitfield
+       position: Board Member
+       weight: 5
+       linkedin: https://www.linkedin.com/in/tim-whitfield-3340581/
+       bio: |
+         <p>Tim is responsible for all aspects of engineering, from concept to delivery of Imagination’s innovative hardware and software products. Prior to this Tim spent nearly 20 years at Arm initially working in engineering before holding a number of senior leadership roles encompassing business strategy and engineering as well as 5 years living and working in Taiwan. With over 25 years of experience in the industry Tim has strong background in hardware system design and design methodology as well as the semiconductor business and ecosystem.</p>
+     - name: Wayne Dai
+       position: Board Member
+       weight: 4
+       bio: |
+         <p>Dr. Wayne Wei-Ming Dai founded VeriSilicon in August 2001 and has served as the chairman of the board of directors, President and Chief Executive Officer since then. Prior to VeriSilicon, Dr. Dai was the Co-Chairman and Chief Technology Officer of Celestry Technologies, Inc., an EDA company, which was acquired by Cadence Design Systems in 2002. Prior to that, he was the founder, chairman of the board of directors, and Chief Executive Officer of Ultima Interconnect Technology, Inc., one of the predecessor companies to Celestry.</p>
+       linkedin: https://www.linkedin.com/in/wayne-dai-34ba3a30/
+     - name: Daniel Cooley
+       position: Board Member
+       weight: 3
+       bio: |
+         <p>Daniel Cooley serves as Silicon Labs’ Chief Technology Officer, where he is responsible for the company’s overall research and development strategy and execution. Cooley is a respected IoT industry visionary and has been instrumental in building the unmatched breadth and depth of the company’s wireless connectivity portfolio. Previously, Daniel served as Senior Vice President and Chief Strategy Officer, where he led Silicon Labs’ overall strategy, corporate development, M&A, emerging markets, and security. Prior to that, Daniel led Silicon Labs’ IoT business as Senior Vice President and General Manager. Since 2005, Cooley has served in a variety of engineering and business leadership positions at Silicon Labs in the US, Asia and Europe. He has an M.S. in Electrical Engineering from Stanford University and a B.S. in Electrical Engineering from The University of Texas at Austin and holds four patents in radio and low-power technology. In addition to the OpenHW Group, Daniel also currently serves on the board of directors for the Thinkery, Texas 4000, and the Austin Symphony Orchestra.</p>
+       linkedin: https://www.linkedin.com/in/djcooley/
      - name: Alessandro Piovaccari
        position: Board Member
        bio: |
          <p>As Silicon Labs’ Chief Technology Officer, Alessandro Piovaccari is responsible for the company’s product and technology research and development. Alessandro joined Silicon Labs in 2003 to design the company’s single-chip FM radio products, which have surpassed 1.5 billion device shipments. He co-architected Silicon Labs’ single-chip TV tuner IC, used by nine of the world’s top ten TV makers, with more than 70 percent market share and 1 billion unit shipped.
        linkedin: https://www.linkedin.com/in/robert-oshana-58a1784/
-     - name: Wayne Dai
-       position: Board Member
-       bio: |
-         <p>Dr. Wayne Wei-Ming Dai founded VeriSilicon in August 2001 and has served as the chairman of the board of directors, President and Chief Executive Officer since then. Prior to VeriSilicon, Dr. Dai was the Co-Chairman and Chief Technology Officer of Celestry Technologies, Inc., an EDA company, which was acquired by Cadence Design Systems in 2002. Prior to that, he was the founder, chairman of the board of directors, and Chief Executive Officer of Ultima Interconnect Technology, Inc., one of the predecessor companies to Celestry.</p>
-       linkedin: https://www.linkedin.com/in/wayne-dai-34ba3a30/
-     - name: Xiaoning Qi
-       position: Board Member
-       bio: |
-         <p>Xiaoning Qi is the Vice President of Alibaba Group and he was CEO of C-Sky Systems which was acquired by Alibaba. Previously, he held senior management and technical positions in companies such as Intel, working on integrated circuit devices, micro-processor design and platform electrical design for semiconductor systems. Additionally, he was Chairman and President of the Chinese American Semiconductor Professional Association, USA. Currently, he is a member of Asia-Pacific Leadership Council, Global Semiconductor Alliance (GSA), and member of the CEO Council, GSA. Xiaoning Qi received his Ph.D. degree in Electrical Engineering from Stanford University.</p>
-     - name: John B. Davis
-       position: Board Member
-       linkedin: https://www.linkedin.com/in/johnddavis/
-       bio: |
-         <p>John is the director of LOCA, the Laboratory for Open Computer Architecture, and the PI for MEEP and eProcessor RISC-V projects at the Barcelona Supercomputing Center. He has published over 30-refereed conference and journal papers in Computer Architecture (ASIC and FPGA-based domain-specific accelerators, non-volatile memories and processor design), Distributed Systems, and Bioinformatics. He also holds over 35 issued or pending patents in the USA and multiple international filings. He has designed and built distributed storage systems in research and as products. John has led the entire product strategy, roadmap, and execution for a big data and analytics company. He has worked in research at Microsoft Research, where he also co-advised 4 PhDs, as well as large and small companies like Sun Microsystems, Pure Storage, and Bigstream. John holds a B.S. in Computer Science and Engineering from the (University of Washington) and an M.S. and Ph.D. in Electrical Engineering (Stanford University).</p>
-     - name: Fabien Clermidy
-       position: Board Member
-       linkedin: https://www.linkedin.com/in/fabien-clermidy-9452602/
-       bio: |
-         <p>Fabien Clermidy is currently heading the digital architecture and IC design department in the research technology division of CEA. In this position, he develops the hardware and software computing strategy for High-Performance Computing, Artificial Intelligence, Cybersecurity and Cyber-Physical-Systems in relation with system developments in automotive, factory of future, avionics or defense and new nanotechnologies such as 3D chip-stacking, embedded Non-Volatile-Memories, photonic and quantum computing. Fabien has been working in CEA since 2000, holding different positions as project leader and manager of different teams. He is also a senior expert with a Ph’D supervisor degree and has published more than 80 papers in the greatest conferences such as ISSCC or DAC.</p>
-     - name: Tim Whitfield
-       position: Board Member
-       linkedin: https://www.linkedin.com/in/tim-whitfield-3340581/
-       bio: |
-         <p>Tim is responsible for all aspects of engineering, from concept to delivery of Imagination’s innovative hardware and software products. Prior to this Tim spent nearly 20 years at Arm initially working in engineering before holding a number of senior leadership roles encompassing business strategy and engineering as well as 5 years living and working in Taiwan. With over 25 years of experience in the industry Tim has strong background in hardware system design and design methodology as well as the semiconductor business and ecosystem.</p>
-     - name: Liang Peng
-       position: Board Member
-       linkedin: https://www.linkedin.com/in/liang-peng-7635943/
-       bio: |
-         <p>Liang Peng is Vice President, head of IC-Lab and head of HMS Ecosystem Development in Futurewei Technologies. In this role, Liang leads R&D, ecosystem development in IC design, and HMS ecosystem development. He has a professional career in the semiconductor industry for 20+ years in many Silicon Valley companies including Nvidia, Intel, Rambus. He has played leading roles in technology and product development as well as strategy planning and partnership from mobile to cloud at chip and system level on GPU, CPU, video processor, memory and SOC etc. His early pioneer work and invention at Nvidia on pixel shader architecture is an industry milestone for GPU, setting the foundation for programmable shading, massive parallel computing as well as convolutional neural network for deep learning with GPU. He is also advisor and former Chairman and President of CASPA (2012-13). Liang has a B.S. in Astrophysics from Peking University, and a Ph.D. in Electrical Engineering from Cornell University.</p>
   staff:
     title: OpenHW Group Executive Staff
     members:
@@ -85,3 +91,8 @@ items:
        bio: |
          <p>Florian is the OpenHW Group Director of Engineering, HW & SW Task Groups and a PhD student at the Integrated Systems Laboratory of ETH Zurich. His research interests include exploring new directions in energy-efficient high-performance computing. He is also the principle architect of CVA6 (Ariane). His experience includes a strong background in physical design with more than eight ASICs designed, manufactured and tested. Florian holds a Bachelor of Science degree from TU Wien and a master’s degree from ETH Zurich. See the following link for further information. <a href="http://asic.ethz.ch/authors/Florian_Zaruba.html">http://asic.ethz.ch/authors/Florian_Zaruba.html</a></p>
        linkedin: https://www.linkedin.com/in/florianzaruba/
+     - name: Michelle Clancy
+       position: Staff Member
+       weight: -1
+       bio: |
+         <p>Michelle is the Director of Marketing for the OpenHW Group. She manages the marketing programs for the OpenHW Group and its members.  She brings more than 20 years of marketing experience in the emerging technology fields such as artificial intelligence (AI), electronic design automation (EDA), embedded systems, IoT, IP, and semiconductor industry. She is instrumental in developing and implementing integrated communication and PR programs, while engaging with key stakeholders and collaborating with senior management to achieve goals.  Michelle has a proven track record in managing events and trade shows with a strong emphasis on organization, planning, and creativity.</p>
