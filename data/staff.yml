@@ -50,11 +50,6 @@ items:
        bio: |
          <p>Daniel Cooley serves as Silicon Labs’ Chief Technology Officer, where he is responsible for the company’s overall research and development strategy and execution. Cooley is a respected IoT industry visionary and has been instrumental in building the unmatched breadth and depth of the company’s wireless connectivity portfolio. Previously, Daniel served as Senior Vice President and Chief Strategy Officer, where he led Silicon Labs’ overall strategy, corporate development, M&A, emerging markets, and security. Prior to that, Daniel led Silicon Labs’ IoT business as Senior Vice President and General Manager. Since 2005, Cooley has served in a variety of engineering and business leadership positions at Silicon Labs in the US, Asia and Europe. He has an M.S. in Electrical Engineering from Stanford University and a B.S. in Electrical Engineering from The University of Texas at Austin and holds four patents in radio and low-power technology. In addition to the OpenHW Group, Daniel also currently serves on the board of directors for the Thinkery, Texas 4000, and the Austin Symphony Orchestra.</p>
        linkedin: https://www.linkedin.com/in/djcooley/
-     - name: Alessandro Piovaccari
-       position: Board Member
-       bio: |
-         <p>As Silicon Labs’ Chief Technology Officer, Alessandro Piovaccari is responsible for the company’s product and technology research and development. Alessandro joined Silicon Labs in 2003 to design the company’s single-chip FM radio products, which have surpassed 1.5 billion device shipments. He co-architected Silicon Labs’ single-chip TV tuner IC, used by nine of the world’s top ten TV makers, with more than 70 percent market share and 1 billion unit shipped.
-       linkedin: https://www.linkedin.com/in/robert-oshana-58a1784/
   staff:
     title: OpenHW Group Executive Staff
     members:
