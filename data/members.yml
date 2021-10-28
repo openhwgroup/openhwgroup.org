@@ -142,11 +142,6 @@ types:
          link: https://greenwaves-technologies.com/
          img_width: 120
        -
-         image: /images/sponsors/hefei-whale-microelectronics.png
-         title: Hefei Whale Microelectronics
-         link: 
-         img_width: 150
-       -
          image: /images/sponsors/hensoldt-logo.png
          title: Hensoldt
          link: https://www.hensoldt-cyber.com/
@@ -307,6 +302,11 @@ types:
          title: Wavious
          link: https://wavious.com/
          img_width: 120
+       -
+         image: /images/sponsors/whale-microelectronics.png
+         title: Hefei Whale Microelectronics
+         link: 
+         img_width: 150
        -
          image: /images/sponsors/yosyshq-logo.png
          title: YosysHQ
