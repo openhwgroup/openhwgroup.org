@@ -303,6 +303,11 @@ types:
          link: https://wavious.com/
          img_width: 120
        -
+         image: /images/sponsors/whale-microelectronics.png
+         title: Hefei Whale Microelectronics
+         link: 
+         img_width: 150
+       -
          image: /images/sponsors/yosyshq-logo.png
          title: YosysHQ
          link: https://www.yosyshq.com/
