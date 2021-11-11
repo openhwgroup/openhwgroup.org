@@ -308,6 +308,11 @@ types:
          link: 
          img_width: 150
        -
+         image: /images/sponsors/xmos-logo.png
+         title: XMOS Ltd
+         link: https://www.xmos.ai/
+         img_width: 120
+       -
          image: /images/sponsors/yosyshq-logo.png
          title: YosysHQ
          link: https://www.yosyshq.com/
