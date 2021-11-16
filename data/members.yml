@@ -67,6 +67,11 @@ types:
          link: https://www.btadesignservices.com/
          img_width: 135
        -
+         image: /images/sponsors/c2mi-logo.png
+         title: C2MI
+         link: https://www.c2mi.ca/en/
+         img_width: 100
+       -
          image: /images/sponsors/cea-logo.svg
          title: CEA
          link: https://www.cea-tech.fr/cea-tech/english/Pages/home-uk.aspx
@@ -177,6 +182,11 @@ types:
          title: ISCAS
          link: http://english.is.cas.cn/
          img_width: 145
+       -
+         image: /images/sponsors/jade-design-automation-logo.png
+         title: Jade Design Automation
+         link: https://jade-da.com/
+         img_width: 120
        -
          image: /images/sponsors/metrics-logo.svg
          title: Metrics
