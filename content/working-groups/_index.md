@@ -11,7 +11,7 @@ The projects and activities within the OpenHW Group are managed by two standing 
 
 ## Working Group Calls
 
-All the OpenHW Group Working Calls are managed through a single shared Google calendar.  
+All the OpenHW Group [Working Group Calls](https://calendar.google.com/calendar/u/0/r?cid=meetings@openhwgroup.org) are managed through a single shared Google calendar.  
 
 You can find a web version of this shared calendar below.  
 
