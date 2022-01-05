@@ -218,11 +218,6 @@ types:
          link: https://www.opersys.com/
          img_width: 140
        -
-         image: /images/sponsors/platformio-labs-logo-horizontal.png
-         title: PlatformIO Labs
-         link: https://piolabs.com/
-         img_width: 150
-       -
          image: /images/sponsors/polymtl-logo.jpg
          title: Polytechnique Montreal
          link: https://www.polymtl.ca/en
