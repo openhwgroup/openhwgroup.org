@@ -10,6 +10,8 @@
 
   SPDX-License-Identifier: EPL-2.0
 -->
+<a class="btn btn-primary btn-sm" href="https://calendar.google.com/calendar/u/0/r?cid=meetings@openhwgroup.org">Working Group Calls</a>
+<br>
 <iframe src="{{ .Site.Params.calendar_src | default .Page.Params.calendar_src | default "https://calendar.google.com/calendar/embed?src=meetings%40openhwgroup.org&ctz=America%2FToronto" }}" 
   class="{{ .Site.Params.calendar_class | default .Page.Params.calendar_class | default "margin-bottom-30 margin-top-20" }}" 
   style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
