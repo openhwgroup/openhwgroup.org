@@ -82,6 +82,11 @@ types:
          link: https://www.cmc.ca/
          img_width: 100
        -
+         image: /images/sponsors/cobham-gaisler-ab-logo.png
+         title: Cobham Gaisler AB
+         link: https://www.gaisler.com/
+         img_width: 130
+       -
          image: /images/sponsors/csem-logo-cmyk.png
          title: CSEM
          link: https://www.csem.ch/Home
