@@ -69,7 +69,7 @@ themesDir = "node_modules/"
     
 [[menu.main]]
     name = "Resources"
-    url = "/resources"
+    url = "/"
     weight = 5
     
 [[menu.main]]
