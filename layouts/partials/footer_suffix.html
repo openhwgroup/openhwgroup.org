@@ -4,14 +4,3 @@
 <script id="news-no-mh" type="text/html">
 {{ readFile ("/js/templates/news-no-mh.mustache") | safeHTML}}
 </script>
-<script>
-(function($, document) {
-  // Eclipse News and events
-  $("#news-list-container").eclipseFdnApi({
-    type: "newsItems"
-  });
-  $("#event-list-container").eclipseFdnApi({
-    type: "filteredEvents"
-  });
-})(jQuery, document);
-</script>
