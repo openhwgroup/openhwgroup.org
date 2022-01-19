@@ -1,0 +1,26 @@
+{{ define "main" }} {{ .Content }} {{ $paginator := .Paginate .Data.Pages }} {{ if ne $paginator.NumberOfElements 0 }}
+<div
+  id="news-list-container"
+  class="news-list"
+  data-pagination="true"
+  data-news-count="10"
+  data-publish-target="openhwgroup"
+>
+  <div class="news-container" id="news-container">
+    {{ range $paginator.Pages }}
+    <div class="item block-summary-item">
+      <div class="content-meta margin-bottom-10">
+        <div class="date">
+          <span class="week">{{ .Date.Format "Monday, January 2, 2006, 15:04" }}</span>
+        </div>
+    </div>
+      <h4 class="media-heading">
+        <a href="{{- with .Params.link | default .RelPermalink }} {{.}} {{- end }}">{{ .Title }}</a>
+      </h4>
+      <p class="margin-bottom-0"><strong>{{ .Params.location }}</strong></p>
+      <p class="media-text">{{ .Summary }}</p>
+    </div>
+    {{ end }} {{ template "_internal/pagination.html" . }}
+  </div>
+</div>
+{{ end }} {{ end }}
