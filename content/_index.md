@@ -44,5 +44,3 @@ container: "container-fluid"
 {{< testimonials >}}
 
 {{< about-us >}}
-
-{{< featured-footer >}}
