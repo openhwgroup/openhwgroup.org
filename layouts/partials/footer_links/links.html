@@ -1,51 +1,48 @@
 <div class="container">
-  <div class="row">
-    <div class="col-sm-8">
-      <a href="https://www.openhwgroup.org/"
-        ><img
-          width="250"
-          class="logo-eclipse-default img-responsive hidden-xs"
-          src="https://www.openhwgroup.org/images/openhw-landscape.svg"
-          alt=""
-      /></a>
+    <div class="row">
+      <div class="col-sm-8">
+        {{- with .Site.Params.logo }}
+          <a title="{{ $.Site.Title}}" href="{{ "" | absLangURL }}">
+            <img width="250" class="logo-eclipse-default img-responsive hidden-xs" src="{{ . | absURL }}" alt="{{ $.Site.Title}}" />
+          </a>
+        {{ end }}
+      </div>
+      <div class="col-sm-6">
+        <ul class="nav">
+          <li><a href="/#news">News and Events</a></li>
+          <li><a href="/#core-v-family">CORE-V Family</a></li>
+          <li><a href="/#testimonials">Testimonials</a></li>
+          <li><a href="/membership/members/">Partners and Members</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6">
+        <ul class="nav">
+          <li><a href="/legal/privacy">Privacy Policy</a></li>
+          <li><a href="/legal/terms-of-use">Terms of Use</a></li>
+          <li><a href="/#about-us">About Us</a></li>
+          <li><a href="/#contact-us">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        <ul class="list-inline">
+          <li>
+            <a target="_blank" class="social-media-link fa-stack fa-lg" href="https://twitter.com/openhwgroup">
+            <i class="fa fa-circle-thin fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x"></i>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" class="social-media-link fa-stack fa-lg" href="https://www.linkedin.com/company/openhwgroup">
+            <i class="fa fa-circle-thin fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-stack-1x"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
-    <div class="col-sm-6">
-      <ul class="nav">
-        <li><a href="/#news">News and Events</a></li>
-        <li><a href="/#core-v-family">CORE-V Family</a></li>
-        <li><a href="/#testimonials">Testimonials</a></li>
-        <li><a href="/membership/members/">Partners and Members</a></li>
-      </ul>
-    </div>
-    <div class="col-sm-6">
-      <ul class="nav">
-        <li><a href="/legal/privacy">Privacy Policy</a></li>
-        <li><a href="/legal/terms-of-use">Terms of Use</a></li>
-        <li><a href="/#about-us">About Us</a></li>
-        <li><a href="/#contact-us">Contact Us</a></li>
-      </ul>
-    </div>
-    <div class="col-sm-4">
-      <ul class="list-inline">
-        <li>
-          <a target="_blank" class="social-media-link fa-stack fa-lg" href="https://twitter.com/openhwgroup"
-            ><i class="fa fa-circle-thin fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i
-          ></a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            class="social-media-link fa-stack fa-lg"
-            href="https://www.linkedin.com/company/openhwgroup"
-            ><i class="fa fa-circle-thin fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i
-          ></a>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <div class="row">
-    <div id="copyright" class="col-md-16">
-      <p id="copyright-text" class="gray">Copyright © OpenHW Group. All Rights Reserved.</p>
+    <div class="row">
+      <div id="copyright" class="col-md-16">
+        <p id="copyright-text" class="gray">Copyright &copy; OpenHW Group. All Rights Reserved.</p>
+      </div>
     </div>
   </div>
-</div>
