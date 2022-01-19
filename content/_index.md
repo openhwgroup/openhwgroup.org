@@ -45,4 +45,4 @@ container: "container-fluid"
 
 {{< about-us >}}
 
-
+{{< featured-footer >}}
