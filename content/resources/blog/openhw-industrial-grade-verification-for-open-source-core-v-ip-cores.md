@@ -84,10 +84,7 @@ The RISC-V ISA is becoming extremely popular. This is thanks to its open-standar
 The OpenHW Verification task group works hard to fully test and verify the open source CV32E40P RISC-V core. In doing so, it has also produced the core-v-verif testbench, which is freely available on GitHub and works with any tools that support UVM/SystemVerilog standards. Providing all documentation for the project, it is a valuable source of information for any design team looking to evaluate, adopt and/or modify the core. With a focus on the need for an industrial-grade verification solution for RISC-V, the OpenHW Verification task group has truly delivered a reference that others can build the future on. 
 
 ---
-Author
-
-Kevin McDermott
-
-Imperas Software, a Founding member of OpenHW Group
-
+Author  
+Kevin McDermott  
+Imperas Software, a Founding member of OpenHW Group  
 www.imperas.com/riscv
