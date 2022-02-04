@@ -1,26 +1,9 @@
 {{ define "main" }}
-   <!-- Announcements -->
-  <div id="news" class="container margin-bottom-50">
-    <div class="row">
-      <div class="col-sm-15 news-list">
-        <h2 class="header-underline margin-bottom-30">News</h2>
-        <div id="news-list-container" class="news-list" data-template-id="news-no-mh" data-news-count="3" data-publish-target="openhwgroup">
-        </div>
-        <ul class="list-inline block-summary-more margin-bottom-40">
-          <li><a href="https://newsroom.eclipse.org/rss/news/openhwgroup/news.xml" title="Subscribe to our RSS-feed"><i class="fa fa-rss margin-right-5"></i></a> <a href="/news">View all</a></li>
-          <li class="news-list-links-view-all"><a href="https://newsroom.eclipse.org/node/add/news">Submit News</a></li>
-        </ul>
-      </div>
-      <div class="col-sm-8 col-sm-offset-1 news-list">
-        <h2 class="header-underline margin-bottom-30">Events</h2>
-        <div id="event-list-container" class="news-items" data-template-id="event-short-list" data-count="3" data-publish-target="openhwgroup" data-upcoming="1">
-        </div>
-        <ul class="list-inline block-summary-more margin-bottom-40">
-          <li><a href="https://events.eclipse.org">View all</a></li>
-          <li class="news-list-links-view-all"><a href="https://newsroom.eclipse.org/node/add/events">Submit Event</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>  
   {{ .Content }}
+{{ end }}
+
+{{ define "footer-suffix" }} 
+  <script id="event-short-list" type="text/html">
+    {{ readFile ("/js/templates/event-list-format.mustache") | safeHTML}}  
+  </script>
 {{ end }}

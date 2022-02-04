@@ -8,7 +8,7 @@ categories: ["announcements"]
 
 <br />
 
-{{< figure src="/news/images/openhw-dv-con.jpg" alt="OpenHW Group at the virtual DVCon" >}}
+{{< figure src="/news/2021-02-08/images/openhw-dv-con.jpg" alt="OpenHW Group at the virtual DVCon" >}}
 
 ## Presentation: 'Jump start your RISC-V project with OpenHW'
 The OpenHW Group are joined by Imperas, Futurewei, Silicon Labs and EM Microelectronic.

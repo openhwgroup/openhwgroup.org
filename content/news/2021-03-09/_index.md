@@ -9,7 +9,7 @@ categories: ["announcements"]
 
 <br />
 
-{{< figure src="/news/images/openhw-and-mitacs-announce.jpg" alt="OpenHW Accelerate Research Program CORE-V VEC project" class="margin-10" >}}  
+{{< figure src="/news/2021-03-09/images/openhw-and-mitacs-announce.jpg" alt="OpenHW Accelerate Research Program CORE-V VEC project" class="margin-10" >}}  
 
 
 Today, OpenHW Group and Mitacs announced OpenHW Accelerate, a $22.5M multi-year co-funded research program, the world’s first open-source hardware research program of its kind. OpenHW Accelerate will drive research in next generation of class-leading open-source processors, architectures and support software for embedded AI and machine learning (ML) applications, among other future energy-intensive computing requirements.  
