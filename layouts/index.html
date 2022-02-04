@@ -1,6 +1,9 @@
 {{ define "main" }}
   {{ .Content }}
+{{ end }}
+
+{{ define "footer-suffix" }} 
   <script id="event-short-list" type="text/html">
-    {{ readFile ("/js/templates/event-list-format.mustache") | safeHTML}}
+    {{ readFile ("/js/templates/event-list-format.mustache") | safeHTML}}  
   </script>
 {{ end }}
