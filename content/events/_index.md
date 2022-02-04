@@ -4,9 +4,13 @@ date: 2019-05-04T10:00:45-04:00
 hide_sidebar: true
 ---
 
+{{< grid/div isMarkdown="false" >}}
+    <a href="/events/members" class="btn btn-primary margin-15 margin-bottom-30">Events from Members</a>
+{{</ grid/div>}}
+
 {{< newsroom/events
-      id="events_archive" 
-      archive="true"
-      publishTarget="openhwgroup"
-      count="10"
-      paginate="true" >}}
+    id="events_archive" 
+    archive="true"
+    publishTarget="openhwgroup"
+    count="10"
+    paginate="true" >}}
