@@ -50,7 +50,7 @@ Initially, the focus was to address the verification of the [CV32E40P](https://g
 
 The core-v-verif verification environment (Figure 1), provides a simulation environment for the [CV32E40P](https://github.com/openhwgroup/core-v-docs/tree/master/verif/CV32E40P) RTL core based on the RISC-V specification (RV32IMCZifencei). Plus, the environment will be adapted to other future CORE-V cores, including the CV32E40X, CV32E40S, CVA6 and future cores on the OpenHW roadmap plan.
 
-{{< figure src="/resources/blog/images/core-v-verif-testbench.jpg" alt="Register for OpenHW TV S2 E04: Software Task Group Project Updates" class="margin-10" >}}  
+{{< figure src="/resources/blog/openhw-industrial-grade-verification-for-open-source-core-v-ip-cores/images/core-v-verif-testbench.jpg" alt="Register for OpenHW TV S2 E04: Software Task Group Project Updates" class="margin-10" >}}  
 
 The project’s key goal was to make it an open, EDA vendor-neutral environment that is based on standards, such as UVM. The aim was to enable industrial-grade verification, which is compatible with the common SoC design verification flows. These targets were achieved with the environment running on any SystemVerilog-compliant simulator. Supported by open and complete verification plans, it delivers complete code coverage and comprehensive functional coverage. 
 

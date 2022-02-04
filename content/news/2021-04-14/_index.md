@@ -10,7 +10,7 @@ summary: Get the lowdown on some of the key projects spearheaded by the OpenHW S
 
 <br />
 
-{{< figure src="/news/images/news-20210414.png" alt="Register for OpenHW TV S2 E04: Software Task Group Project Updates" class="margin-10" >}}  
+{{< figure src="/news/2021-04-14/images/news-20210414.png" alt="Register for OpenHW TV S2 E04: Software Task Group Project Updates" class="margin-10" >}}  
 
 Register now for OpenHW TV's next episode:
 New project updates from our Software Task Group 

@@ -8,7 +8,7 @@ categories: ["announcements"]
 
 <br />
 
-[{{< figure class="margin-bottom-10" src="/news/images/openhws2e02.png" alt="OpenHW TV S2 E02: What do you gain from the OpenHW ecosystem?" >}}](https://us02web.zoom.us/webinar/register/1016125564767/WN_B3csDDiRSgejGAvgqJyc6g)
+[{{< figure class="margin-bottom-10" src="/news/2021-02-09/images/openhws2e02.png" alt="OpenHW TV S2 E02: What do you gain from the OpenHW ecosystem?" >}}](https://us02web.zoom.us/webinar/register/1016125564767/WN_B3csDDiRSgejGAvgqJyc6g)
 
 
 The fast-growing, open-source OpenHW ecosystem will be explored in our next episode of OpenHW TV. OpenHW Group is at the heart of a mainstream shift to open-source processors, bringing many benefits to silicon manufacturers and technology partners. In this episode OpenHW IP adopters will highlight key drivers for their engagement in the OpenHW community.

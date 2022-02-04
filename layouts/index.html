@@ -1,3 +1,6 @@
 {{ define "main" }}
   {{ .Content }}
+  <script id="event-short-list" type="text/html">
+    {{ readFile ("/js/templates/event-list-format.mustache") | safeHTML}}
+  </script>
 {{ end }}

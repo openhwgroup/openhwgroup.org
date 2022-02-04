@@ -23,17 +23,18 @@ container: "container-fluid"
                 publishTarget="openhwgroup"
                 count="3" >}}
         {{</ news >}}
-        {{< events >}}
+        {{< grid/div class="col-sm-8 col-sm-offset-1 news-list" isMarkdown="false" >}}
+            <h2 class="header-underline margin-bottom-30">Events</h2>
             {{< newsroom/events
-                id="event-list-container" 
-                containerClass="news-items clearfix"
-                templateId="event-short-list"
-                includeList="true"
-                upcoming="1"
-                class="news-items"
-                publishTarget="openhwgroup"
-                count="1" >}}
-        {{</ events >}}
+              id="event-list-container" 
+              containerClass="news-items clearfix"
+              templateId="event-short-list"
+              includeList="true"
+              upcoming="1"
+              class="news-items"
+              publishTarget="openhwgroup"
+              count="3" >}}
+        {{</ grid/div>}}
     {{</ grid/div>}}
 {{</ grid/div>}}
 
