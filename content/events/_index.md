@@ -2,6 +2,7 @@
 title: "Events"
 date: 2019-05-04T10:00:45-04:00
 hide_sidebar: true
+layout: "single"
 ---
 
 {{< grid/div isMarkdown="false" >}}
