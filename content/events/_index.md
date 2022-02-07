@@ -14,4 +14,6 @@ layout: "single"
     archive="true"
     publishTarget="openhwgroup"
     count="10"
-    paginate="true" >}}
+    templateId="event-list-with-description"
+    templatePath="js/templates/event-list-with-description.mustache"
+    paginate="true" >}} 

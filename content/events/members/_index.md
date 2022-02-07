@@ -11,4 +11,6 @@ layout: "single"
     archive="true"
     publishTarget="openhwgroup&parameters[ef_participation][]=member_org_participating"
     count="10"
+    templateId="event-list-with-description"
+    templatePath="js/templates/event-list-with-description.mustache"
     paginate="true" >}}
