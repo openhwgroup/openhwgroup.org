@@ -11,7 +11,7 @@ author: Davide Schiavone - OpenHW Group Director of Engineering, Cores Task Grou
 
 <br />
 
-*Author: Davide Schiavone- OpenHW Group Director of Engineering, Cores Task Group*
+*Author: Davide Schiavone - OpenHW Group Director of Engineering, Cores Task Group*
 
 When thinking about open-source, Linux is probably the first thing one thinks of, a successful project that everyone relies on. From end-users to academic, industrial, and governmental institutions, Linux has been implemented in microcontrollers and smartphones, all the way up to servers and high-performance computing machines.
 
