@@ -2,7 +2,7 @@
 Title: "OpenHW Industrial-Grade Verification for Open-Source CORE-V IP Cores"
 subtitle: "This brief outline gives an overview of the open methodology and standards-based environment for the verification of the RISC-V based open-source CV32E40P core."
 headline: "OpenHW Industrial-Grade Verification for Open-Source CORE-V IP Cores"
-date: 2021-10-26T01:10:00-00:00
+date: 2022-02-01T09:00:00
 hide_page_title: true
 categories: ["blogs"]
 summary: This brief outline gives an overview of the open methodology and standards-based environment for the verification of the RISC-V based open-source CV32E40P core. 

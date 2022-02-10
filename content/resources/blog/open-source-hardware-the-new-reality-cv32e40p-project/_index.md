@@ -2,7 +2,7 @@
 Title: "Open Source Hardware the New Reality CV32E40P project"
 subtitle: "Open-source hardware is a new reality that aims to follow the path that Linux and other open-source software projects have achieved"
 headline: "Open Source Hardware the New Reality CV32E40P project"
-date: 2021-10-26T01:10:00-00:00
+date: 2022-02-08T09:00:00
 hide_page_title: true
 categories: ["blogs"]
 summary: When thinking about open-source, Linux is probably the first thing one thinks of, a successful project that everyone relies on. Open-source hardware is a new reality that aims to follow the path that Linux and other open-source software projects have achieved.  
