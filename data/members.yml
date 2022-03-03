@@ -117,6 +117,11 @@ types:
          link: https://www.embecosm.com/
          img_width: 100
        -
+         image: /images/sponsors/espressif-logo.png
+         title: Espressif Systems (Shanghai) Co. Ltd
+         link: https://www.espressif.com/
+         img_width: 175
+       -
          image: /images/sponsors/eth-zurich.png
          title: ETH zurich
          link: http://www.iis.ee.ethz.ch/
