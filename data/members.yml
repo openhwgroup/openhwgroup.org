@@ -208,11 +208,6 @@ types:
          link: https://mitacs.ca/en
          img_width: 100
        -
-         image: /images/sponsors/nec-logo.svg
-         title: NEC
-         link: https://www.necam.com/
-         img_width: 150
-       -
          image: /images/sponsors/nxp-logo.jpg
          title: NXP
          link: https://www.nxp.com/
