@@ -77,6 +77,33 @@ themesDir = "node_modules/"
     url = "/#contact-us"
     weight = 6
 
+# Membership submenus
+[[menu.main]]
+    name = "Member Benefits and Services"
+    url = "/membership#tab-benefits"
+    parent = "Membership"
+    weight = 1
+[[menu.main]]
+    name = "Membership Levels"
+    url = "/membership#tab-levels"
+    parent = "Membership"
+    weight = 2
+[[menu.main]]
+    name = "Membership Fees"
+    url = "/membership#tab-fees"
+    parent = "Membership"
+    weight = 3
+[[menu.main]]
+    name = "Become a Member"
+    url = "/membership#tab-membership"
+    parent = "Membership"
+    weight = 4
+[[menu.main]]
+    name = "Explore our Members"
+    url = "/membership/members"
+    parent = "Membership"
+    weight = 5
+
 # Resources submenus
 [[menu.main]]
     name = "OpenHW TV"
