@@ -375,6 +375,12 @@ types:
          img_width: 100
          level: 1
        -
+         image: /images/partners/osfpga-logo.png
+         title: OSFPGA
+         link: https://osfpga.org/
+         img_width: 100
+         level: 1
+       -
          image: /images/partners/risc.svg
          title: Risc-V
          link: https://riscv.org/
