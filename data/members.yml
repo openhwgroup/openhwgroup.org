@@ -293,11 +293,6 @@ types:
          link: https://utoronto.ca
          img_width: 125
        -
-         image: /images/sponsors/university-of-utah.png
-         title: University of Utah
-         link: https://www.ece.utah.edu/
-         img_width: 145
-       -
          image: /images/sponsors/verisilicon.png
          title: VeriSilicon
          link: http://www.verisilicon.com/
