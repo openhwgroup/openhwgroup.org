@@ -97,11 +97,6 @@ types:
          link: https://www.dolphin-design.fr/
          img_width: 120
        -
-         image: /images/sponsors/dover-microsystems-logo.png
-         title: Dover Microsystems
-         link: https://www.dovermicrosystems.com/
-         img_width: 100
-       -
          image: /images/sponsors/ecspec-logo.png
          title: ECSpec
          link: https://www.ecspec.com/
