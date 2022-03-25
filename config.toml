@@ -106,12 +106,17 @@ themesDir = "node_modules/"
 
 # Resources submenus
 [[menu.main]]
+    name = "OpenHW Mattermost"
+    url = "https://mattermost.openhwgroup.org/all-users/channels/town-square"
+    parent = "Resources"
+    weight = 1
+[[menu.main]]
     name = "OpenHW TV"
     url = "/resources/openhwtv/"
     parent = "Resources"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "Blog"
     url = "/resources/blog/"
     parent = "Resources"
-    weight = 2
+    weight = 3
