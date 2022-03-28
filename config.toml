@@ -111,12 +111,27 @@ themesDir = "node_modules/"
     parent = "Resources"
     weight = 1
 [[menu.main]]
+    name = "OpenHW Read the Docs"
+    url = "https://readthedocs.com/organizations/openhw-group/"
+    parent = "Resources"
+    weight = 2
+[[menu.main]]
+    name = "OpenHW Project Dashboard"
+    url = "https://github.com/openhwgroup/core-v-docs/blob/master/program/dashboard/Dashboard.md"
+    parent = "Resources"
+    weight = 3
+[[menu.main]]
+    name = "OpenHW Project Descriptions"
+    url = "https://github.com/openhwgroup/core-v-docs/tree/master/program/Project-Descriptions-and-Plans"
+    parent = "Resources"
+    weight = 4
+[[menu.main]]
     name = "OpenHW TV"
     url = "/resources/openhwtv/"
     parent = "Resources"
-    weight = 2
+    weight = 5
 [[menu.main]]
     name = "Blog"
     url = "/resources/blog/"
     parent = "Resources"
-    weight = 3
+    weight = 6
