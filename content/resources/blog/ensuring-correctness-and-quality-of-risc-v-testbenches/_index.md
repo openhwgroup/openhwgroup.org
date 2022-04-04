@@ -19,7 +19,6 @@ The software component closest to the hardware is the verification environment u
 
 A recent blog [post](https://www.openhwgroup.org/resources/blog/openhw-industrial-grade-verification-for-open-source-core-v-ip-cores/) provided a concise overview of the core-v-verif RISC-V verification environment provided by OpenHW Group. I've taken the liberty of including the diagram they used just to give an idea of what's included in this environment. For the purposes of this post, the details of its functionality are not important. However, I will note that this is a very sophisticated testbench written primarily in SystemVerilog and compliant with the Universal Verification Methodology (UVM).
 
-INSERT IMAGE 1
 {{< figure src="/resources/blog/ensuring-correctness-and-quality-of-risc-v-testbenches/images/core-v-verif-testbench.jpg" alt="core-v-verif testbench" class="margin-10" >}}
 
 SystemVerilog is a very powerful language with many advanced features such as object-oriented programming (OOP), constrained-random stimulus generation, extensive coverage metrics, assertions suitable for both simulation and formal verification, and much more. The latest language reference manual from IEEE runs more than 1300 pages. UVM adds much more power on top of the base language, but with another 450 pages to read and understand. There are multiple ways to perform similar functions and many less common constructs that may be used incorrectly. More troubling, SystemVerilog implementation varies from tool to tool and vendor to vendor, with differing behavior and inconsistent language support.
@@ -36,7 +35,6 @@ Once we had refined the rule set and everything was running smoothly, we entered
 
 We set up a similar flow for the core-v-verif testbench in the OpenHW repository. Whenever any member of the Verification Task Group checks in code, it is linted within a few hours and the results are [posted](https://www.dvteclipse.com/core5verif-verissimo/1/main/index.html) openly in a dashboard format. These regular regression runs ensure that everyone's contributions meet the OpenHW coding guidelines and quality metrics. In the final phase, we added the rule and waiver files to the repository so that they are accessible to everyone on the verification team. We expect that some engineers will choose to run Verissimo themselves prior to code check-in to get even earlier notification of errors and portability issues.
 
-INSERT IMAGE 2
 {{< figure src="/resources/blog/ensuring-correctness-and-quality-of-risc-v-testbenches/images/verissimo.jpg" alt="Image 2 - Verissimo " class="margin-10" >}}
 
 Personally, I have found working with the OpenHW Group team a rewarding experience and I am proud that we have been able to enhance the quality of the verification environment shared by so many RISC-V development teams. I look forward to continuing our close cooperation.
