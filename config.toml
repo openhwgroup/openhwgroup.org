@@ -131,7 +131,7 @@ themesDir = "node_modules/"
     parent = "Resources"
     weight = 5
 [[menu.main]]
-    name = "Blog"
+    name = "OpenHW Blog"
     url = "/resources/blog/"
     parent = "Resources"
     weight = 6
