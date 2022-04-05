@@ -106,7 +106,7 @@ themesDir = "node_modules/"
 
 # Resources submenus
 [[menu.main]]
-    name = "Create or Edit Account"
+    name = "Create or Edit Eclipse Account"
     url = "/register"
     parent = "Resources"
     weight = 1
