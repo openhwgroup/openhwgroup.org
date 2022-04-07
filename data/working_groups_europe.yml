@@ -1,0 +1,10 @@
+groups:
+  - name: ""
+    mailingList: "OpenHW Europe Working Group mailing list"
+    mailingListAnchor: "https://accounts.eclipse.org/mailing-list/openhw-europe-wg"
+    description: ""
+    chairs:
+      - name: Demo Name
+        company: Demo company
+        position: Chair
+        linkedin: https://www.linkedin.com/

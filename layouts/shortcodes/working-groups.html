@@ -11,8 +11,12 @@
   SPDX-License-Identifier: EPL-2.0
 -->
 
+{{ .Scratch.Set "base" (index .Site.Data) }}
+{{ $base := .Scratch.Get "base" }}
+{{ $wgData := .Get "source" | default "working_groups" }}
+
 <div class="working-groups-container">
-  {{ range .Site.Data.working_groups.groups }}
+  {{ range index (index $base $wgData) "groups"}}
   <div class="working-group margin-bottom-30">
     <h2 id="{{ .name | urlize }}">{{ .name | title }}</h2>
     <p>{{ .description }}</p>
@@ -44,7 +48,9 @@
       </div>
       {{ end }}
     </div>
+    {{ with .task_groups }}
     <h3>Task groups</h3>
+    {{ end }}
     {{ range .task_groups }}
     <div class="task-group margin-bottom-20">
       <h4 id="{{ .name | urlize }}">{{ .name | title }}</h4>
