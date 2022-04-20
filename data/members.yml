@@ -142,6 +142,11 @@ types:
          link: https://greenwaves-technologies.com/
          img_width: 120
        -
+         image: /images/sponsors/groupgets.png
+         title: GroupGets
+         link: https://groupgets.com/
+         img_width: 120
+       -
          image: /images/sponsors/hensoldt-logo.png
          title: Hensoldt
          link: https://www.hensoldt-cyber.com/
