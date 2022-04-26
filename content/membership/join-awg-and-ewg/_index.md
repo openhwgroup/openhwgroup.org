@@ -15,7 +15,7 @@ EWG and AWG are organized under the Working Group Process of the Eclipse Foundat
 
 # How To Join EWG and AWG
 
-All contributing members of OpenHW Group (Platinum, Gold & Silver (excluding Supporter)) are also Eclipse Foundation members and may join either or both the OpenHW EWG and AWG. There are no additional fees for participating. To participate, send an email to <membership@openhwgroup.org> stating which working group you are joining, who will serve as the point(s) of contact, and a commitment to follow Eclipse Foundation policies and processes.
+All contributing members of OpenHW Group (Platinum, Gold & Silver (excluding Supporter)) are also Eclipse Foundation members and may join either or both the OpenHW EWG and AWG. There are no additional fees for participating. To participate, send an email to <membership@openhwgroup.org> stating which working group you are joining, who will serve as the point(s) of contact, and a commitment to follow the Eclipse Foundation policies and processes and logo use as described above.
 
 You may join the mailing lists for these working groups at [EWG Mailing List Signup](https://accounts.eclipse.org/mailing-list/openhw-europe-wg) and [AWG Mailing List Signup](https://accounts.eclipse.org/mailing-list/openhw-asia-wg). 
 

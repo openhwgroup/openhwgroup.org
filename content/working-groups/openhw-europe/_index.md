@@ -25,7 +25,7 @@ EWG reports to the Board of Director (BoD) of OpenHW Group, in parallel with the
 <i class="small">All Members must be parties to both the OpenHW Group Membership Agreement and to the Eclipse Foundation Membership Agreement, including the requirement set forth in Section 2.2 to abide by and adhere to the Bylaws and then-current policies of the Eclipse Foundation and OpenHW Group, including but not limited to the Intellectual Property and Antitrust Policies.</i>
 {{</ grid/div>}}
 
-{{< grid/div class="text-center margin-top-40 margin-bottom-50" isMarkdown="false" >}}
+{{< grid/div id="members"  class="text-center margin-top-40 margin-bottom-50" isMarkdown="false" >}}
 <h2>Members</h2>
 {{< members-awg-ewg memberWG="ewg" >}}
 {{</ grid/div>}}

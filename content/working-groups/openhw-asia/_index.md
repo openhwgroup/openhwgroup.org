@@ -17,7 +17,7 @@ AWG will not itself undertake open-source or standardization projects but will p
 
 AWG is organized as an Eclipse Foundation Working Group and reports to the Board of Directors (BoD) of OpenHW Group, in parallel with the OpenHW Group Technical and Marketing WGs.
 
-{{< grid/div class="text-center margin-top-40 margin-bottom-50" isMarkdown="false" >}}
+{{< grid/div id="members" class="text-center margin-top-40 margin-bottom-50" isMarkdown="false" >}}
 <h2>Members</h2>
 {{< members-awg-ewg memberWG="awg" >}}
 {{</ grid/div>}}
