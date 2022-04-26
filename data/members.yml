@@ -404,3 +404,54 @@ types:
          link: https://www.rbc.com/about-rbc.html
          img_width: 60
          level: 2
+
+  - name: awg
+    items:
+       -
+         image: /images/sponsors/futurewei.png
+         title: Futurewei Technologies, Inc.
+         link: ""
+         img_width: 150
+       -
+         image: ""
+         title: Institute of Software Chinese Academy of Sciences
+         link: ""
+         img_width: 150
+       -
+         image: /images/sponsors/nxp-logo.jpg
+         title: NXP USA, Inc.
+         link: https://www.nxp.com/
+         img_width: 100
+       -
+         image: ""
+         title: Pingtouge Semiconductors Co. Ltd (C-Sky)
+         link: ""
+         img_width: ""
+  
+  - name: ewg
+    items:
+       -
+         image: /images/sponsors/bsc-logo.png
+         title: Barcelona Supercomputing Center (BSC)
+         link: https://www.bsc.es/
+         img_width: 200
+       -
+         image: /images/sponsors/eth-zurich.png
+         title: ETH zurich
+         link: http://www.iis.ee.ethz.ch/
+         img_width: 140
+       -
+         image: /images/sponsors/imagination-tech-logo.png
+         title: Imagination Technologies Limited
+         link: https://www.imaginationtech.com/
+         img_width: 175
+       -
+         image: /images/sponsors/nxp-logo.jpg
+         title: NXP USA, Inc.
+         link: https://www.nxp.com/
+         img_width: 100
+       -
+         image: /images/sponsors/university-of-bologna-logo.png
+         title: University of Bologna
+         link: https://www.unibo.it/en
+         img_width: 175

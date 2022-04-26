@@ -358,3 +358,17 @@ h1.heading-underline {
 .small {
   font-size: 14px;
 }
+
+.member-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  li {
+    width: 210px;
+    @media all and (-ms-high-contrast:none){
+      margin: 20px
+    }
+  }
+}

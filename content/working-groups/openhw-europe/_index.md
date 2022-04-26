@@ -26,5 +26,10 @@ EWG reports to the Board of Director (BoD) of OpenHW Group, in parallel with the
 {{</ grid/div>}}
 
 {{< grid/div class="text-center margin-top-40 margin-bottom-50" isMarkdown="false" >}}
+<h2>Members</h2>
+{{< members-awg-ewg memberWG="ewg" >}}
+{{</ grid/div>}}
+
+{{< grid/div class="text-center margin-top-40 margin-bottom-50" isMarkdown="false" >}}
 <a class="btn btn-primary" href="/membership/join-awg-and-ewg">Join OpenHW Group EWG </a>        
 {{</ grid/div>}}
