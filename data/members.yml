@@ -186,7 +186,7 @@ types:
          image: /images/sponsors/iscas-logo.png
          title: ISCAS
          link: http://english.is.cas.cn/
-         img_width: 145
+         img_width: 135
        -
          image: /images/sponsors/jade-design-automation-logo.png
          title: Jade Design Automation
@@ -408,25 +408,30 @@ types:
   - name: awg
     items:
        -
+         image: /images/sponsors/alibaba-group-logo.png
+         title: Alibaba Group
+         link: https://www.alibabagroup.com/en/global/home
+         img_width: 170
+       -
          image: /images/sponsors/futurewei.png
          title: Futurewei Technologies, Inc.
          link: ""
-         img_width: 150
+         img_width: 155
        -
-         image: ""
-         title: Institute of Software Chinese Academy of Sciences
-         link: ""
-         img_width: 150
+         image: "/images/sponsors/ict-cas-logo.png"
+         title: Institute of Computing Technology - Chinese Academy of Sciences
+         link: "http://www.ict.ac.cn/"
+         img_width: 250
+       -
+         image: /images/sponsors/iscas-logo.png
+         title: ISCAS
+         link: http://english.is.cas.cn/
+         img_width: 135
        -
          image: /images/sponsors/nxp-logo.jpg
          title: NXP USA, Inc.
          link: https://www.nxp.com/
-         img_width: 100
-       -
-         image: ""
-         title: Pingtouge Semiconductors Co. Ltd (C-Sky)
-         link: ""
-         img_width: ""
+         img_width: 120
   
   - name: ewg
     items:
