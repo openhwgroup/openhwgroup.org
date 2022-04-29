@@ -4,26 +4,23 @@ date: 2022-04-07T10:00:45-04:00
 hide_sidebar: true
 ---
 
-The OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software. OpenHW provides an infrastructure for hosting high quality open-source HW developments in line with industry best practices.
+The OpenHW Europe Working Group (EWG) focuses on the European ecosystem requirements for open-source hardware, and related software, complementing the work program of the OpenHW Group.
 
-The goal of the OpenHW Europe Working Group (EWG) is to reflect European needs for digital sovereignty in the structure of the OpenHW Group, its activities and in the management of its data assets. The OpenHW Group works closely with European stakeholders and funders in the development of its work programs. 
+Those initiatives may address strategic or market analysis, technical requirements, and digital sovereignty. By working collaboratively, members of Eclipse Foundation and OpenHW Group can pursue those initiatives and have a positive impact with strategic open hardware and related open software projects.
 
-The specific tasks of the EWG are outlined below:
+Specific tasks of EWG include will drive towards:
 
--   Working with OpenHW Group and Eclipse Foundation (EF) staff, to establish, own and operate a Europe-located OpenHW Group code repository,
--   To enable participation by OpenHW Group staff and members in European Projects,
--   To facilitate discussion of European strategic requirements and potentially to incubate OpenHW Group Project Concepts arising from that discussion,
--   To carry out European marketing initiatives for the OpenHW Group.
+- Meeting European data sovereignty requirements for OpenHW Group, for example by creating Europe-based OpenHW open-source repositories
 
-Note that EWG will not of itself undertake open-source or standardization projects but may recommend that projects be initiated by the OpenHW Group by developing and presenting Project Concept proposals to the OpenHW Group Technical Working Group (TWG).
+- Aiming to participate in, and potentially to lead, European Projects (i.e. those funded by the European Commission or similar funding bodies)
 
-EWG reports to the Board of Director (BoD) of OpenHW Group, in parallel with the OpenHW Group Technical and Marketing WGs.
+- Gathering European requirements and technology needs for an open hardware ecosystem and from this, help to initiate projects of the OpenHW Group. This could include identifying processor cores, other IP of interest and/or software needs for European market segments
 
-{{< working-groups source="working_groups_europe" >}}
+- Supporting marketing for Eclipse Foundation and/or OpenHW Group initiatives in the European context by creating content, disseminating it, and by recruiting EWG members.
 
-{{< grid/div isMarkdown="false" >}}
-<i class="small">All Members must be parties to both the OpenHW Group Membership Agreement and to the Eclipse Foundation Membership Agreement, including the requirement set forth in Section 2.2 to abide by and adhere to the Bylaws and then-current policies of the Eclipse Foundation and OpenHW Group, including but not limited to the Intellectual Property and Antitrust Policies.</i>
-{{</ grid/div>}}
+EWG will not itself undertake open-source or standardization projects but will prepare and present Project Concept proposals to the OpenHW Group Technical Working Group (TWG).
+
+EWG is organized as an Eclipse Foundation Working Group and reports to the Board of Directors (BoD) of OpenHW Group, in parallel with the OpenHW Group Technical and Marketing WGs.
 
 {{< grid/div id="members"  class="text-center margin-top-40 margin-bottom-50" isMarkdown="false" >}}
 <h2>Members</h2>
