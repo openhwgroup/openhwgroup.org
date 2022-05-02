@@ -8,14 +8,11 @@ The OpenHW Europe Working Group (EWG) focuses on the European ecosystem requirem
 
 Those initiatives may address strategic or market analysis, technical requirements, and digital sovereignty. By working collaboratively, members of Eclipse Foundation and OpenHW Group can pursue those initiatives and have a positive impact with strategic open hardware and related open software projects.
 
-Specific tasks of EWG include will drive towards:
+Specific tasks of EWG include will drive towards
 
 - Meeting European data sovereignty requirements for OpenHW Group, for example by creating Europe-based OpenHW open-source repositories
-
 - Aiming to participate in, and potentially to lead, European Projects (i.e. those funded by the European Commission or similar funding bodies)
-
 - Gathering European requirements and technology needs for an open hardware ecosystem and from this, help to initiate projects of the OpenHW Group. This could include identifying processor cores, other IP of interest and/or software needs for European market segments
-
 - Supporting marketing for Eclipse Foundation and/or OpenHW Group initiatives in the European context.
 
 EWG will not itself undertake open-source or standardization projects but will prepare and present Project Concept proposals to the OpenHW Group Technical Working Group (TWG).
