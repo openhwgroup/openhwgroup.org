@@ -8,6 +8,6 @@ items:
     anchor: https://github.com/openhwgroup/core-v-docs
     anchorText: View the repository
   - title: CORE-V-cores 
-    description: System Verilog RTL source code for the CORE-V Family of RISC-V cores.
+    description: System Verilog RTL source code for the CORE-V family of RISC-V cores.
     anchor: https://github.com/openhwgroup/core-v-cores
     anchorText: View the repository
