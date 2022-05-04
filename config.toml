@@ -104,6 +104,23 @@ themesDir = "node_modules/"
     parent = "Membership"
     weight = 5
 
+# Working Groups submenus
+[[menu.main]]
+    name = "Technical and Marketing Working Groups"
+    url = "/working-groups"
+    parent = "Working Groups"
+    weight = 1
+[[menu.main]]
+    name = "OpenHW Asia"
+    url = "/working-groups/openhw-asia"
+    parent = "Working Groups"
+    weight = 2
+[[menu.main]]
+    name = "OpenHW Europe"
+    url = "/working-groups/openhw-europe"
+    parent = "Working Groups"
+    weight = 3
+
 # Resources submenus
 [[menu.main]]
     name = "Create or Edit Eclipse Account"

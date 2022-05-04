@@ -354,3 +354,21 @@ h1.heading-underline {
 .block-summary-item {
   background-color: #fafbfa;
 }
+
+.small {
+  font-size: 14px;
+}
+
+.member-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  li {
+    max-width: 250px;
+    @media all and (-ms-high-contrast:none){
+      margin: 20px
+    }
+  }
+}
