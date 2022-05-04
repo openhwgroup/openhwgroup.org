@@ -15,7 +15,7 @@ Specific tasks of AWG include
 
 AWG will not itself undertake open-source or standardization projects but will prepare and present Project Concept proposals to the OpenHW Group Technical Working Group (TWG).
 
-AWG is organized as an Eclipse Foundation Working Group and reports to the Board of Directors (BoD) of OpenHW Group, in parallel with the OpenHW Group Technical and Marketing WGs.
+AWG is organized as an Eclipse Foundation Working Group which forms part of the OpenHW Group working structure alongside the OpenHW Technical Working Group (TWG), Marketing Working Group (MWG), and Europe Working Group (EWG).
 
 {{< grid/div id="members" class="text-center margin-top-40 margin-bottom-50" isMarkdown="false" >}}
 <h2>Members</h2>
