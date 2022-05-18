@@ -357,6 +357,12 @@ types:
          img_width: 100
          level: 1
        -
+         image: /images/partners/digi-key.png
+         title: DigiKey
+         link: https://www.digikey.com/
+         img_width: 100
+         level: 1
+       -
          image: /images/partners/eclipse-foundation.svg
          title: Eclipse Foundation
          link: https://www.eclipse.org/
@@ -369,9 +375,21 @@ types:
          img_width: 70
          level: 1
        -
+         image: /images/partners/moorcrofts.png
+         title: Moorcrofts
+         link: https://moorcrofts.com/
+         img_width: 200
+         level: 1
+       -
          image: /images/sponsors/openuk-logo.png
          title: OpenUK
          link: https://openuk.uk/
+         img_width: 100
+         level: 1
+       -
+         image: /images/partners/orcro.png
+         title: ORCRO
+         link: https://orcro.co.uk/
          img_width: 100
          level: 1
        -
@@ -387,10 +405,10 @@ types:
          img_width: 70
          level: 1
        -
-         image: /images/partners/deloitte-logo.svg
-         title: Deloitte
-         link: https://www2.deloitte.com/ca/en.html
-         img_width: 140
+         image: /images/partners/bdo.jpg
+         title: BDO
+         link: https://www.bdo.ca/en-ca/home/
+         img_width: 80
          level: 2
        -
          image: /images/partners/norton-rose-fulbright-logo.svg
