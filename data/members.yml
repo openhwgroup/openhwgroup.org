@@ -248,6 +248,11 @@ types:
          link: https://rioslab.org/
          img_width: 150
        -
+         image: /images/sponsors/rumble-development-corp.png
+         title: Rumble Development Corp
+         link: http://www.rumbledev.com/
+         img_width: 150
+       -
          image: /images/sponsors/secure-thingz-logo.png
          title: Secure Thingz
          link: https://securethingz.com
