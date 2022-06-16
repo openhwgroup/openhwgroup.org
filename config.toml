@@ -1,6 +1,6 @@
 baseurl = "https://www.openhwgroup.org/"
 DefaultContentLanguage = "en"
-title = "" 
+title = ""
 theme = "eclipsefdn-hugo-solstice-theme"
 metaDataFormat = "yaml"
 #googleAnalytics = ""
@@ -46,32 +46,37 @@ themesDir = "node_modules/"
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
-  
+
 [[menu.main]]
     name = "About Us"
     url = "/about-us"
     weight = 1
-    
+
+[[menu.main]]
+    name = "CORE-V DevKits"
+    url = "/core-v-devkits"
+    weight = 1
+
 [[menu.main]]
     name = "Projects"
     url = "/projects"
     weight = 2
-    
+
 [[menu.main]]
     name = "Membership"
     url = "/membership"
     weight = 3
-    
+
 [[menu.main]]
     name = "Working Groups"
     url = "/working-groups"
     weight = 4
-    
+
 [[menu.main]]
     name = "Resources"
     url = "/"
     weight = 5
-    
+
 [[menu.main]]
     name = "Contact Us"
     url = "/#contact-us"
