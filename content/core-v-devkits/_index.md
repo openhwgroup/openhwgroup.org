@@ -2,7 +2,10 @@
 title: "CORE-V DevKits"
 date: 2019-05-04T10:00:45-04:00
 hide_sidebar: true
+hide_page_title: true
 ---
+
+# CORE-V DevKits
 
 Welcome to the OpenHW Group CORE-V DevKits page.
 
