@@ -2,11 +2,6 @@ types:
   - name: members
     items:
        -
-         image: /images/sponsors/ab-open-logo.svg
-         title: AB Open
-         link: https://abopen.com
-         img_width: 150
-       -
          image: /images/sponsors/alean-tec-logo-tagline.svg
          title: Alean-Tec
          link: https://alean-tec.com/
