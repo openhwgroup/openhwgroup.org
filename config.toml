@@ -162,3 +162,8 @@ themesDir = "node_modules/"
     url = "/working-groups/#working-group-calls"
     parent = "Resources"
     weight = 7
+[[menu.main]]
+    name = "OpenHW Downloads"
+    url = "http://downloads.openhwgroup.org/"
+    parent = "Resources"
+    weight = 8
