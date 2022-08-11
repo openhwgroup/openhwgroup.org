@@ -308,11 +308,6 @@ types:
          link: http://www.verisilicon.com/
          img_width: 100
        -
-         image: /images/sponsors/wavious-logo.png
-         title: Wavious
-         link: https://wavious.com/
-         img_width: 120
-       -
          image: /images/sponsors/whale-microelectronics.png
          title: Hefei Whale Microelectronics
          link: 
