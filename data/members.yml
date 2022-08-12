@@ -322,6 +322,11 @@ types:
          title: YosysHQ
          link: https://www.yosyshq.com/
          img_width: 150
+       -
+        image: /images/sponsors/silicon-assurance.png
+        title: Silicon Assurance
+        link: https://siliconassurance.com/
+        img_width: 120
 
   - name: partners
     levels: 2
