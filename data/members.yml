@@ -76,6 +76,11 @@ types:
          title: Cobham Gaisler AB
          link: https://www.gaisler.com/
          img_width: 130
+       - 
+         image: /images/sponsors/codasip.png
+         title: Codasip
+         link: https://codasip.com/
+         img_width: 150
        -
          image: /images/sponsors/csem-logo-cmyk.png
          title: CSEM
