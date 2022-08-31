@@ -340,6 +340,11 @@ types:
         link: https://riscv.org/
         img_width: 70
         level: 1 
+      - image: /images/partners/synopsys.png
+        title: Synopsys
+        link: https://www.synopsys.com/
+        img_width: 100
+        level: 1
       - image: /images/partners/bdo.jpg
         title: BDO
         link: https://www.bdo.ca/en-ca/home/
