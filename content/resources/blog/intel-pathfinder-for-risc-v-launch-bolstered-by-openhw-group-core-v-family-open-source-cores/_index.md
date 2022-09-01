@@ -32,8 +32,6 @@ The CORE-V MCU project highlights the global open-source collaborative developme
 
 Start your journey with Intel® Pathfinder for RISC-V at [pathfinder.intel.com](https://pathfinder.intel.com)
 
-The commercial edition of Intel® Pathfinder for RISC-V is available free of charge (subject to Intel approval) to all OpenHW Group member organizations. Start your journey with Intel® Pathfinder for RISC-V at [pathfinder.intel.com](https://pathfinder.intel.com/)
-
 The Professional Edition of Intel® Pathfinder for RISC-V is available free of charge (subject to Intel approval) to all OpenHW Group member organizations. Start your journey with Intel® Pathfinder for RISC-V at [pathfinder.intel.com](https://pathfinder.intel.com/)
 
 ***About:***
