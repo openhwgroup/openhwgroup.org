@@ -270,16 +270,16 @@ types:
   - name: partners
     levels: 2
     items:
-      - image: /images/sponsors/amazon-logo.png
-        title: Amazon
-        link: https://aws.amazon.com/
-        img_width: 90
-        level: 1
       - image: /images/partners/amd-xilinx.png
         title: AMD/Xilinx
         link: https://www.amd.com/en/products/xilinx
         img_width: 70
-        level: 1      
+        level: 1   
+      - image: /images/sponsors/amazon-logo.png
+        title: Amazon
+        link: https://aws.amazon.com/
+        img_width: 90
+        level: 1   
       - image: /images/partners/cadence.png
         title: Cadence
         link: https://www.cadence.com/
