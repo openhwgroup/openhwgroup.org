@@ -18,6 +18,15 @@ summary: Finding the path to amazing open-source innovation just got easier. Tha
 #tagline: ""
 #links: []
 ---
+{{< grid/div class="row margin-top-20 margin-bottom-40" isMarkdown="false" >}}
+    {{< grid/div class="col-sm-12" isMarkdown="false" >}}
+        <a href="https://pathfinder.intel.com/" class="blog-logo-container"><img src="./images/intel-pathfinder-for-risc-v.png" alt=""></a>
+    {{</ grid/div>}}
+    {{< grid/div class="col-sm-12" isMarkdown="false" >}}
+        <a href="https://github.com/openhwgroup/core-v-cores" class="blog-logo-container"><img src="./images/core-v.png" alt=""></a>
+{{</ grid/div >}}
+{{</ grid/div >}}
+
 # Intel Pathfinder for RISC-V Launch Bolstered by OpenHW Group CORE-V Family Open Source Cores
 
 Finding the path to amazing open-source innovation just got easier. That’s because Intel® Pathfinder for RISC-V has been launched, transforming the way SoC architects and system software developers define and design new products. Intel® Pathfinder allows for a variety of RISC-V cores and other IP to be instantiated on FPGAs and simulator platforms, with the ability to run industry-leading operating systems and tool chains within a unified IDE. Intel® Pathfinder not only saves time in assembling and testing different IP combinations in a single environment, but it also comes with robust software and industry standard toolchains that support seamless scaling for a broad spectrum of customers.
