@@ -221,7 +221,7 @@ types:
       - image: /images/sponsors/silicon-labs-logo.svg
         title: Silicon Labs
         link: https://www.silabs.com/
-        img_width: 70
+        img_width: 80
       - image: /images/sponsors/sfu-logo.png
         title: Simon Fraser University
         link: https://www.sfu.ca/
