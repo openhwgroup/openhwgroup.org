@@ -186,6 +186,10 @@ types:
         title: NXP
         link: https://www.nxp.com/
         img_width: 100
+      - image: /images/sponsors/osu-logo.png
+        title: Oklahoma State University
+        link: https://go.okstate.edu/
+        img_width: 160
       - image: /images/sponsors/onespin.png
         title: OneSpin
         link: https://www.onespin.com/
