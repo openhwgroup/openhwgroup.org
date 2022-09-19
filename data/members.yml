@@ -198,6 +198,10 @@ types:
         title: Opersys
         link: https://www.opersys.com/
         img_width: 140
+      - image: /images/sponsors/planv-gmbh-logo.png
+        title: PlanV GmbH
+        link: https://www.planv.tech/
+        img_width: 100
       - image: /images/sponsors/polymtl-logo.jpg
         title: Polytechnique Montreal
         link: https://www.polymtl.ca/en
