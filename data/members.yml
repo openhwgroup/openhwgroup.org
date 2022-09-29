@@ -65,6 +65,10 @@ types:
         title: Codasip
         link: https://codasip.com/
         img_width: 150
+      - image: /images/sponsors/cryptoquantique-logo.png
+        title: Cryptoquantique
+        link: https://cryptoquantique.com/
+        img_width: 65
       - image: /images/sponsors/csem-logo-cmyk.png
         title: CSEM
         link: https://www.csem.ch/Home
