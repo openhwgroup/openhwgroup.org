@@ -139,7 +139,7 @@ themesDir = "node_modules/"
     weight = 2
 [[menu.main]]
     name = "OpenHW Project Dashboard"
-    url = "https://github.com/openhwgroup/core-v-docs/blob/master/program/dashboard/Dashboard.md"
+    url = "https://github.com/openhwgroup/core-v-docs/blob/master/program/dashboard/Dashboard_SpreadSheetFriendly.md"
     parent = "Resources"
     weight = 3
 [[menu.main]]
