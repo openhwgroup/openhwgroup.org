@@ -150,6 +150,10 @@ types:
         title: Imperas
         link: http://www.imperas.com/
         img_width: 100
+      - image: /images/partners/intel.png
+        title: Intel
+        link: https://pathfinder.intel.com/
+        img_width: 100
       - image: /images/sponsors/intrinsix-logo.png
         title: Intrinsix Corp
         link: https://www.intrinsix.com/
@@ -334,11 +338,6 @@ types:
         title: Fossi Foundation
         link: https://fossi-foundation.org/
         img_width: 70
-        level: 1
-      - image: /images/partners/intel.png
-        title: Intel
-        link: https://pathfinder.intel.com/
-        img_width: 100
         level: 1
       - image: /images/sponsors/openuk-logo.png
         title: OpenUK
