@@ -7,8 +7,12 @@ groups:
     chairs:
       - name: Jérôme Quevremont
         company: Thales Group
-        position: Chair
+        position: Co-chair
         linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-qu%C3%A9vremont-245335/?originalSubdomain=fr
+      - name: David Lynch
+        company: CMC Microsystems
+        position: Co-Chair
+        linkedin: https://www.linkedin.com/in/david-lynch-3514474/
     task_groups:
       - name: Cores Task Group
         mailingList: OpenHW CORE-V Cores Mailing List here
@@ -30,14 +34,14 @@ groups:
         description: |
           <p>The Verification Task Group has the mandate to develop best in class verification test bench environments for the cores and IP blocks developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">Verification Task Group projects can be found here</a>.</p>
         chairs:
-          - name: Robert Chu
-            company: Futurewei Technologies, Inc.
-            position: Co-chair
-            linkedin: https://www.linkedin.com/in/robertchu/
-          - name: Steve Richmond
-            company: Silicon Laboratories
-            position: Co-chair
-            linkedin: https://www.linkedin.com/in/steverichmond19/
+          - name: Simon Davidmann
+            company: Imperas
+            position: Chair
+            linkedin: https://www.linkedin.com/in/simon-davidmann-57656b143/
+          - name: Jean-Roch Coulon
+            company: Thales Group
+            position: Vice Chair
+            linkedin: https://www.linkedin.com/in/jeanrochcoulon/?originalSubdomain=fr
       - name: SW Task Group
         description: |
           <p>The SW Task Group has the mandate to define, develop and support SW tool chain, operating system ports and firmware for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">SW Task Group projects can be found here</a>.</p>
