@@ -290,6 +290,10 @@ types:
         title: YosysHQ
         link: https://www.yosyshq.com/
         img_width: 150
+      - image: /images/sponsors/zero-day-labs.png
+        title: Zero Day Labs
+        link: '#'
+        img_width: 140
 
   - name: partners
     levels: 2
