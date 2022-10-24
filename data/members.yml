@@ -150,10 +150,10 @@ types:
         title: Imperas
         link: http://www.imperas.com/
         img_width: 100
-      - image: /images/partners/intel-fpo.png
+      - image: /images/sponsors/intel.png
         title: Intel
         link: https://pathfinder.intel.com/
-        img_width: 100
+        img_width: 90
       - image: /images/sponsors/intrinsix-logo.png
         title: Intrinsix Corp
         link: https://www.intrinsix.com/
