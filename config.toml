@@ -144,7 +144,7 @@ themesDir = "node_modules/"
     weight = 3
 [[menu.main]]
     name = "OpenHW Project Descriptions"
-    url = "https://github.com/openhwgroup/core-v-docs/tree/master/program/Project-Descriptions-and-Plans"
+    url = "https://github.com/openhwgroup/programs/tree/master/Project-Descriptions-and-Plans"
     parent = "Resources"
     weight = 4
 [[menu.main]]
