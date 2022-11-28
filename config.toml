@@ -167,8 +167,3 @@ themesDir = "node_modules/"
     url = "http://downloads.openhwgroup.org/"
     parent = "Resources"
     weight = 8
-[[menu.main]]
-    name = "Careers"
-    url = "/careers/"
-    parent = "Resources"
-    weight = 9
