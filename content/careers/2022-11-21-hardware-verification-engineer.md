@@ -2,6 +2,7 @@
 title: Hardware Verification Engineer
 seo_title: Hardware Verification Engineer | Careers
 date: 2022-11-22
+company: OpenHW European Working Group
 summary: |
     We are looking for a Hardware Verification Engineer that extends our ecosystem.
 ---
