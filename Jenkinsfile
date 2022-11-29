@@ -2,5 +2,5 @@
 
 hugo (
   appName: 'openhwgroup.org',
-  productionDomain: 'openhwgroup.org',
+  productionDomain: 'www.openhwgroup.org',
 )
