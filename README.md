@@ -4,8 +4,6 @@ The [openhwgroup.org](https://openhwgroup.org) website is generated with [Hugo](
 
 OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software. OpenHW provides an infrastructure for hosting high quality open-source HW developments in line with industry best practices.
 
-[![Build Status](https://travis-ci.org/openhwgroup/openhwgroup.org.svg?branch=master)](https://travis-ci.org/openhwgroup/openhwgroup.org)
-
 ## Getting started
 
 Install dependencies, build assets and start a webserver:
@@ -39,7 +37,7 @@ Images, less and JavaScript files for the Eclipse Foundation look and feel.
 
 ### [EclipseFdn/hugo-solstice-theme](https://github.com/EclipseFdn/hugo-solstice-theme)
 
-Hugo theme of the Eclipse Foundation look and feel. 
+Hugo theme of the Eclipse Foundation look and feel.
 
 ## Bugs and feature requests
 
