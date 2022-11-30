@@ -1,7 +1,7 @@
 ---
-title: Core-V CVA6 Open-Source Manycore RISC-V Architecture
+title: CORE-V CVA6 Open-Source Manycore RISC-V Architecture
 subtitle: We have been striving to build a design that is portable across simulators and technology processes and we are excited to bring support for coherent, manycore OpenHW CORE-V CVA6 clusters on Intel FPGAs through an upcoming release.
-headline: Core-V CVA6 Open-Source Manycore RISC-V Architecture
+headline: CORE-V CVA6 Open-Source Manycore RISC-V Architecture
 date: 2022-11-30T09:00:00-04:00
 hide_page_title: true
 categories: ["blogs"]
@@ -11,7 +11,7 @@ author: Jonathan Balkind - Assistant Professor of Computer Science at UCSB
 
 {{< grid/div class="row padding-bottom-40 padding-top-40" isMarkdown="false" >}}
     {{< grid/div class="col-sm-10 col-sm-offset-2" isMarkdown="false">}}
-        <a href="https://github.com/openhwgroup/core-v-cores" title="The GitHub repository for Core-V">
+        <a href="https://github.com/openhwgroup/core-v-cores" title="The GitHub repository for CORE-V">
             <img class="img img-responsive" src="./images/core-v.png" alt="" />
         </a>
     {{</ grid/div >}}
