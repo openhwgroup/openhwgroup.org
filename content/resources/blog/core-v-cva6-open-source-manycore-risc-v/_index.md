@@ -35,6 +35,11 @@ OpenPiton has a particular focus on enabling advanced research, providing a comm
 
 {{< figure src="./images/cluster.jpg" alt="C" class="margin-40" caption="CORE-V CVA6 8-core Open-Source RISC-V Cluster" >}}
 
-Thanks to recent contributions to CVA6, our upcoming releases will bring CVA6 support to parity with the upstream core managed by OpenHW Group. With U-Boot recently adopting OpenPiton and CVA6 as a supported platform, we will offer a standard Linux boot environment with all upstream-supported technology. With support for [Intel Pathfinder for RISC-V](https://pathfinder.intel.com/), software developers will be able to test out their software on a standard CVA6 core cluster on FPGAs with confidence for the accompanying hardware design being realized in silicon.
+Thanks to recent contributions to CVA6, our upcoming releases will bring CVA6 support to parity with the upstream core managed by OpenHW Group. With U-Boot recently adopting OpenPiton and CVA6 as a supported platform, we will offer a standard Linux boot environment with all upstream-supported technology. With support for [Intel® Pathfinder for RISC-V*](https://pathfinder.intel.com/), software developers will be able to test out their software on a standard CVA6 core cluster on FPGAs with confidence for the accompanying hardware design being realized in silicon.
 
 Learn more about our work by visiting my [Jonathan Balkind profile at UC Santa Barbara](https://www.cs.ucsb.edu/people/faculty/jonathan-balkind).
+
+{{< grid/div isMarkdown="false" >}}
+<small class="small">
+    * Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+</small>
