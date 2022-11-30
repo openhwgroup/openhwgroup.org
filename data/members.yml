@@ -250,6 +250,10 @@ types:
         title: Thales Group
         link: https://www.thalesgroup.com/en
         img_width: 120
+      - image: /images/sponsors/universidade-do-minho.png
+        title: Universidade do Minho
+        link: https://www.uminho.pt/PT
+        img_width: 90
       - image: /images/sponsors/university-of-bologna-logo.png
         title: University of Bologna
         link: https://www.unibo.it/en
