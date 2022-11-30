@@ -33,7 +33,7 @@ With nine years of development under our belts, a key philosophy of the OpenPito
 
 OpenPiton has a particular focus on enabling advanced research, providing a common design which can be integrated with for research and early-stage development in a variety of new technology areas. As a result, we are very excited about Intel's recent work with CVA6 and OpenPiton, as demonstrated in their VLSI Technology Symposium paper, "[An 8-core RISC-V Processor with Compute near Last Level Cache in Intel 4 CMOS](https://ieeexplore.ieee.org/document/9830518)". Taping out such a cluster in an advanced technology node such as Intel 4 while demonstrating functioning multicore Linux shows the potential for others to build advanced systems with CVA6 clusters. The functioning 8-core design is representative of CVA6 clusters that we would like to standardize in the OpenHW ecosystem for broad community use.
 
-{{< figure src="./images/cluster.png" alt="C" class="margin-40" caption="Core-V CVA6 8-core Open-Source RISC-V Cluster" >}}
+{{< figure src="./images/cluster.png" alt="C" class="margin-40" caption="CORE-V CVA6 8-core Open-Source RISC-V Cluster" >}}
 
 Thanks to recent contributions to CVA6, our upcoming releases will bring CVA6 support to parity with the upstream core managed by OpenHW Group. With U-Boot recently adopting OpenPiton and CVA6 as a supported platform, we will offer a standard Linux boot environment with all upstream-supported technology. With support for [Intel Pathfinder for RISC-V](https://pathfinder.intel.com/), software developers will be able to test out their software on a standard CVA6 core cluster on FPGAs with confidence for the accompanying hardware design being realized in silicon.
 
