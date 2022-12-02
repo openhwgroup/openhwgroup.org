@@ -1,13 +1,21 @@
 ---
-title: Hardware Verification Engineer
+title: Do you like open-source HW RISC-V CPUs?
 seo_title: Hardware Verification Engineer | Careers
-date: 2022-11-22
+date: 2022-11-22T09:00:00
 company: OpenHW European Working Group
+headline: Hardware Verification Engineer
 summary: |
-    We are looking for a Hardware Verification Engineer that extends our ecosystem.
+    ... and even more, do you like to have HIGH-QUALITY, VERIFIED open-source HW IPs?
+
+    If the answer is YES, and you want to help us build them, this job offer is for you.
+
+    We are looking for a **Hardware Verification Engineer** that extends our ecosystem.
+
+    Click here for more details!
+hide_page_title: true
 ---
 
-Do you like open-source HW RISC-V CPUs?
+# Do you like open-source HW RISC-V CPUs?
 
 ...and even more, do you like to have HIGH-QUALITY, VERIFIED, open-source HW IPs?
 
