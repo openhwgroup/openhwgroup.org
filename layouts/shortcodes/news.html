@@ -1,12 +1,11 @@
 <div class="col-sm-15 news-list">
   <h2 class="header-underline margin-bottom-30">News</h2>
-  <a class="link-unstyled" href="/careers/2022-11-21-hardware-verification-engineer">
+  {{ $featured_post := .Site.GetPage "/resources/blog/hardware-verification-engineer" }}
+  <a class="link-unstyled" href="/resources/blog/hardware-verification-engineer">
     <div class="item block-summary-item">
-      <h4>Do you like open-source HW RISC-V CPUs?</h4>
-      <p>... and even more, do you like to have HIGH-QUALITY, VERIFIED open-source HW IPs?</p>
-      <p>If the answer is YES, and you want to help us build them, this job offer is for you.</p>
-      <p>We are looking for a <strong>Hardware Verification Engineer</strong> that extends our ecosystem.</p>
-      <p>Click here for more details!</p>
+      <p>{{ $featured_post.Date.Format "Monday, January 2, 2006 - 15:04" }}</p>
+      <h4>{{ $featured_post.Title }}</h4>
+      {{ $featured_post.Params.summary | markdownify }}
     </div>
   </a>
   {{ .Inner }}
