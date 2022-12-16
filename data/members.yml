@@ -37,10 +37,6 @@ types:
         title: Barcelona Supercomputing Center
         link: https://www.bsc.es/
         img_width: 200
-      - image: /images/sponsors/bta-design-services.jpg
-        title: BTA Design Services
-        link: https://www.btadesignservices.com/
-        img_width: 135
       - image: /images/sponsors/c2mi-logo.png
         title: C2MI
         link: https://www.c2mi.ca/en/
