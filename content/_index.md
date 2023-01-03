@@ -36,6 +36,7 @@ container: "container-fluid"
                   publishTarget="openhwgroup"
                   count="3" >}}
             {{</ events >}}
+            {{< blog >}}
         {{</ grid/div>}}
     {{</ grid/div>}}
 {{</ grid/div>}}
