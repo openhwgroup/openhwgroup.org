@@ -300,8 +300,7 @@ h1.heading-underline {
 
 // @todo: Move to solstice-assets
 // and create an mustache template in base theme.
-.eclipsefdn-event-list-teaser-content,
-.blog-list-teaser-content {
+.eclipsefdn-event-list-teaser-content {
   padding-bottom: 15px;
 
   h3 {
@@ -312,13 +311,27 @@ h1.heading-underline {
   }
 }
 
-.blog-list-teaser-content {
-  p {
+.blog-list {
+  .blog-list-item {
+    padding-bottom: 15px;
     font-size: 1.5rem;
+  }
+
+  .blog-list-item-teaser-title {
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-top: 0;
+    
+  }
+
+  .blog-list-item-teaser-author {
+    font-size: 13px;
+    margin: 0 0 5px;
   }
 }
 
-.eclipsefdn-event-list-teaser-location {
+.eclipsefdn-event-list-teaser-location{
   font-size: 13px;
   margin: 0 0 5px;
 }

@@ -1,18 +1,24 @@
 {{ $blog_section := .Site.GetPage "/resources/blog" }}
 {{ $blog_pages := $blog_section.Pages }}
-<div class="">
+
+<div class="blog-list">
     <h2 class="header-underline margin-bottom-30">Blog</h2>
+    <ul class="list-unstyled">
         {{ range first 3 $blog_pages }}
             {{ $summary_truncated := printf "%s..." (substr .Summary 0 100) }}
-            <div class="blog-list-teaser-content">
-                <h3>
+            <div class="blog-list-item">
+                <h3 class="blog-list-item-teaser-title">
                     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                 </h3>
-                <p>{{ .Date }}</p>
-                <p>{{ $summary_truncated | safeHTML }}</p>
+                {{ with .Page.Params.author }}
+                    <p class="blog-list-item-teaser-author"><span class="fw-700">Author:</span> {{ . }}</p>
+                {{ end }}
+                <p>{{ .Date.Format "Monday, Jan 2, 2006" }}</p>
+                <p class="blog-list-item-teaser-content">{{ $summary_truncated | safeHTML }}</p>
             </div>
         {{ end }}
+    </ul>
     <div class="margin-bottom-40 text-center">
-        <a href="/blog">View all</a>
+        <a href="/resources/blog">View all</a>
     </div>
 </div>
