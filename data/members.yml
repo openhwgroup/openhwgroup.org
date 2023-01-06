@@ -37,10 +37,6 @@ types:
         title: Barcelona Supercomputing Center
         link: https://www.bsc.es/
         img_width: 200
-      - image: /images/sponsors/c2mi-logo.png
-        title: C2MI
-        link: https://www.c2mi.ca/en/
-        img_width: 100
       - image: /images/sponsors/cea-logo.svg
         title: CEA
         link: https://www.cea-tech.fr/cea-tech/english/Pages/home-uk.aspx
@@ -198,10 +194,6 @@ types:
         title: OneSpin
         link: https://www.onespin.com/
         img_width: 100
-      - image: /images/sponsors/opersys-logo.png
-        title: Opersys
-        link: https://www.opersys.com/
-        img_width: 140
       - image: /images/sponsors/planv-gmbh-logo.png
         title: PlanV GmbH
         link: https://www.planv.tech/
@@ -286,10 +278,6 @@ types:
         title: XMOS Ltd
         link: https://www.xmos.ai/
         img_width: 120
-      - image: /images/sponsors/yosyshq-logo.png
-        title: YosysHQ
-        link: https://www.yosyshq.com/
-        img_width: 150
       - image: /images/sponsors/zero-day-labs.png
         title: Zero Day Labs
         link: '#'
