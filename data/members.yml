@@ -355,6 +355,11 @@ types:
         link: https://riscv.org/
         img_width: 70
         level: 1 
+      - image: /images/partners/rt-thread.svg
+        title: RT-Thread
+        link: https://www.rt-thread.org/
+        img_width: 120
+        level: 1
       - image: /images/partners/synopsys.png
         title: Synopsys
         link: https://www.synopsys.com/
@@ -380,11 +385,6 @@ types:
         link: https://www.rbc.com/about-rbc.html
         img_width: 60
         level: 2
-      - image: /images/partners/rt-thread.svg
-        title: RT-Thread
-        link: https://www.rt-thread.org/
-        img_width: 120
-        level: 1
 
   - name: awg
     items:
