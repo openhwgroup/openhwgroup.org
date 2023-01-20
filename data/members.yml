@@ -85,6 +85,10 @@ types:
         title: Embecosm
         link: https://www.embecosm.com/
         img_width: 100
+      - image: /images/sponsors/empaiot-logo.png
+        title: Empaiot Pte. Ltd
+        link: null
+        img_width: 140
       - image: /images/sponsors/espressif-logo.png
         title: Espressif Systems (Shanghai) Co. Ltd
         link: https://www.espressif.com/
