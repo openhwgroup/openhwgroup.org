@@ -1,6 +1,10 @@
 types:
   - name: members
     items:
+      - image: /images/sponsors/10xengineers.png
+        title: 10xEngineers
+        link: https://10xengineers.ai/
+        img_width: 90
       - image: /images/sponsors/alean-tec-logo-tagline.svg
         title: Alean-Tec
         link: https://alean-tec.com/
