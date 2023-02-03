@@ -342,6 +342,11 @@ types:
         link: https://www.eclipse.org/
         img_width: 100
         level: 1
+      - image: /images/partners/europractice.png
+        title: EuroPractice
+        link: https://europractice-ic.com/
+        img_width: 120
+        level: 1
       - image: /images/partners/fossi-foundation.png
         title: Fossi Foundation
         link: https://fossi-foundation.org/
