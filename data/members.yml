@@ -246,6 +246,10 @@ types:
         title: Thales Group
         link: https://www.thalesgroup.com/en
         img_width: 120
+      - image: /images/sponsors/ukri-science-and-technology-facilities-council.png
+        title: UKRI Science and Technology Facilities Council
+        link: https://www.ukri.org/councils/stfc/
+        img_width: 160
       - image: /images/sponsors/universidade-do-minho.png
         title: Universidade do Minho
         link: https://www.uminho.pt/PT
@@ -337,6 +341,11 @@ types:
         title: Eclipse Foundation
         link: https://www.eclipse.org/
         img_width: 100
+        level: 1
+      - image: /images/partners/europractice.png
+        title: EuroPractice
+        link: https://europractice-ic.com/
+        img_width: 120
         level: 1
       - image: /images/partners/fossi-foundation.png
         title: Fossi Foundation
