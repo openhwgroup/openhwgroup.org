@@ -278,10 +278,6 @@ types:
         title: University of Southampton
         link: https://www.southampton.ac.uk/
         img_width: 160
-      - image: /images/sponsors/u-of-t-logo.jpg
-        title: University of Toronto
-        link: https://utoronto.ca
-        img_width: 125
       - image: /images/sponsors/verisilicon.png
         title: VeriSilicon
         link: http://www.verisilicon.com/
