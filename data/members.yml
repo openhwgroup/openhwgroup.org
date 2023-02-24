@@ -238,6 +238,10 @@ types:
         title: Simon Fraser University
         link: https://www.sfu.ca/
         img_width: 165
+      - image: /images/sponsors/sorbonne-universite.png
+        title: Sorbonne Université
+        link: https://www.sorbonne-universite.fr/en
+        img_width: 120
       - image: /images/sponsors/logo-technion.png
         title: Technion
         link: https://www.technion.ac.il/en/technion-israel-institute-of-technology/
