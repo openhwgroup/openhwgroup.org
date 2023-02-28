@@ -198,10 +198,6 @@ types:
         title: Oklahoma State University
         link: https://go.okstate.edu/
         img_width: 160
-      - image: /images/sponsors/onespin.png
-        title: OneSpin
-        link: https://www.onespin.com/
-        img_width: 100
       - image: /images/sponsors/planv-gmbh-logo.png
         title: PlanV GmbH
         link: https://www.planv.tech/
@@ -226,6 +222,10 @@ types:
         title: Secure Thingz
         link: https://securethingz.com
         img_width: 100
+      - image: /images/sponsors/siemens.jpg
+        title: Siemens
+        link: https://www.siemens.com/global/en.html
+        img_width: 120
       - image: /images/sponsors/silicon-assurance.png
         title: Silicon Assurance
         link: https://siliconassurance.com/
