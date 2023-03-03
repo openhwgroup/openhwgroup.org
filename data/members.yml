@@ -125,10 +125,6 @@ types:
         title: Harvey Mudd College
         link: https://www.hmc.edu/
         img_width: 80
-      - image: /images/sponsors/hensoldt-logo.png
-        title: Hensoldt
-        link: https://www.hensoldt-cyber.com/
-        img_width: 120
       - image: /images/sponsors/huawei-logo.png
         title: Huawei
         link: https://www.huawei.com
