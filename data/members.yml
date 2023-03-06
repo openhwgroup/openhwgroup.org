@@ -290,7 +290,7 @@ types:
         title: XMOS Ltd
         link: https://www.xmos.ai/
         img_width: 120
-      - image: /images/sponsors/zero-day-labs.png
+      - image: /images/sponsors/zero-day-labs.svg
         title: Zero Day Labs
         link: '#'
         img_width: 140
