@@ -37,7 +37,7 @@ cloud security. Each layer presents its own set of challenges and risks, and
 ensuring the security of the entire system requires a comprehensive approach
 that takes all of these into account.
 
-{{< figure class="flex-center" src="./images/iot-devices-worldwide-2015-to-2025.png" caption="The number of IoT devices in circulation is set to continue to rise year after year." alt="Bar chart displaying 30.73 billion IoT devices in 2020 and growing to 75.44 billion by 2025." >}}
+{{< figure class="flex-center" src="./images/iot-devices-worldwide-2015-to-2025.jpg" caption="The number of IoT devices in circulation is set to continue to rise year after year." alt="Bar chart displaying 30.73 billion IoT devices in 2020 and growing to 75.44 billion by 2025." >}}
 
 That’s where Crypto Quantique comes in. We offer a comprehensive suite of
 products to cover both the hardware and software elements of the supply chain.
@@ -49,7 +49,7 @@ allows users to provision, onboard and manage devices with a cloud service
 provider securely. However, as this is the OpenHW Group blog, we will focus on
 the hardware for now.
 
-{{< figure class="flex-center margin-10" src="./images/crypto-quantique-securing-supply-chain.png" caption="Crypto Quantique eases the complexity of securing the supply chain." >}}
+{{< figure class="flex-center margin-10" src="./images/crypto-quantique-securing-supply-chain.jpg" caption="Crypto Quantique eases the complexity of securing the supply chain." >}}
 
 ## The vulnerability of hardware
 
@@ -114,7 +114,7 @@ corner of the following diagram. This system is a two-core system with the
 secure block protecting the main CORE-V only allowing it to boot once its
 application code has been verified by the security block.
 
-{{< figure class="flex-center margin-10" src="./images/soc-example-for-iot-device.png" caption="An example SoC for a typical IoT device." alt="A diagram of a SoC example for a typical IoT device described in detail below." >}}
+{{< figure class="flex-center margin-10" src="./images/soc-example-for-iot-device.jpg" caption="An example SoC for a typical IoT device." alt="A diagram of a SoC example for a typical IoT device described in detail below." >}}
 
 If we look closer at the following diagram, the secure block is made up of the
 usual components for a trusted execution environment. You can see how the setup
@@ -125,7 +125,7 @@ signature of any first-level bootloader. Once the security block is up and
 running it can verify the firmware for the main core and only allow it out of
 reset if all is well.
 
-{{< figure class="flex-center margin-10" src="./images/inner-look-at-secure-block.png" caption="An inner look at the secure block." alt="Diagram of the secure block." >}}
+{{< figure class="flex-center margin-10" src="./images/inner-look-at-secure-block.jpg" caption="An inner look at the secure block." alt="Diagram of the secure block." >}}
 
 So if we put this together in an example use case, let’s say a Programmable
 Logic Controller, you can see in the following diagram how that setup would
