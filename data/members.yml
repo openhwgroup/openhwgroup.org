@@ -323,6 +323,11 @@ types:
         link: http://www.caspa.com/
         img_width: 120
         level: 1
+      - image: /images/partners/crva-logo.png
+        title: CRVA
+        link: https://crva.ict.ac.cn/
+        img_width: 120
+        level: 1
       - image: /images/partners/digilent.png
         title: Digilent
         link: https://store.digilentinc.com/
