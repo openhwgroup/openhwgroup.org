@@ -1,12 +1,4 @@
 <div class="col-sm-15 news-list">
   <h2 class="header-underline margin-bottom-30">News</h2>
-  {{ $featured_post := .Site.GetPage "/resources/blog/hardware-verification-engineer" }}
-  <a class="link-unstyled" href="/resources/blog/hardware-verification-engineer">
-    <div class="item block-summary-item">
-      <p>{{ $featured_post.Date.Format "Monday, January 2, 2006 - 15:04" }}</p>
-      <h4>{{ $featured_post.Title }}</h4>
-      {{ $featured_post.Params.summary | markdownify }}
-    </div>
-  </a>
   {{ .Inner }}
 </div>

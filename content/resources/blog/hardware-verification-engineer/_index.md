@@ -13,7 +13,13 @@ summary: |
 
     Click here for more details!
 hide_page_title: true
+container: container margin-top-40
 ---
+
+{{< grid/div class="alert alert-info" isMarkdown="false" >}}
+    <i class="fa fa-info-circle"></i> 
+    This position is now closed. Thanks to all that have applied!
+{{</ grid/div >}}
 
 ## Statement of Work for OpenHW Europe WG HW Verification Engineer
 
