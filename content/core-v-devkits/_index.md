@@ -15,7 +15,7 @@ Available CORE-V DevKits are listed below.
 
 ## CORE-V MCU Emulation Platform
 
-![Nexsys A7](/images/core-v-devkits/nexys-a7.jpg)
+![Nexsys A7. Described in detail below.](/images/core-v-devkits/nexys-a7.jpg)
 
 Digilent Nexsys A7 board configured as CORE-V MCU Emulation platform
 
@@ -27,7 +27,7 @@ To get started with the CORE-V-MCU, consult the [CORE-V-MCU Quick Start Guide](h
 
 ## CORE-V MCU DevKit
 
-![CORE-V MCU DevKit](/images/core-v-devkits/core-v-mcu-devkit.jpg)
+![CORE-V MCU DevKit. Described in detail below.](/images/core-v-devkits/core-v-mcu-devkit.png)
 
 CORE-V MCU DevKit
 
