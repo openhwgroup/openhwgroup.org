@@ -278,10 +278,6 @@ types:
         title: University of Southampton
         link: https://www.southampton.ac.uk/
         img_width: 160
-      - image: /images/sponsors/verisilicon.png
-        title: VeriSilicon
-        link: http://www.verisilicon.com/
-        img_width: 100
       - image: /images/sponsors/whale-microelectronics.png
         title: Hefei Whale Microelectronics
         link: http://www.whalemicro.com
