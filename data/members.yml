@@ -29,22 +29,26 @@ types:
         title: Ashling
         link: https://www.ashling.com/
         img_width: 135
-      - image: /images/sponsors/beagle-board-logo.png
-        title: Beagle Board
-        link: https://beagleboard.org/
-        img_width: 180
-      - image: /images/sponsors/bluespec-logo.png
-        title: Bluespec
-        link: https://bluespec.com/
-        img_width: 120
       - image: /images/sponsors/bsc-logo.png
         title: Barcelona Supercomputing Center
         link: https://www.bsc.es/
         img_width: 200
+      - image: /images/sponsors/beagle-board-logo.png
+        title: Beagle Board
+        link: https://beagleboard.org/
+        img_width: 180
+      - image: /images/sponsors/beijing-institute-of-open-source-chip-logo.png
+        title: Beijing Institute of Open Source Chip
+        link: https://www.bosc.ac.cn/
+        img_width: 130
+      - image: /images/sponsors/bluespec-logo.png
+        title: Bluespec
+        link: https://bluespec.com/
+        img_width: 120
       - image: /images/sponsors/cea-logo.svg
         title: CEA
         link: https://www.cea-tech.fr/cea-tech/english/Pages/home-uk.aspx
-        img_width: 100
+        img_width: 90
       - image: /images/sponsors/circuit-sutra-logo.jpg
         title: CircuitSutra Technologies
         link: https://www.circuitsutra.com/
