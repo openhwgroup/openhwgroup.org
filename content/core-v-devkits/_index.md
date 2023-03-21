@@ -54,4 +54,4 @@ The CORE-V MCU DevKit includes these features
 
 ### Pre-ordering the CORE-V MCU DevKit
 
-The CORE-V MCU DevKit will be available for order on the [GroupGets website](https://groupgets.com/) with anticipated delivery in Q1 2022. Visit the [GroupGets CORE-V MCU DevKit early access campaign page](https://groupgets.com/campaigns/1040-core-v-mcu-devkit) to reserve your DevKit, as early access quantities are limited.
+The CORE-V MCU DevKit will be available for order on the [GroupGets website](https://groupgets.com/) with anticipated delivery in Q4 2023. Visit the [GroupGets CORE-V MCU DevKit early access campaign page](https://groupgets.com/campaigns/1040-core-v-mcu-devkit) to reserve your DevKit, as early access quantities are limited.
