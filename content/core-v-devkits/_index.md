@@ -15,7 +15,7 @@ Available CORE-V DevKits are listed below.
 
 ## CORE-V MCU Emulation Platform
 
-![Nexsys A7](/images/core-v-devkits/nexys-a7.jpg)
+![Nexsys A7. Described in detail below.](/images/core-v-devkits/nexys-a7.jpg)
 
 Digilent Nexsys A7 board configured as CORE-V MCU Emulation platform
 
@@ -27,7 +27,7 @@ To get started with the CORE-V-MCU, consult the [CORE-V-MCU Quick Start Guide](h
 
 ## CORE-V MCU DevKit
 
-![CORE-V MCU DevKit](/images/core-v-devkits/core-v-mcu-devkit.jpg)
+![CORE-V MCU DevKit. Described in detail below.](/images/core-v-devkits/core-v-mcu-devkit.png)
 
 CORE-V MCU DevKit
 
@@ -54,4 +54,4 @@ The CORE-V MCU DevKit includes these features
 
 ### Pre-ordering the CORE-V MCU DevKit
 
-The CORE-V MCU DevKit will be available for order on the [GroupGets website](https://groupgets.com/) with anticipated delivery in Q1 2022. Visit the [GroupGets CORE-V MCU DevKit early access campaign page](https://groupgets.com/campaigns/1040-core-v-mcu-devkit) to reserve your DevKit, as early access quantities are limited.
+The CORE-V MCU DevKit will be available for order on the [GroupGets website](https://groupgets.com/) with anticipated delivery in Q4 2023. Visit the [GroupGets CORE-V MCU DevKit early access campaign page](https://groupgets.com/campaigns/1040-core-v-mcu-devkit) to reserve your DevKit, as early access quantities are limited.
