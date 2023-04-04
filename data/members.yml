@@ -262,10 +262,6 @@ types:
         title: University of California, Santa Barbara
         link: https://www.ucsb.edu/
         img_width: 175
-      - image: /images/sponsors/university-of-ottawa.png
-        title: University of Ottawa
-        link: http://carg.site.uottawa.ca/index.html
-        img_width: 125
       - image: /images/sponsors/university-of-reading.jpg
         img_width: 120
         title: University of Reading
