@@ -21,10 +21,6 @@ types:
         title: AMIQ EDA
         link: https://www.dvteclipse.com/
         img_width: 115
-      - image: /images/sponsors/arc-logo.png
-        title: Arc
-        link: https://arcglobal.fund/
-        img_width: 100
       - image: /images/sponsors/ashling.png
         title: Ashling
         link: https://www.ashling.com/
@@ -238,6 +234,10 @@ types:
         title: Sorbonne Université
         link: https://www.sorbonne-universite.fr/en
         img_width: 120
+      - image: /images/sponsors/synthara-logo.png
+        title: Synthara AG
+        link: https://www.synthara.ai/
+        img_width: 85
       - image: /images/sponsors/logo-technion.png
         title: Technion
         link: https://www.technion.ac.il/en/technion-israel-institute-of-technology/
@@ -262,10 +262,6 @@ types:
         title: University of California, Santa Barbara
         link: https://www.ucsb.edu/
         img_width: 175
-      - image: /images/sponsors/university-of-ottawa.png
-        title: University of Ottawa
-        link: http://carg.site.uottawa.ca/index.html
-        img_width: 125
       - image: /images/sponsors/university-of-reading.jpg
         img_width: 120
         title: University of Reading
