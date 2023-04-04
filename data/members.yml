@@ -21,10 +21,6 @@ types:
         title: AMIQ EDA
         link: https://www.dvteclipse.com/
         img_width: 115
-      - image: /images/sponsors/arc-logo.png
-        title: Arc
-        link: https://arcglobal.fund/
-        img_width: 100
       - image: /images/sponsors/ashling.png
         title: Ashling
         link: https://www.ashling.com/
