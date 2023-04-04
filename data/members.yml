@@ -234,6 +234,10 @@ types:
         title: Sorbonne Université
         link: https://www.sorbonne-universite.fr/en
         img_width: 120
+      - image: /images/sponsors/synthara-logo.png
+        title: Synthara AG
+        link: https://www.synthara.ai/
+        img_width: 85
       - image: /images/sponsors/logo-technion.png
         title: Technion
         link: https://www.technion.ac.il/en/technion-israel-institute-of-technology/
