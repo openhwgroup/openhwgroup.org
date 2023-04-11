@@ -97,6 +97,19 @@ items:
        bio: |
          <p>Florian is the OpenHW Group Director of Engineering, HW & SW Task Groups and a PhD student at the Integrated Systems Laboratory of ETH Zurich. His research interests include exploring new directions in energy-efficient high-performance computing. He is also the principle architect of CVA6 (Ariane). His experience includes a strong background in physical design with more than eight ASICs designed, manufactured and tested. Florian holds a Bachelor of Science degree from TU Wien and a master’s degree from ETH Zurich. See the following link for further information. <a href="http://asic.ethz.ch/authors/Florian_Zaruba.html">http://asic.ethz.ch/authors/Florian_Zaruba.html</a></p>
        linkedin: https://www.linkedin.com/in/florianzaruba/
+     - name: Mario Rodriguez
+       position: Staff Member
+       bio: |
+         <p>
+           Mario is a Verification Engineer, currently part of the Verification Task
+           Group. He has extensive technical experience in Verification, mainly working on
+           developing UVM environments for complex designs and doing coverage explorations
+           to target non-stimulated parts of the design or dead code. Additionally, he has
+           worked on developing features for Golden Models to extend their functionality
+           and mimic the design. He holds a Computer Science degree and MIRI Master's from
+           Universitat Politecnica de Catalunya, Spain.
+         </p>
+       linkedin: https://www.linkedin.com/in/mariorodrigper/
      - name: Michelle Clancy
        position: Staff Member
        weight: -1
