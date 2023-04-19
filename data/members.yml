@@ -166,10 +166,6 @@ types:
         title: Low Power Futures
         link: https://lowpowerfutures.com/
         img_width: 100
-      - image: /images/sponsors/metrics-logo.svg
-        title: Metrics
-        link: https://metrics.ca/
-        img_width: 120
       - image: /images/sponsors/mcmaster-university-logo.png
         title: McMaster University
         link: https://www.mcmaster.ca/
