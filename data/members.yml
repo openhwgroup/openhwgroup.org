@@ -60,7 +60,7 @@ types:
       - image: /images/sponsors/codasip.png
         title: Codasip
         link: https://codasip.com/
-        img_width: 150
+        img_width: 125
       - image: /images/sponsors/cryptoquantique-logo.png
         title: Cryptoquantique
         link: https://cryptoquantique.com/
@@ -68,7 +68,7 @@ types:
       - image: /images/sponsors/csem-logo-cmyk.png
         title: CSEM
         link: https://www.csem.ch/Home
-        img_width: 150
+        img_width: 125
       - image: /images/sponsors/datum-logo.png
         title: Datum
         link: http://www.datumtc.ca/
