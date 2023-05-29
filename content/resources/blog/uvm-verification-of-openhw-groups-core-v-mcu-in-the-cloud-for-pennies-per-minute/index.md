@@ -133,7 +133,37 @@ spreadsheets using the UVMx notation (located under /docs):
 The specifications from the sheet "chip@cvmcu" track closely with the block
 diagram introduced in the previous section:
 
-ADD IMAGE / TABLE
+| Genre          | Instance Name | IP                                                      | Configuration                                      | Process/Part/TLM/RegMap                             | Description                           |
+| ---            | ---           | ---                                                     | ---                                                | ---                                                 | ---                                   |
+| /chip          | core_v_mcu    | /fsoc/core-v-mcu#sim;openhwgroup.org:systems:core-v-mcu |                                                    |                                                     | CORE-V-MCU                            |
+| param          | use_cores     | bool                                                    | FALSE                                              |                                                     | Includes the Core Sub-System          |
+| target         | gf22fdx       |                                                         | use_cores                                          | asic/gf/22fdx                                       | Global Foundries 22nm FDX process     |
+| target         | nexys         |                                                         | use_cores                                          | fgpa/xilinx/xc7a100t                                | Nexys7                                |
+| target         | genesys       |                                                         | use_cores                                          | fgpa/xilinx/xc7k325t                                | Genesys                               |
+| ss             | apb_timer     | apb_timer                                               | !is_active                                         |                                                     | Simple timer                          |
+| ss             | apb_adv_timer | apb_adv_timer                                           | !is_active                                         |                                                     | Advanced timer (PWM)                  |
+| a/mm/ctrl      | jtag          | datum/jtag                                              | is_active;                                         | #default                                            | JTAG controller                       |
+| a/duplex/qslv  | qspi_s0       | datum/spi                                               | is_active                                          | (rx>a:udma_qspi0_egress); (tx>e:udma_qspi0_ingress) | QSPI slave 0                          |
+| a/duplex/qslv  | gspi_s1       | datum/spi                                               | is_active                                          | (rx>a:udma_qspi1_egress); (tx>e:udma_qspi1_ingress) | QSPI slave 1                          |
+| a/simplex/tx   | camera        | cvmcu_cpi                                               | is_active                                          | (>e:udma_camera)                                    | Camera Parallel Interface transmitter |
+| a/duplex/slv   | i2c_s0        | datum/i2c                                               | is_active                                          | (rx>a:udma_i2c0_egress); (tx>e:udma_i2c0_ingress)   | I2C slave 0                           |
+| a/duplex/slv   | i2c_s1        | datum/i2c                                               | is_active                                          | (rx>a:udma_i2c1_egress); (tx>e:udma_i2c1_ingress)   | I2C slave 1                           |
+| a/mm           | apb           | datum/apb                                               | data_width = 32; addr_width=32                     | #apb_per                                            | APB peripherals monitor               |
+| a/duplex       | uart0         | datum/uart                                              | is_active                                          | (rx>a:udma_uart0_egress); (tx:e_udma_uart0_ingress) | UART 0                                |
+| a/duplex       | uart1         | datum/uart                                              | is_active                                          | (rx>a:udma_uart1_egress); (tx:e_udma_uart1_ingress) | UART 1                                |
+| a/mm/dev       | sdio          | datum/sdio                                              | is_active                                          | #default                                            | Flash card                            |
+| a/duplex/mstr  | i2c_m         | datum/i2c                                               | is_active                                          | (rx>a:apb_i2c_egress); (tx>e:apb_i2c_ingress)       | I2C master                            |
+| a/duplex/board | io            | cvmcu_io                                                | is_active                                          | (rx>a:gpio_egress); (tx>e:gpio_ingress)             | IO Ports                              |
+| a/mm/mstr      | instr_obi     | datum/obi                                               | is_active=$use_cores; data_width=32; addr_width=32 | #default                                            | Instruction memory OBI                |
+| a/mm/mstr      | data_obi      | datum/obi                                               | is_active=$use_cores; data_width=32; addr_width=32 | #default                                            | Data memory OBI                       |
+| a              | event         | cvmcu_event                                             | !is_active                                         | (>mon_event); (>a:event)                            | Event                                 |
+| a              | dbg           | cvmcu_dbg                                               | !is_active                                         | (>mon_dbg); (>a:dbg)                                | Debug                                 |
+| probe          | bootsel_i     | in                                                      | 1                                                  | 1                                                   | Boot select                           |
+| probe          | stm_i         | in                                                      | 1                                                  | 0                                                   | Structural Test Mode                  |
+| ^              | sys_clk       | sdr                                                     | 100Mhz                                             |                                                     | System                                |
+| ^              | jtag_clk      | sdr                                                     | 50Mhz                                              |                                                     | JTAG                                  |
+| !*             | sys_reset     | sync                                                    |                                                    |                                                     | System                                |
+| !              | jtag_reset    | sync                                                    |                                                    |                                                     | JTAG
 
 ## Code Generation
 
