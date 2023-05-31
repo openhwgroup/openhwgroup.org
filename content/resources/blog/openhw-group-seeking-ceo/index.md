@@ -66,6 +66,10 @@ processor knowledge a definite asset.
     Administration or equivalent relevant experience
 11. Experience managing global teams 
 
-Contact us here at <info@openhwgroup.org> if you have interest in the OpenHW
-CEO role.
+{{< grid/div isMarkdown="false" >}}
+  <p>
+    Contact us here at <a href="mailto:info@openhwgroup.org?subject=[OpenHW CEO]">info@openhwgroup.org</a> 
+    if you have interest in the OpenHW CEO role.
+  </p>
+{{</ grid/div >}}
 
