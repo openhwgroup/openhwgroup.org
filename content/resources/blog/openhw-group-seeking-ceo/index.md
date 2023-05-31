@@ -14,7 +14,8 @@ container: container
 
 ## OpenHW Group CEO Job Description
 
-We are looking for an experienced Chief Executive Officer to develop, oversee
+With [Rick's retirement announcement](https://www.linkedin.com/posts/rickoco_dear-colleagues-after-many-years-of-leading-activity-7065349320228622337-CkZd?utm_source=share&utm_medium=member_desktop),
+we're looking for an experienced Chief Executive Officer to develop, oversee
 and control all strategic and business aspects of the non-profit corporation.
 Reporting to the OpenHW Board of Directors, you will be the first in command in
 the company and responsible for creating a vision for success as well as giving
@@ -64,4 +65,7 @@ processor knowledge a definite asset.
 10. Masters in Computer / Electrical Engineering and Masters in Business
     Administration or equivalent relevant experience
 11. Experience managing global teams 
+
+Contact us here at <info@openhwgroup.org> if you have interest in the OpenHW
+CEO role.
 
