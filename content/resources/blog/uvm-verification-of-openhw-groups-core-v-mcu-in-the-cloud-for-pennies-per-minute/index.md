@@ -6,10 +6,12 @@ date: 2023-05-29
 hide_page_title: true
 categories: ["blogs"]
 summary: |
-  ""
+  While UVM is the most popular verification methodology for ASIC and FPGA
+  development, it requires expensive SystemVerilog simulators to run. In
+  addition, setting up a new UVM testbench is a complex task requiring specialist
+  skill sets and the "time to first bug found" can be excessive. 
 author: OpenHW Group
 container: container margin-top-40
-draft: true
 ---
 
 ## Introduction
