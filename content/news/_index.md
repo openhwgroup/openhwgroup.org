@@ -7,6 +7,8 @@ layout: "single"
 hide_sidebar: true
 ---
 
+{{< pinned_news >}}
+
 {{< newsroom/news
     id="news_lists" 
     includeList="true"
