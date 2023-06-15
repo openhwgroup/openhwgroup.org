@@ -1,6 +1,6 @@
 ---
-title: UVM Verification of OpenHW Group's CORE-V MCU in the Cloud for Pennies per Minute 
-headline: UVM Verification of OpenHW Group's CORE-V MCU in the Cloud for Pennies per Minute
+title: UVM Verification of OpenHW Group's CORE-V MCU in the Cloud 
+headline: UVM Verification of OpenHW Group's CORE-V MCU in the Cloud
 subtitle: null
 date: 2023-05-29
 hide_page_title: true
@@ -23,10 +23,10 @@ skill sets and the "time to first bug found" can be excessive. It is therefore
 no surprise that up to 70% of chip engineering budgets is spent on this task.
 
 With Metrics DSim Cloud and Datum UVMx & Moore.io, this is no longer the case.
-DSim Cloud operates in the cloud, requires no local computing hardware, and
-costs only $.02-.04/minute. Datum UVMx & Moore.io (MIO) provide testbench code
-generation and a DevOps toolchain that reduces design time-to-market by up to
-30% with a per-transaction Verification IP (VIP) pricing model.
+DSIM Cloud operates in the cloud, and requires no local computing hardware.
+Datum UVMx & Moore.io (MIO) provide testbench code generation and a DevOps
+toolchain that reduces design time-to-market by up to 30% with a
+per-transaction Verification IP (VIP) pricing model.
 
 This blog will give an overview of the use of these products to specify and
 generate a UVM test bench to verify the CORE-V MCU RTL design from the OpenHW
