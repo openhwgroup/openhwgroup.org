@@ -202,10 +202,6 @@ types:
         title: Rumble Development Corp
         link: http://www.rumbledev.com/
         img_width: 150
-      - image: /images/sponsors/secure-thingz-logo.png
-        title: Secure Thingz
-        link: https://securethingz.com
-        img_width: 100
       - image: /images/sponsors/siemens.jpg
         title: Siemens
         link: https://www.siemens.com/global/en.html
