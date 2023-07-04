@@ -130,10 +130,6 @@ types:
         link: https://www.huawei.com
         member_id: 1380
         img_width: 135
-      - image: /images/sponsors/iar-logo.png
-        title: IAR Systems
-        link: https://www.iar.com
-        img_width: 90
       - image: /images/sponsors/ict-cas-logo.png
         title: ICT-CAS
         link: http://www.ict.ac.cn/
