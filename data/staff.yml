@@ -32,18 +32,6 @@ items:
        linkedin: https://www.linkedin.com/in/liang-peng-7635943/
        bio: |
          <p>Liang Peng is Vice President, head of IC-Lab and head of HMS Ecosystem Development in Futurewei Technologies. In this role, Liang leads R&D, ecosystem development in IC design, and HMS ecosystem development. He has a professional career in the semiconductor industry for 20+ years in many Silicon Valley companies including Nvidia, Intel, Rambus. He has played leading roles in technology and product development as well as strategy planning and partnership from mobile to cloud at chip and system level on GPU, CPU, video processor, memory and SOC etc. His early pioneer work and invention at Nvidia on pixel shader architecture is an industry milestone for GPU, setting the foundation for programmable shading, massive parallel computing as well as convolutional neural network for deep learning with GPU. He is also advisor and former Chairman and President of CASPA (2012-13). Liang has a B.S. in Astrophysics from Peking University, and a Ph.D. in Electrical Engineering from Cornell University.</p>
-     - name: Tim Whitfield
-       position: Board Member
-       weight: 5
-       linkedin: https://www.linkedin.com/in/tim-whitfield-3340581/
-       bio: |
-         <p>Tim is responsible for all aspects of engineering, from concept to delivery of Imagination’s innovative hardware and software products. Prior to this Tim spent nearly 20 years at Arm initially working in engineering before holding a number of senior leadership roles encompassing business strategy and engineering as well as 5 years living and working in Taiwan. With over 25 years of experience in the industry Tim has strong background in hardware system design and design methodology as well as the semiconductor business and ecosystem.</p>
-     - name: Wayne Dai
-       position: Board Member
-       weight: 4
-       bio: |
-         <p>Dr. Wayne Wei-Ming Dai founded VeriSilicon in August 2001 and has served as the chairman of the board of directors, President and Chief Executive Officer since then. Prior to VeriSilicon, Dr. Dai was the Co-Chairman and Chief Technology Officer of Celestry Technologies, Inc., an EDA company, which was acquired by Cadence Design Systems in 2002. Prior to that, he was the founder, chairman of the board of directors, and Chief Executive Officer of Ultima Interconnect Technology, Inc., one of the predecessor companies to Celestry.</p>
-       linkedin: https://www.linkedin.com/in/wayne-dai-34ba3a30/
      - name: Daniel Cooley
        position: Board Member
        weight: 3
