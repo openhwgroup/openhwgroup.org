@@ -69,17 +69,6 @@ items:
        bio: |
          <p>Duncan Bees is Director, Technical Programs of the OpenHW Group and the Eclipse Foundation. He manages the open-source engineering process supporting industrial-quality design and verification of the IP curated by the OpenHW Group, as well as the SW tools, FPGA, SoC implementations, and board level designs that support this ecosystem. Duncan has previously held executive roles with the Home Gateway Initiative (HGI) and the Digital Living Network Alliance (DLNA) and has contributed to many worldwide standards and technology initiatives. He managed R&D and product research for telecom, wireless and semiconductor companies. Duncan holds a bachelor’s degree in Applied Science from the University of British Columbia, a master’s degree with Honours in Electrical Engineering from McGill University, and has completed extensive study in machine learning, software, and data analytics. He is a certified Project Management Professional and Certified Scrum Master.</p>
        linkedin: https://www.linkedin.com/in/duncanbees/
-     - name: Eric Matthews
-       position: Staff Member
-       bio: |
-         <p>
-           Eric is the principal architect of the FPGA-optimized CVA5 (formerly
-           Taiga) processor. His research has focused on the fields of computer
-           architecture and FPGAs. In particular, he has focused on improving
-           the performance and resource efficiency of soft-processor designs for
-           modern FPGAs. In 2021, he obtained his PhD while working in the
-           Reconfigurable Computing Lab at Simon Fraser University (Canada).
-         </p>
      - name: Florian Zaruba
        position: Staff Member
        bio: |
