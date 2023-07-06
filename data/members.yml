@@ -186,6 +186,10 @@ types:
         title: PlanV GmbH
         link: https://www.planv.tech/
         img_width: 100
+      - image: /images/sponsors/politecnico-di-torino-logo.png
+        title: Politecnico di Torino
+        link: https://www.polito.it/
+        img_width: 150
       - image: /images/sponsors/polymtl-logo.jpg
         title: Polytechnique Montreal
         link: https://www.polymtl.ca/en
