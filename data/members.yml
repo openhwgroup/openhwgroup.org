@@ -166,10 +166,6 @@ types:
         title: McMaster University
         link: https://www.mcmaster.ca/
         img_width: 120
-      - image: /images/sponsors/mitacs-logo.png
-        title: Mitacs
-        link: https://mitacs.ca/en
-        img_width: 100
       - image: /images/sponsors/mu-electronics.png
         title: MU Electronics
         link: https://www.mu-e.com/
