@@ -101,10 +101,6 @@ types:
         title: ETH zurich
         link: http://www.iis.ee.ethz.ch/
         img_width: 100
-      - image: /images/sponsors/ets-logo.png
-        title: ETS
-        link: https://www.etsmtl.ca/en/Home
-        img_width: 140
       - image: /images/sponsors/futurewei.png
         title: Futurewei
         link: "#members-partners"
