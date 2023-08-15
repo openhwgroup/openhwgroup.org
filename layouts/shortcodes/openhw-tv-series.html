@@ -1,25 +1,25 @@
-{{ $videosLocation := .Get "videosSection" | default .Site.Params.openhw_tv_section | default "/resources/openhwtv/_index.md" }}
-{{ $videosSection := .Site.GetPage "section" $videosLocation }}
-{{ $seriesLocation := .Get "seriesSection" | default .Site.Params.openhw_tv_series_location | default "/resources/openhwtv/series/" }}
-{{ $seriesSection := .Site.GetPage "section" $seriesLocation }}
+{{ $videos_location := .Get "videosSection" | default .Site.Params.openhw_tv_section | default "/resources/openhwtv/_index.md" }}
+{{ $videos_section := .Site.GetPage "section" $videos_location }}
+{{ $series_location := .Get "seriesSection" | default .Site.Params.openhw_tv_series_location | default "/resources/openhwtv/series/" }}
+{{ $series_section := .Site.GetPage "section" $series_location }}
 
 <!-- Get the series page with the most recent date -->
-{{ $latestSeriesKey := "" }}
-{{ range first 1 ((where $videosSection.RegularPages "Params.series" "!=" "").ByDate.Reverse)  }}
-  {{ $latestSeriesKey = .Params.series }} 
+{{ $latest_series_key := "" }}
+{{ range first 1 ((where $videos_section.RegularPages "Params.series" "!=" "").ByDate.Reverse)  }}
+  {{ $latest_series_key = .Params.series }} 
 {{ end }}
-{{ $latestSeries := index (where $seriesSection.RegularPages "Params.series" "==" $latestSeriesKey) 0 }}
+{{ $latest_series := index (where $series_section.RegularPages "Params.series" "==" $latest_series_key) 0 }}
 
 <h2>
-  {{ $latestSeries.Title }}
+  {{ $latest_series.Title }}
   <br />
-  <small>{{ $latestSeries.Params.subtitle }}</small>
+  <small>{{ $latest_series.Params.subtitle }}</small>
 </h2>
 
 <div class="row">
   <!-- Get all video pages which fall under the latest series -->
-  {{ $seriesVideos := where $videosSection.RegularPages "Params.series" "==" $latestSeriesKey }}
-  {{ range $seriesVideos }}
+  {{ $series_videos := where $videos_section.RegularPages "Params.series" "==" $latest_series_key }}
+  {{ range $series_videos }}
     <div class="openhw-tv-item col-xs-24 col-sm-12 margin-bottom-20">
       <h3>{{ .Title }}</h3>
       {{- with .Params.episode_title }}<h4>{{ . }}</h4> {{ end -}}
