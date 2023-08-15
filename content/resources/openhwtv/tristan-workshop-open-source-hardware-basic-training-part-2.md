@@ -1,6 +1,6 @@
 ---
 title: "TRISTAN Workshop: Open Source Hardware Basic Training (Part 2)"
-date: 2023-06-09
+date: 2023-08-01
 series: risc-v-european-summit-2023
 episode_title: "TRISTAN Workshop: Open-Source Hardware Basic Training (Part 2)" 
 ---
