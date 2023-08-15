@@ -6,3 +6,9 @@ hide_page_title: true
 ---
 
 {{< openhw-tv-videos displayArchive="true" >}}
+
+{{< grid/div class="margin-top-60 margin-bottom-40" >}}
+---
+{{</ grid/div >}}
+
+{{< openhw-tv-series >}}
