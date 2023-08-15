@@ -13,7 +13,9 @@
 {{ $.Scratch.Set "counter" 0}}
 {{ $videosLocation := .Get "videosSection" | default .Site.Params.openhw_tv_section | default "/resources/openhwtv/_index.md" }}
 {{ $seasonsLocation := .Get "seasonsSection" | default .Site.Params.openhw_tv_seasons_location | default "/resources/openhwtv/seasons/" }}
+{{ $seriesLocation := .Get "seriesSection" | default .Site.Params.openhw_tv_series_location | default "/resources/openhwtv/series/" }}
 {{ $videosSection := .Site.GetPage "section" $videosLocation }}
+{{ $seriesSection := .Site.GetPage "section" $seriesLocation }}
 {{ $displayArchiveButtons := .Get "displayArchive" | default "false" }}
 
 {{ $seasons := sort ($videosSection.Pages.GroupByParam "season") "Key" "desc"}}
@@ -55,3 +57,21 @@
   {{ end }}
 </div>
 {{ end }}
+
+<!-- Get the series with the most recent date -->
+{{ $latestSeriesKey := "" }}
+{{ range first 1 ((where $videosSection.RegularPages "Params.series" "!=" "").ByDate.Reverse)  }}
+  {{ $latestSeriesKey = .Params.series }} 
+{{ end }}
+{{ $latestSeries := index (where $seriesSection.RegularPages "Params.series" "==" $latestSeriesKey) 0 }}
+
+<hr class="margin-top-60 margin-bottom-40" />
+
+<h2>
+  {{ $latestSeries.Title }}
+  <br />
+  <small>{{ $latestSeries.Params.subtitle }}</small>
+</h2>
+
+
+
