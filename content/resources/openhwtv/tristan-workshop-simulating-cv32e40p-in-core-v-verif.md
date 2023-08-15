@@ -1,7 +1,7 @@
 ---
 title: "TRISTAN Workshop: Simulating CV32E40P in CORE-V-VERIF"
 date: 2023-08-01
-season: 4
+series: risc-v-european-summit-2023
 episode_title: "TRISTAN Workshop: Simulating CV32E40P in CORE-V-VERIF" 
 ---
 

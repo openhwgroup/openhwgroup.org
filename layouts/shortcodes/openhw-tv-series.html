@@ -3,7 +3,7 @@
 {{ $seriesLocation := .Get "seriesSection" | default .Site.Params.openhw_tv_series_location | default "/resources/openhwtv/series/" }}
 {{ $seriesSection := .Site.GetPage "section" $seriesLocation }}
 
-<!-- Get the series with the most recent date -->
+<!-- Get the series page with the most recent date -->
 {{ $latestSeriesKey := "" }}
 {{ range first 1 ((where $videosSection.RegularPages "Params.series" "!=" "").ByDate.Reverse)  }}
   {{ $latestSeriesKey = .Params.series }} 
@@ -16,13 +16,16 @@
   <small>{{ $latestSeries.Params.subtitle }}</small>
 </h2>
 
-{{ $seriesVideos := where $videosSection.RegularPages "Params.series" "==" $latestSeriesKey }}
-{{ range $seriesVideos }}
-  <div class="openhw-tv-item col-xs-24 col-sm-12 margin-bottom-20">
-    <h3>{{ .Title }}</h3>
-    {{- with .Params.episode_title }}<h4>{{ . }}</h4> {{ end -}}
-    <p>{{ dateFormat "Jan 2, 2006" .Date }}</p>
-    {{ .Content }}
-  </div>
-{{ end }}
+<div class="row">
+  <!-- Get all video pages which fall under the latest series -->
+  {{ $seriesVideos := where $videosSection.RegularPages "Params.series" "==" $latestSeriesKey }}
+  {{ range $seriesVideos }}
+    <div class="openhw-tv-item col-xs-24 col-sm-12 margin-bottom-20">
+      <h3>{{ .Title }}</h3>
+      {{- with .Params.episode_title }}<h4>{{ . }}</h4> {{ end -}}
+      <p>{{ dateFormat "Jan 2, 2006" .Date }}</p>
+      {{ .Content }}
+    </div>
+  {{ end }}
+</div>
 

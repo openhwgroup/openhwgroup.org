@@ -5,3 +5,5 @@ date: 2023-06-09
 layout: single
 series: risc-v-european-summit-2023
 ---
+
+{{< openhw-tv-series >}}
