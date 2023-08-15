@@ -5,6 +5,8 @@ layout: single
 hide_page_title: true
 ---
 
+## Latest Season {.margin-bottom-0}
+
 {{< openhw-tv-videos displayArchive="true" >}}
 
 {{< grid/div class="margin-top-60 margin-bottom-40" >}}
