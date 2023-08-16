@@ -86,6 +86,8 @@ innovative CORE-V DevKit for IoT developers:
   solution provider, supplied AWS IoT ExpressLink modules for the CORE-V DevKit
   PCB to provide AWS IoT connectivity.
 
+{{< figure class="flex-center padding-top-20 padding-bottom-30" src="./images/mcu-devkit.jpg" alt="An MCU DevKit" >}}
+
 ## About OpenHW Group and CORE-V Family
 
 The charter of the OpenHW Group is to develop, verify and provide open-source
