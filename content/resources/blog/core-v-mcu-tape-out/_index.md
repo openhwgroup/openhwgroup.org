@@ -11,7 +11,9 @@ headline: >
 date: 2023-08-15T09:00:00
 hide_page_title: true
 categories: ["blogs"]
-summary: "" 
+summary: >
+  OpenHW Group today announced that the industry's most comprehensive
+  Development Kit for an open-source RISC-V MCU is now available to be ordered. 
 author: ""
 ---
 
