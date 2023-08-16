@@ -26,6 +26,7 @@ container: "container-fluid"
         {{< grid/div class="col-sm-8 col-sm-offset-1 news-list" isMarkdown="false" >}}
             {{< events >}}
                 <h2 class="header-underline margin-bottom-30">Events</h2>
+                {{< pinned_news disabled="true" >}}
                 {{< newsroom/events
                   id="event-list-container" 
                   containerClass="news-items clearfix"
