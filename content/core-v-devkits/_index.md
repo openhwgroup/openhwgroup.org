@@ -15,7 +15,7 @@ Available CORE-V DevKits are listed below.
 
 ## CORE-V MCU DevKit
 
-![CORE-V MCU DevKit. Described in detail below.](/images/core-v-devkits/core-v-mcu-devkit.png)
+![CORE-V MCU DevKit. Described in detail below.](/images/core-v-devkits/core-v-mcu-devkit-top.jpg)
 
 CORE-V MCU DevKit
 
