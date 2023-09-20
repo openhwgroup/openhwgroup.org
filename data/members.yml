@@ -226,6 +226,9 @@ types:
         title: Technion
         link: https://www.technion.ac.il/en/technion-israel-institute-of-technology/
         img_width: 120
+      - image: /images/sponsors/logo-technology-innovation-institute.png
+        title: Technology Innovation Institute
+        link: https://www.tii.ae/
       - image: /images/sponsors/thales.svg
         title: Thales Group
         link: https://www.thalesgroup.com/en
