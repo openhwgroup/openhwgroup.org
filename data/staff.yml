@@ -41,12 +41,12 @@ items:
   staff:
     title: OpenHW Group Executive Staff
     members:
-     - name: Rick O’Connor
-       position: President & CEO
+     - name: Florian 'Flo' Wohlrab
+       position: CEO
        weight: 10
        bio: |
-         <p>Rick O'Connor is Founder and serves as President & CEO of the OpenHW Group a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects.  Previously Rick was Executive Director of the RISC-V Foundation.  Founded by Rick in 2015 with the support of over 40 Founding Members, the RISC-V Foundation currently comprises more than 400 members building an open, collaborative community of software and hardware innovators powering processor innovation. With many years of Executive level management experience in semiconductor and systems companies, Rick possesses a unique combination of business and technical skills and was responsible for the development of dozens of products accounting for over $750 million in revenue.  Rick holds an Executive MBA degree from the University of Ottawa, Canada and is an honors graduate of the faculty of Electronics Engineering Technology at Algonquin College, Canada.</p>
-       linkedin: https://www.linkedin.com/in/rickoco/
+         <p>Flo serves as CEO of the OpenHW Group a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects. His primary mission is to accelerate the adoption of high-quality, open-source RISC-V cores in mainstream applications while making it accessible for newcomers to join the vibrant RISC-V ecosystem. Previously, Flo played a pivotal role as head of sales for EMEA and Japan at Andes Technology. He successfully introduced RISC-V CPU IP to leading multinational corporations and pioneered its adoption in emerging sectors, including automotive, medical, and security.</p>
+       linkedin: https://www.linkedin.com/in/florian-wohlrab/
      - name: Davide Schiavone
        position: Staff Member
        bio: |
@@ -96,7 +96,7 @@ items:
            designer and has been passionately working on several RISC-V-related
            projects over the last 5 years. Since his graduation (BSc and MSc in
            Electronic Engineering from the University of Parma) he's been working
-           as contributor and manager in Italy, France and Germany. 
+           as contributor and manager in Italy, France and Germany.
          </p>
        linkedin: https://www.linkedin.com/in/maxgiacometti/
      - name: Michelle Clancy Fuller
@@ -104,4 +104,4 @@ items:
        weight: -1
        bio: |
          <p>Michelle is the Director of Marketing for the OpenHW Group. She manages the marketing programs for the OpenHW Group and its members. She brings more than 20 years of marketing experience in the emerging technology fields such as artificial intelligence (AI), electronic design automation (EDA), embedded systems, IoT, IP, and semiconductor industry. She is instrumental in developing and implementing integrated communication and PR programs, while engaging with key stakeholders and collaborating with senior management to achieve goals.  Michelle has a proven track record in managing events and trade shows with a strong emphasis on organization, planning, and creativity.</p>
-       linkedin: https://www.linkedin.com/in/michelle-clancy-fuller-b747765/ 
+       linkedin: https://www.linkedin.com/in/michelle-clancy-fuller-b747765/
