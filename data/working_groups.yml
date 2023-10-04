@@ -64,6 +64,24 @@ groups:
             company: QuickLogic Corporation
             position: Vice Chair
             linkedin: https://www.linkedin.com/in/tim-saxe-aa281a4/
+      - name: Safety and Security Task Group
+        description: |
+          <p>
+            OpenHW Group's Safety and Security TG is the Task Group developing
+            the roadmap for and implementations of Functional Safety and
+            Security IP for OpenHW's cores and ASICs.
+          </p>
+        mailingList: OpenHW CORE-V Safety and Security Mailing List here
+        mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.safety-security
+        chairs:
+          - name: Jaume Abella
+            company: Barcelona Supercomputer Centre
+            position: Co-Chair
+            linkedin: https://www.linkedin.com/in/jaume-abella-860575/
+          - name: Chris Jones
+            company: Crypto Quantique
+            position: Co-Chair
+            linkedin: https://www.linkedin.com/in/chris-jones-1791b71/
   - name: Marketing Working Group
     mailingList: OpenHW MWG Mailing List here
     mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.mwg
