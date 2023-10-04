@@ -44,14 +44,12 @@ groups:
         mailingList: OpenHW CORE-V SW TG Mailing List here
         mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.core-v.sw
         chairs:
-          - name: Jeremy Bennett
+          - name: Paolo Savini
             company: Embecosm
             position: Chair
-            linkedin: https://www.linkedin.com/in/jeremypbennett/
-          - name: Yunhai Shang
-            company: Alibaba T-Head
+            linkedin: https://www.linkedin.com/in/paolo-savini-56b833147/
+          - name: Position Vacant 
             position: Vice Chair
-            linkedin: http://www.linkedin.com/in/yunhai-shang/
       - name: HW Task Group
         description: |
           <p>The HW Task Group has the mandate to define, develop and support SoC and FPGA based evaluation / development platforms for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">HW Task Group projects can be found here</a>.</p>
