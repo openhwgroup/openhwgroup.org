@@ -9,10 +9,8 @@ groups:
         company: Thales Group
         position: Co-chair
         linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-qu%C3%A9vremont-245335/?originalSubdomain=fr
-      - name: David Lynch
-        company: CMC Microsystems
+      - name: Vacant Position 
         position: Co-Chair
-        linkedin: https://www.linkedin.com/in/david-lynch-3514474/
     task_groups:
       - name: Cores Task Group
         mailingList: OpenHW CORE-V Cores Mailing List here
