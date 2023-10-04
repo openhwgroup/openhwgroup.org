@@ -82,6 +82,7 @@ groups:
             company: Crypto Quantique
             position: Co-Chair
             linkedin: https://www.linkedin.com/in/chris-jones-1791b71/
+
   - name: Marketing Working Group
     mailingList: OpenHW MWG Mailing List here
     mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.mwg
@@ -109,4 +110,13 @@ groups:
             company: CMC Microsystems
             position: Co-chair
             linkedin: https://www.linkedin.com/in/hugh-pollitt-smith-460aba3/
-          
+      - name: Interconnect Task Group
+        chairs:
+          - name: Jonathan Balkind
+            company: UC Santa Barbara
+            position: Co-Chair
+            linkedin: https://www.linkedin.com/in/jbalkind/
+          - name: César Fuguet
+            company: CEA
+            position: Co-Chair
+            linkedin: https://www.linkedin.com/in/cesar-fuguet/
