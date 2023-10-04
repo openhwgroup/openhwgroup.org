@@ -32,10 +32,8 @@ groups:
         description: |
           <p>The Verification Task Group has the mandate to develop best in class verification test bench environments for the cores and IP blocks developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">Verification Task Group projects can be found here</a>.</p>
         chairs:
-          - name: Simon Davidmann
-            company: Imperas
+          - name: Position Vacant 
             position: Chair
-            linkedin: https://www.linkedin.com/in/simon-davidmann-57656b143/
           - name: Jean-Roch Coulon
             company: Thales Group
             position: Vice Chair
