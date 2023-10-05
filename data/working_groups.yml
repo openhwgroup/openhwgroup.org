@@ -107,16 +107,3 @@ groups:
          company: Futurewei Technologies
          position: Co Chair
          linkedin: https://www.linkedin.com/in/danny-hua-85186ab/
-    task_groups:
-      - name: University Outreach Task Group
-        description: |
-          <p>The University Outreach Task Group has the mandate to establish industry sponsored research projects and their respective funding (with government matching) in collaboration with leading universities throughout the world.</p>
-        chairs:
-          - name: Mel Chaar
-            company: Mitacs
-            position: Co Chair
-            linkedin: https://www.linkedin.com/in/melchaar
-          - name: Hugh Pollitt-Smith
-            company: CMC Microsystems
-            position: Co Chair
-            linkedin: https://www.linkedin.com/in/hugh-pollitt-smith-460aba3/
