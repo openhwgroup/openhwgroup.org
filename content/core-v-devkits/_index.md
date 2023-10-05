@@ -21,7 +21,7 @@ CORE-V MCU DevKit
 
 ### Description
 
-The [CORE-V MCU DevKit](https://github.com/openhwgroup/core-v-mcu-devkit) is a turnkey, open-source development and prototyping platform for the CORE-V MCU System on Chip. The CORE-V MCU DevKit enables makers of IoT and embedded systems to evaluate the performance of the CORE-V MCU, to interconnect with WiFi and the IoT cloud, and to develop and test software using the [CORE-V SDK](https://github.com/openhwgroup/core-v-sdk).
+The [CORE-V MCU DevKit](https://github.com/openhwgroup/core-v-mcu-devkit) is a turnkey, open-source development and prototyping platform for the [CORE-V MCU System on Chip](https://github.com/openhwgroup/core-v-mcu). The CORE-V MCU DevKit enables makers of IoT and embedded systems to evaluate the performance of the CORE-V MCU, to interconnect with WiFi and the IoT cloud, and to develop and test software using the [CORE-V SDK](https://github.com/openhwgroup/core-v-sdk).
 
 The CORE-V MCU DevKit includes these features
 
@@ -50,7 +50,7 @@ The CORE-V MCU DevKit is supported by OpenHW Group’s open-source CORE-V MCU SD
 - Peripheral driver libraries
 - Example Code
 
-The CORE-V MCU SDK Quickstart Guide includes links and instructions to download and bring up the SDK on Linux and Windows.
+The [CORE-V MCU SDK Quickstart Guide](https://github.com/openhwgroup/core-v-sdk/blob/main/README.md) includes links and instructions to download and bring up the SDK on Linux and Windows. The [DevKit User Manual](https://docs.openhwgroup.org/projects/core-v-mcu-devkit-user-manual/en/latest/) is available on Read the Docs.
 
 ### Ordering the CORE-V MCU DevKit
 
