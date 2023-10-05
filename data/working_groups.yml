@@ -7,10 +7,10 @@ groups:
     chairs:
       - name: Jérôme Quevremont
         company: Thales Group
-        position: Co-chair
+        position: Co Chair
         linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-qu%C3%A9vremont-245335/?originalSubdomain=fr
       - name: Vacant Position 
-        position: Co-Chair
+        position: Co Chair
     task_groups:
       - name: Cores Task Group
         mailingList: OpenHW CORE-V Cores Mailing List here
@@ -36,7 +36,7 @@ groups:
             position: Chair
           - name: Jean-Roch Coulon
             company: Thales Group
-            position: Co-Chair
+            position: Co Chair
             linkedin: https://www.linkedin.com/in/jeanrochcoulon/?originalSubdomain=fr
       - name: SW Task Group
         description: |
@@ -76,11 +76,11 @@ groups:
         chairs:
           - name: Jaume Abella
             company: Barcelona Supercomputer Centre
-            position: Co-Chair
+            position: Co Chair
             linkedin: https://www.linkedin.com/in/jaume-abella-860575/
           - name: Chris Jones
             company: Crypto Quantique
-            position: Co-Chair
+            position: Co Chair
             linkedin: https://www.linkedin.com/in/chris-jones-1791b71/
 
   - name: Marketing Working Group
@@ -91,11 +91,11 @@ groups:
     chairs:
        - name: Brent Jodoin
          company: CMC Microsystems
-         position: Co-chair
+         position: Co Chair
          linkedin: https://www.linkedin.com/in/kdobie/
        - name: Danny Hua
          company: Futurewei Technologies
-         position: Co-chair
+         position: Co Chair
          linkedin: https://www.linkedin.com/in/danny-hua-85186ab/
     task_groups:
       - name: University Outreach Task Group
@@ -104,19 +104,19 @@ groups:
         chairs:
           - name: Mel Chaar
             company: Mitacs
-            position: Co-chair
+            position: Co Chair
             linkedin: https://www.linkedin.com/in/melchaar
           - name: Hugh Pollitt-Smith
             company: CMC Microsystems
-            position: Co-chair
+            position: Co Chair
             linkedin: https://www.linkedin.com/in/hugh-pollitt-smith-460aba3/
       - name: Interconnect Task Group
         chairs:
           - name: Jonathan Balkind
             company: UC Santa Barbara
-            position: Co-Chair
+            position: Co Chair
             linkedin: https://www.linkedin.com/in/jbalkind/
           - name: César Fuguet
             company: CEA
-            position: Co-Chair
+            position: Co Chair
             linkedin: https://www.linkedin.com/in/cesar-fuguet/
