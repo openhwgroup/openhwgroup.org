@@ -37,7 +37,7 @@ groups:
             position: Co Chair
             linkedin: https://www.linkedin.com/in/jeanrochcoulon/?originalSubdomain=fr
           - name: Vacant Position 
-            position: Chair
+            position: Co Chair
       - name: SW Task Group
         description: |
           <p>The SW Task Group has the mandate to define, develop and support SW tool chain, operating system ports and firmware for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">SW Task Group projects can be found here</a>.</p>
