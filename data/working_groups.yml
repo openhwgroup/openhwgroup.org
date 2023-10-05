@@ -32,12 +32,12 @@ groups:
         description: |
           <p>The Verification Task Group has the mandate to develop best in class verification test bench environments for the cores and IP blocks developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">Verification Task Group projects can be found here</a>.</p>
         chairs:
-          - name: Position Vacant 
-            position: Chair
           - name: Jean-Roch Coulon
             company: Thales Group
             position: Co Chair
             linkedin: https://www.linkedin.com/in/jeanrochcoulon/?originalSubdomain=fr
+          - name: Vacant Position 
+            position: Chair
       - name: SW Task Group
         description: |
           <p>The SW Task Group has the mandate to define, develop and support SW tool chain, operating system ports and firmware for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">SW Task Group projects can be found here</a>.</p>
@@ -48,7 +48,7 @@ groups:
             company: Embecosm
             position: Chair
             linkedin: https://www.linkedin.com/in/paolo-savini-56b833147/
-          - name: Position Vacant 
+          - name: Vacant Position
             position: Vice Chair
       - name: HW Task Group
         description: |
@@ -82,6 +82,16 @@ groups:
             company: Crypto Quantique
             position: Co Chair
             linkedin: https://www.linkedin.com/in/chris-jones-1791b71/
+      - name: Interconnect Task Group
+        chairs:
+          - name: Jonathan Balkind
+            company: UC Santa Barbara
+            position: Co Chair
+            linkedin: https://www.linkedin.com/in/jbalkind/
+          - name: César Fuguet
+            company: CEA
+            position: Co Chair
+            linkedin: https://www.linkedin.com/in/cesar-fuguet/
 
   - name: Marketing Working Group
     mailingList: OpenHW MWG Mailing List here
@@ -110,13 +120,3 @@ groups:
             company: CMC Microsystems
             position: Co Chair
             linkedin: https://www.linkedin.com/in/hugh-pollitt-smith-460aba3/
-      - name: Interconnect Task Group
-        chairs:
-          - name: Jonathan Balkind
-            company: UC Santa Barbara
-            position: Co Chair
-            linkedin: https://www.linkedin.com/in/jbalkind/
-          - name: César Fuguet
-            company: CEA
-            position: Co Chair
-            linkedin: https://www.linkedin.com/in/cesar-fuguet/
