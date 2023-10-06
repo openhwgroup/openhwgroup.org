@@ -7,12 +7,10 @@ groups:
     chairs:
       - name: Jérôme Quevremont
         company: Thales Group
-        position: Co-chair
+        position: Co Chair
         linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-qu%C3%A9vremont-245335/?originalSubdomain=fr
-      - name: David Lynch
-        company: CMC Microsystems
-        position: Co-Chair
-        linkedin: https://www.linkedin.com/in/david-lynch-3514474/
+      - name: Vacant Position 
+        position: Co Chair
     task_groups:
       - name: Cores Task Group
         mailingList: OpenHW CORE-V Cores Mailing List here
@@ -34,28 +32,24 @@ groups:
         description: |
           <p>The Verification Task Group has the mandate to develop best in class verification test bench environments for the cores and IP blocks developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">Verification Task Group projects can be found here</a>.</p>
         chairs:
-          - name: Simon Davidmann
-            company: Imperas
-            position: Chair
-            linkedin: https://www.linkedin.com/in/simon-davidmann-57656b143/
           - name: Jean-Roch Coulon
             company: Thales Group
-            position: Vice Chair
+            position: Co Chair
             linkedin: https://www.linkedin.com/in/jeanrochcoulon/?originalSubdomain=fr
+          - name: Vacant Position 
+            position: Co Chair
       - name: SW Task Group
         description: |
           <p>The SW Task Group has the mandate to define, develop and support SW tool chain, operating system ports and firmware for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">SW Task Group projects can be found here</a>.</p>
         mailingList: OpenHW CORE-V SW TG Mailing List here
         mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.core-v.sw
         chairs:
-          - name: Jeremy Bennett
+          - name: Paolo Savini
             company: Embecosm
             position: Chair
-            linkedin: https://www.linkedin.com/in/jeremypbennett/
-          - name: Yunhai Shang
-            company: Alibaba T-Head
+            linkedin: https://www.linkedin.com/in/paolo-savini-56b833147/
+          - name: Vacant Position
             position: Vice Chair
-            linkedin: http://www.linkedin.com/in/yunhai-shang/
       - name: HW Task Group
         description: |
           <p>The HW Task Group has the mandate to define, develop and support SoC and FPGA based evaluation / development platforms for the cores and IP developed within the OpenHW Group. Existing <a href="https://www.openhwgroup.org/projects/">HW Task Group projects can be found here</a>.</p>
@@ -70,6 +64,35 @@ groups:
             company: QuickLogic Corporation
             position: Vice Chair
             linkedin: https://www.linkedin.com/in/tim-saxe-aa281a4/
+      - name: Safety and Security Task Group
+        description: |
+          <p>
+            OpenHW Group's Safety and Security TG is the Task Group developing
+            the roadmap for and implementations of Functional Safety and
+            Security IP for OpenHW's cores and ASICs.
+          </p>
+        mailingList: OpenHW CORE-V Safety and Security Mailing List here
+        mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.safety-security
+        chairs:
+          - name: Jaume Abella
+            company: Barcelona Supercomputer Centre
+            position: Co Chair
+            linkedin: https://www.linkedin.com/in/jaume-abella-860575/
+          - name: Chris Jones
+            company: Crypto Quantique
+            position: Co Chair
+            linkedin: https://www.linkedin.com/in/chris-jones-1791b71/
+      - name: Interconnect Task Group
+        chairs:
+          - name: Jonathan Balkind
+            company: UC Santa Barbara
+            position: Co Chair
+            linkedin: https://www.linkedin.com/in/jbalkind/
+          - name: César Fuguet
+            company: CEA
+            position: Co Chair
+            linkedin: https://www.linkedin.com/in/cesar-fuguet/
+
   - name: Marketing Working Group
     mailingList: OpenHW MWG Mailing List here
     mailingListAnchor: https://accounts.eclipse.org/mailing-list/openhw.mwg
@@ -78,23 +101,9 @@ groups:
     chairs:
        - name: Brent Jodoin
          company: CMC Microsystems
-         position: Co-chair
+         position: Co Chair
          linkedin: https://www.linkedin.com/in/kdobie/
        - name: Danny Hua
          company: Futurewei Technologies
-         position: Co-chair
+         position: Co Chair
          linkedin: https://www.linkedin.com/in/danny-hua-85186ab/
-    task_groups:
-      - name: University Outreach Task Group
-        description: |
-          <p>The University Outreach Task Group has the mandate to establish industry sponsored research projects and their respective funding (with government matching) in collaboration with leading universities throughout the world.</p>
-        chairs:
-          - name: Mel Chaar
-            company: Mitacs
-            position: Co-chair
-            linkedin: https://www.linkedin.com/in/melchaar
-          - name: Hugh Pollitt-Smith
-            company: CMC Microsystems
-            position: Co-chair
-            linkedin: https://www.linkedin.com/in/hugh-pollitt-smith-460aba3/
-          
