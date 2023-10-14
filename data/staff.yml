@@ -2,17 +2,30 @@ items:
   board:
     title: OpenHW Group Board of Directors
     members:
-     - name: Xiaoning Qi
-       position: Chairman of the Board
-       weight: 10
-       bio: |
-         <p>Xiaoning Qi is the Vice President of Alibaba Group and he was CEO of C-Sky Systems which was acquired by Alibaba. Previously, he held senior management and technical positions in companies such as Intel, working on integrated circuit devices, micro-processor design and platform electrical design for semiconductor systems. Additionally, he was Chairman and President of the Chinese American Semiconductor Professional Association, USA. Currently, he is a member of Asia-Pacific Leadership Council, Global Semiconductor Alliance (GSA), and member of the CEO Council, GSA. Xiaoning Qi received his Ph.D. degree in Electrical Engineering from Stanford University.</p>
-     - name: John D. Davis
+     - name: Miquel Moreto
        position: Board Member
        weight: 9
-       linkedin: https://www.linkedin.com/in/johnddavis/
+       linkedin: https://linkedin.com/in/miquelmoreto/
        bio: |
-         <p>John is the director of LOCA, the Laboratory for Open Computer Architecture, and the PI for MEEP and eProcessor RISC-V projects at the Barcelona Supercomputing Center. He has published over 30-refereed conference and journal papers in Computer Architecture (ASIC and FPGA-based domain-specific accelerators, non-volatile memories and processor design), Distributed Systems, and Bioinformatics. He also holds over 35 issued or pending patents in the USA and multiple international filings. He has designed and built distributed storage systems in research and as products. John has led the entire product strategy, roadmap, and execution for a big data and analytics company. He has worked in research at Microsoft Research, where he also co-advised 4 PhDs, as well as large and small companies like Sun Microsystems, Pure Storage, and Bigstream. John holds a B.S. in Computer Science and Engineering from the (University of Washington) and an M.S. and Ph.D. in Electrical Engineering (Stanford University).</p>
+         <p>
+           Miquel Moreto is an Associate Professor at the Computer Architecture
+           Departament (DAC) of the Universitat Politècnica de Catalunya (UPC),
+           and he leads the High Performance Domain Specific Architectures team
+           at the Barcelona Supercomputing Center (BSC). Miquel received the
+           PhD from UPC in 2010. After finishing the PhD, he spent 15 months at
+           the International Computer Science Institute (ICSI), affiliated with
+           UC Berkeley, as a Fulbright Postdoctoral Research Fellowship Holder
+           during 2011 and 2012. In 2013, he returned to Barcelona to work on
+           multiple European projects (RoMoL, Mont-Blanc, EPI, DeepHealth,
+           eProcessor) and industrial projects (Arm, IBM, Lenovo). Miquel has
+           published over 125-refereed conference and journal papers and
+           co-advised 12 PhD students. In 2019, he led the design and
+           fabrication of Lagarto, the first academic processor developed in
+           Spain based on the open source RISC-V instruction set architecture.
+           Finally, he coordinates the DRAC project, which is promoting the
+           Lagarto initiative with new generations of the processor and
+           accelerators.
+         </p>
      - name: Charlie Hauck
        position: Treasurer
        weight: 8
