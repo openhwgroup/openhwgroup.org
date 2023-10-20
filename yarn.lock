@@ -2480,20 +2480,20 @@ dotignore@~0.1.2:
   dependencies:
     minimatch "^3.0.4"
 
-eclipsefdn-hugo-solstice-theme@0.0.193:
-  version "0.0.193"
-  resolved "https://registry.yarnpkg.com/eclipsefdn-hugo-solstice-theme/-/eclipsefdn-hugo-solstice-theme-0.0.193.tgz#7256ac3d9a0bd31accd9ba7cbe188eefa5f55697"
-  integrity sha512-tqkyzhJVZW8eVfHXofUm1Wc4g4tyl856IIJ4LEXWTOMrnXhmlM/nTi518+0/dI87UxyPLifxwxXKJvmJGRZtSg==
+eclipsefdn-hugo-solstice-theme@^0.0.197:
+  version "0.0.197"
+  resolved "https://registry.yarnpkg.com/eclipsefdn-hugo-solstice-theme/-/eclipsefdn-hugo-solstice-theme-0.0.197.tgz#7735cfe14ea3f3fe0b59994d991307467b1f0ed3"
+  integrity sha512-TrMVdd3FK2bzRHtOlbpExda+4wiCckbwHFHWBt3sbiSw1nirdCLKxn+FOBN5e3arhez42cI3vUge2GpJUpm3/w==
   dependencies:
     axios "^0.21.1"
-    eclipsefdn-solstice-assets "0.0.238"
+    eclipsefdn-solstice-assets "0.0.242"
     json2yaml "^1.1.0"
     toml "^3.0.0"
 
-eclipsefdn-solstice-assets@0.0.238:
-  version "0.0.238"
-  resolved "https://registry.yarnpkg.com/eclipsefdn-solstice-assets/-/eclipsefdn-solstice-assets-0.0.238.tgz#7e157262e96c763413be3c17049d5d2687ec6c7f"
-  integrity sha512-AxUtBUe2AHO1l85fmZHSKbMCmjVJkYpUQj2YVoS5zIyDcKIOvuYbxGckF2Xr1qrfFMCeIKMX2i3GBhr9Al9MwA==
+eclipsefdn-solstice-assets@0.0.242:
+  version "0.0.242"
+  resolved "https://registry.yarnpkg.com/eclipsefdn-solstice-assets/-/eclipsefdn-solstice-assets-0.0.242.tgz#568e560e339ac4401421907501e26ae1e108f399"
+  integrity sha512-nVirhk2MUnCYEC8KB5+ZbLhqIAzzWyNiKBa+ciuvPwrTA0KHvrzyc67LoJ/ukE18kqENZfsYLBDu5Nm7z2YIjw==
   dependencies:
     "@babel/core" "^7.0.0-0"
     "@babel/plugin-proposal-class-properties" "^7.12.1"
