@@ -134,10 +134,6 @@ types:
         title: Imperas
         link: http://www.imperas.com/
         img_width: 100
-      - image: /images/sponsors/intel.png
-        title: Intel
-        link: https://pathfinder.intel.com/
-        img_width: 90
       - image: /images/sponsors/intrinsix-logo.png
         title: Intrinsix Corp
         link: https://www.intrinsix.com/
@@ -158,10 +154,6 @@ types:
         title: Low Power Futures
         link: https://lowpowerfutures.com/
         img_width: 100
-      - image: /images/sponsors/mcmaster-university-logo.png
-        title: McMaster University
-        link: https://www.mcmaster.ca/
-        img_width: 120
       - image: /images/sponsors/mu-electronics.png
         title: MU Electronics
         link: https://www.mu-e.com/
@@ -261,10 +253,6 @@ types:
         title: Hefei Whale Microelectronics
         link: http://www.whalemicro.com
         img_width: 150
-      - image: /images/sponsors/xmos-logo.png
-        title: XMOS Ltd
-        link: https://www.xmos.ai/
-        img_width: 120
       - image: /images/sponsors/zero-day-labs.svg
         title: Zero Day Labs
         link: '#'
