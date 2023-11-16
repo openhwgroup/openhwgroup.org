@@ -5,7 +5,7 @@
 
 <!-- Get the series page with the most recent date -->
 {{ $latest_series_key := "" }}
-{{ range first 1 ((where $videos_section.RegularPages "Params.series" "!=" "").ByDate.Reverse)  }}
+{{ range first 1 ((where $videos_section.RegularPages "Params.series" "!=" nil).ByDate.Reverse)  }}
   {{ $latest_series_key = .Params.series }} 
 {{ end }}
 {{ $latest_series := index (where $series_section.RegularPages "Params.series" "==" $latest_series_key) 0 }}
