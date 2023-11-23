@@ -121,11 +121,6 @@ types:
         title: Harvey Mudd College
         link: https://www.hmc.edu/
         img_width: 80
-      - image: /images/sponsors/huawei-logo.png
-        title: Huawei
-        link: https://www.huawei.com
-        member_id: 1380
-        img_width: 135
       - image: /images/sponsors/ict-cas-logo.png
         title: ICT-CAS
         link: http://www.ict.ac.cn/
