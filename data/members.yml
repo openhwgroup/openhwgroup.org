@@ -49,6 +49,10 @@ types:
         title: CircuitSutra Technologies
         link: https://www.circuitsutra.com/
         img_width: 150
+      - image: /images/sponsors/cirrus-logic.png
+        title: Cirrus Logic
+        link: https://www.cirrus.com/
+        img_width: 150
       - image: /images/sponsors/cmc-logo.jpg
         title: CMC
         link: https://www.cmc.ca/
