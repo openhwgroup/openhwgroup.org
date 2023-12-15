@@ -181,6 +181,10 @@ types:
         title: QuickLogic
         link: https://www.quicklogic.com
         img_width: 165
+      - image: /images/sponsors/red-hat-logo.png
+        title: Red Hat
+        link: https://www.redhat.com/
+        img_width: 150
       - image: /images/sponsors/rios-lab-logo.png
         title: RIOS Lab
         link: https://rioslab.org/
