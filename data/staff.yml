@@ -100,18 +100,6 @@ items:
            Universitat Politecnica de Catalunya, Spain.
          </p>
        linkedin: https://www.linkedin.com/in/mariorodrigper/
-     - name: Massimiliano (Max) Giacometti
-       position: Staff Member
-       bio: |
-         <p>
-           Massimiliano is responsible for Continuous Integration and DevOps for
-           the OpenHW Group. He has more than 15 years of experience as digital
-           designer and has been passionately working on several RISC-V-related
-           projects over the last 5 years. Since his graduation (BSc and MSc in
-           Electronic Engineering from the University of Parma) he's been working
-           as contributor and manager in Italy, France and Germany.
-         </p>
-       linkedin: https://www.linkedin.com/in/maxgiacometti/
      - name: Michelle Clancy Fuller
        position: Staff Member
        weight: -1
