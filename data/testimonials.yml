@@ -47,12 +47,12 @@ items:
   -
     title: Doug Letcher, CEO, Metrics Technologies
     text: Metrics is proud to be an early sponsor and contributor to the OpenHW Group CORE-V Family of open-source RISC-V cores and related processor sub-system. Specifically, OpenHW's collaborative open-source verification test bench ensures the CORE-V RISC-V cores are suitable for high volume production SoCs.
-    logo: /images/sponsors/metrics-logo.svg
+    logo: /images/testimonials/metrics.svg
     logo_width: 130
   -
     title: Raik Brinkmann, CEO of Onespin
     text: The success of widespread RISC-V adoption hinges on design integrity of the processors and SoCs that contain them. We look forward to leveraging our verification expertise and working as a founding member of the OpenHW Group to make the highest quality CORE-V Family of open-source RISC-V cores available to the community.
-    logo: /images/sponsors/onespin.png
+    logo: /images/testimonials/onespin.png
     logo_width: 115
   -
     title: Marko Erman, Chief Technology Officer, Thales
