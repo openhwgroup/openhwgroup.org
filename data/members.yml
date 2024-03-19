@@ -394,10 +394,6 @@ types:
         title: ETH zurich
         link: http://www.iis.ee.ethz.ch/
         img_width: 140
-      - image: /images/sponsors/imagination-tech-logo.png
-        title: Imagination Technologies Limited
-        link: https://www.imaginationtech.com/
-        img_width: 175
       - image: /images/sponsors/nxp-logo.jpg
         title: NXP USA, Inc.
         link: https://www.nxp.com/
