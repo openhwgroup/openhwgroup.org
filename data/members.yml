@@ -145,10 +145,6 @@ types:
         title: KALRAY SA
         link: https://www.kalrayinc.com/
         img_width: 145
-      - image: /images/sponsors/lpf.png
-        title: Low Power Futures
-        link: https://lowpowerfutures.com/
-        img_width: 100
       - image: /images/sponsors/mu-electronics.png
         title: MU Electronics
         link: https://www.mu-e.com/
