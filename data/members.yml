@@ -65,6 +65,9 @@ types:
         title: Codasip
         link: https://codasip.com/
         img_width: 125
+      - image: /images/sponsors/corelab-logo.jpg
+        title: CoreLab Technology
+        img_width: 125
       - image: /images/sponsors/cryptoquantique-logo.png
         title: Cryptoquantique
         link: https://cryptoquantique.com/
