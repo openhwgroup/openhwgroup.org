@@ -81,10 +81,6 @@ types:
         title: Dolphin Design
         link: https://www.dolphin-design.fr/
         img_width: 120
-      - image: /images/sponsors/ecspec-logo.png
-        title: ECSpec
-        link: https://www.ecspec.com/
-        img_width: 100
       - image: /images/sponsors/em-micro-logo.svg
         title: EM Micro
         link: https://www.emmicroelectronic.com/
