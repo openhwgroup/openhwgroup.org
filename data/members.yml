@@ -67,6 +67,7 @@ types:
         img_width: 125
       - image: /images/sponsors/corelab-logo.jpg
         title: CoreLab Technology
+        link: https://www.corelabtech.com/
         img_width: 125
       - image: /images/sponsors/cryptoquantique-logo.png
         title: Cryptoquantique
