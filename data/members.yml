@@ -145,10 +145,6 @@ types:
         title: MU Electronics
         link: https://www.mu-e.com/
         img_width: 120
-      - image: /images/sponsors/nxp-logo.jpg
-        title: NXP
-        link: https://www.nxp.com/
-        img_width: 100
       - image: /images/sponsors/osu-logo.png
         title: Oklahoma State University
         link: https://go.okstate.edu/
@@ -371,10 +367,6 @@ types:
         title: ISCAS
         link: http://english.is.cas.cn/
         img_width: 135
-      - image: /images/sponsors/nxp-logo.jpg
-        title: NXP USA, Inc.
-        link: https://www.nxp.com/
-        img_width: 120
 
   - name: ewg
     items:
@@ -386,10 +378,6 @@ types:
         title: ETH zurich
         link: http://www.iis.ee.ethz.ch/
         img_width: 140
-      - image: /images/sponsors/nxp-logo.jpg
-        title: NXP USA, Inc.
-        link: https://www.nxp.com/
-        img_width: 100
       - image: /images/sponsors/university-of-bologna-logo.png
         title: University of Bologna
         link: https://www.unibo.it/en
