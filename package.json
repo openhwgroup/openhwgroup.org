@@ -22,6 +22,6 @@
   "readmeFilename": "README.md",
   "browserslist": "last 5 version, > 0.2%, not dead, IE 11",
   "dependencies": {
-    "eclipsefdn-hugo-solstice-theme": "0.0.207"
+    "eclipsefdn-hugo-solstice-theme": "0.0.210"
   }
 }
