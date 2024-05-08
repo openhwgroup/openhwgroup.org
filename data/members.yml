@@ -25,6 +25,10 @@ types:
         title: Ashling
         link: https://www.ashling.com/
         img_width: 135
+      - image: /images/sponsors/axelera.png
+        title: Axelera
+        link: https://www.axelera.ai/
+        img_width: 180
       - image: /images/sponsors/bsc-logo.png
         title: Barcelona Supercomputing Center
         link: https://www.bsc.es/
