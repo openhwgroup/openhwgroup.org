@@ -9,8 +9,10 @@ groups:
         company: Thales Group
         position: Co Chair
         linkedin: https://www.linkedin.com/in/j%C3%A9r%C3%B4me-qu%C3%A9vremont-245335/?originalSubdomain=fr
-      - name: Vacant Position 
+      - name: Jeremy Bennett
+        company: Embecosm
         position: Co Chair
+        linkedin:  https://www.linkedin.com/in/jeremypbennett
     task_groups:
       - name: Cores Task Group
         mailingList: OpenHW CORE-V Cores Mailing List here
