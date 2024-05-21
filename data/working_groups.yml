@@ -66,10 +66,8 @@ groups:
             company: Barcelona Supercomputer Centre
             position: Co Chair
             linkedin: https://www.linkedin.com/in/jaume-abella-860575/
-          - name: Chris Jones
-            company: Crypto Quantique
+          - name: Vacant Position 
             position: Co Chair
-            linkedin: https://www.linkedin.com/in/chris-jones-1791b71/
       - name: Interconnect Task Group
         chairs:
           - name: Jonathan Balkind
