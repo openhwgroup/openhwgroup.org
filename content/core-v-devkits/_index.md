@@ -52,10 +52,6 @@ The CORE-V MCU DevKit is supported by OpenHW Group’s open-source CORE-V MCU SD
 
 The [CORE-V MCU SDK Quickstart Guide](https://github.com/openhwgroup/core-v-sdk/blob/main/README.md) includes links and instructions to download and bring up the SDK on Linux and Windows. The [DevKit User Manual](https://docs.openhwgroup.org/projects/core-v-mcu-devkit-user-manual/en/latest/) is available on Read the Docs.
 
-### Ordering the CORE-V MCU DevKit
-
-The CORE-V MCU DevKit  is currently available for early access order on the [GroupGets website](https://groupgets.com/) with anticipated delivery of November 14, 2023. Visit the [GroupGets CORE-V MCU DevKit early access campaign page](https://groupgets.com/campaigns/1040-core-v-mcu-devkit) to reserve your DevKit, as early access quantities are limited.
-
 ## CORE-V MCU Emulation Platform
 
 ![Nexsys A7. Described in detail below.](/images/core-v-devkits/nexys-a7.jpg)
