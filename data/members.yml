@@ -8,6 +8,7 @@ types:
       - image: /images/sponsors/accelr.png
         title: Accelr Logic (Pvt)
         link: https://accelr.lk/
+        img_width: 125
       - image: /images/sponsors/alean-tec-logo-tagline.svg
         title: Alean-Tec
         link: https://alean-tec.com/
