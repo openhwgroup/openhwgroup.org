@@ -45,12 +45,6 @@ items:
        linkedin: https://www.linkedin.com/in/liang-peng-7635943/
        bio: |
          <p>Liang Peng is Vice President, head of IC-Lab and head of HMS Ecosystem Development in Futurewei Technologies. In this role, Liang leads R&D, ecosystem development in IC design, and HMS ecosystem development. He has a professional career in the semiconductor industry for 20+ years in many Silicon Valley companies including Nvidia, Intel, Rambus. He has played leading roles in technology and product development as well as strategy planning and partnership from mobile to cloud at chip and system level on GPU, CPU, video processor, memory and SOC etc. His early pioneer work and invention at Nvidia on pixel shader architecture is an industry milestone for GPU, setting the foundation for programmable shading, massive parallel computing as well as convolutional neural network for deep learning with GPU. He is also advisor and former Chairman and President of CASPA (2012-13). Liang has a B.S. in Astrophysics from Peking University, and a Ph.D. in Electrical Engineering from Cornell University.</p>
-     - name: Daniel Cooley
-       position: Board Member
-       weight: 3
-       bio: |
-         <p>Daniel Cooley serves as Silicon Labs’ Chief Technology Officer, where he is responsible for the company’s overall research and development strategy and execution. Cooley is a respected IoT industry visionary and has been instrumental in building the unmatched breadth and depth of the company’s wireless connectivity portfolio. Previously, Daniel served as Senior Vice President and Chief Strategy Officer, where he led Silicon Labs’ overall strategy, corporate development, M&A, emerging markets, and security. Prior to that, Daniel led Silicon Labs’ IoT business as Senior Vice President and General Manager. Since 2005, Cooley has served in a variety of engineering and business leadership positions at Silicon Labs in the US, Asia and Europe. He has an M.S. in Electrical Engineering from Stanford University and a B.S. in Electrical Engineering from The University of Texas at Austin and holds four patents in radio and low-power technology. In addition to the OpenHW Group, Daniel also currently serves on the board of directors for the Thinkery, Texas 4000, and the Austin Symphony Orchestra.</p>
-       linkedin: https://www.linkedin.com/in/djcooley/
   staff:
     title: OpenHW Group Executive Staff
     members:
@@ -77,11 +71,6 @@ items:
        bio: |
          <p>Mike Thompson is the OpenHW Group Director of Engineering, Verification Task Group.  He is a senior IC Functional Verification engineering manager with more than 20 years experience.  Mike has led all aspects of the discipline with broad experience in simulation, emulation and prototyping plus management level experience of formal verification projects.  He has both hands-on and management level experience with multiple SV/UVM projects and has developed teams driving SV/UVM for constrained-random, coverage driven verification efforts. Michael has been involved in a dozen successful tape-outs including five 100M gate-scale devices based on proprietary RISC processors which were verified using a novel random instruction generator and coverage model implemented in SV/VMM.  Mike holds a Bachelor of Applied Science degree in Electrical and Electronics Engineering from the University of Regina, Canada.</p>
        linkedin: https://www.linkedin.com/in/michael-thompson-0a581a/
-     - name: Duncan Bees
-       position: Staff Member
-       bio: |
-         <p>Duncan Bees is Director, Technical Programs of the OpenHW Group and the Eclipse Foundation. He manages the open-source engineering process supporting industrial-quality design and verification of the IP curated by the OpenHW Group, as well as the SW tools, FPGA, SoC implementations, and board level designs that support this ecosystem. Duncan has previously held executive roles with the Home Gateway Initiative (HGI) and the Digital Living Network Alliance (DLNA) and has contributed to many worldwide standards and technology initiatives. He managed R&D and product research for telecom, wireless and semiconductor companies. Duncan holds a bachelor’s degree in Applied Science from the University of British Columbia, a master’s degree with Honours in Electrical Engineering from McGill University, and has completed extensive study in machine learning, software, and data analytics. He is a certified Project Management Professional and Certified Scrum Master.</p>
-       linkedin: https://www.linkedin.com/in/duncanbees/
      - name: Florian Zaruba
        position: Staff Member
        bio: |
