@@ -152,7 +152,7 @@ types:
       - image: /images/sponsors/mu-electronics.png
         title: MU Electronics
         link: https://www.mu-e.com/
-        img_width: 120
+        img_width: 100
       - image: /images/sponsors/osu-logo.png
         title: Oklahoma State University
         link: https://go.okstate.edu/
@@ -180,7 +180,11 @@ types:
       - image: /images/sponsors/rios-lab-logo.png
         title: RIOS Lab
         link: https://rioslab.org/
-        img_width: 150
+        img_width: 130
+      - image: /images/sponsors/risc-v-taiwan-logo.jpg
+        title: RISC-V Taiwan Alliance (RVTA)
+        link: https://www.twiota.org/RISC-V/
+        img_width: 130
       - image: /images/sponsors/rumble-development-corp.png
         title: Rumble Development Corp
         link: http://www.rumbledev.com/
