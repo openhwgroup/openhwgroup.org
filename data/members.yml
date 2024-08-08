@@ -181,10 +181,6 @@ types:
         title: RIOS Lab
         link: https://rioslab.org/
         img_width: 130
-      - image: /images/sponsors/risc-v-taiwan-logo.jpg
-        title: RISC-V Taiwan Alliance (RVTA)
-        link: https://www.twiota.org/RISC-V/
-        img_width: 130
       - image: /images/sponsors/rumble-development-corp.png
         title: Rumble Development Corp
         link: http://www.rumbledev.com/
@@ -326,10 +322,15 @@ types:
         img_width: 100
         level: 1
       - image: /images/partners/risc.svg
-        title: Risc-V
+        title: RISC-V
         link: https://riscv.org/
         img_width: 70
         level: 1 
+      - image: /images/sponsors/risc-v-taiwan-logo.jpg
+        title: RISC-V Taiwan Alliance (RVTA)
+        link: https://www.twiota.org/RISC-V/
+        img_width: 130
+        level: 1
       - image: /images/partners/rt-thread.svg
         title: RT-Thread
         link: https://www.rt-thread.org/
