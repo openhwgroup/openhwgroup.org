@@ -89,10 +89,6 @@ types:
         title: Datum
         link: http://www.datumtc.ca/
         img_width: 115
-      - image: /images/sponsors/dolphin-design-logo.png
-        title: Dolphin Design
-        link: https://www.dolphin-design.fr/
-        img_width: 120
       - image: /images/sponsors/em-micro-logo.svg
         title: EM Micro
         link: https://www.emmicroelectronic.com/
