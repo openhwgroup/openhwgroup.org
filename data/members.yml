@@ -129,6 +129,10 @@ types:
         title: ICT-CAS
         link: http://www.ict.ac.cn/
         img_width: 250
+      - image: /images/sponsors/i-machines.jpg
+        title: I Machines, Inc
+        link: https://imachinesinc.com/
+        img_width: 90
       - image: /images/sponsors/imperas-logo.svg
         title: Imperas
         link: http://www.imperas.com/
