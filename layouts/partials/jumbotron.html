@@ -43,3 +43,18 @@
   </div>
 </div>
 {{ end }}
+{{ if .Page.IsHome }}
+  <section class="row padding-top-30 padding-bottom-60 dark text-center" style="background-color: #00000022; backdrop-filter: blur(10px);">
+    <div class="container">
+      <div class="col-sm-8 col-sm-offset-4 margin-y-30">
+        <h2 class="fw-600">We are joining the Eclipse Foundation</h2>
+      </div>
+      <div class="col-sm-8">
+        <img class="img-responsive" src="/images/eclipse-foundation-white.png" alt="Logo of the Eclipse Foundation">
+      </div>
+      <div class="col-sm-24">
+        <a class="btn btn-primary" href="/about-us/transition-faq/">Learn More</a>
+      </div>
+    </div>
+  </section>
+{{ end }}
