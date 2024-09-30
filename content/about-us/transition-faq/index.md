@@ -1,9 +1,10 @@
 ---
 title: "OpenHW To Join the Eclipse Foundation: FAQs"
+seo_title: "OpenHW joining the Eclipse Foundation"
 date: 2024-09-29
 tags: ["openhw foundation", "transition", "working group", "frequently asked questions", "faqs"]
 headline: "FAQs"
-subtitle: "OpenHW To Join the Eclipse Foundation"
+subtitle: "OpenHW joining the Eclipse Foundation"
 hide_page_title: true
 container: "container margin-top-30"
 ---
