@@ -276,6 +276,11 @@ types:
         link: https://cayennecom.com/
         img_width: 120
         level: 1
+      - image: /images/partners/cheri-alliance-logo.png
+        title: CHERI Alliance
+        link: https://cheri-alliance.org/
+        img_width: 130
+        level: 1
       - image: /images/partners/caspa-logo.jpeg
         title: Chinese American Semiconductor Professional Association
         link: http://www.caspa.com/
