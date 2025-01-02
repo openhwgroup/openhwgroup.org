@@ -11,4 +11,4 @@
  * SPDX-License-Identifier: EPL-2.0
  */
 
-import 'eclipsefdn-solstice-assets';
+import 'eclipsefdn-solstice-assets/js/astro';
