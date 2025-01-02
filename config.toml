@@ -23,9 +23,9 @@ themesDir = "node_modules/"
   header_wrapper_class = "header-default-bg-img"
   js = "js/solstice.js"
   featured_content_publish_target = "openhwgroup"
-# call_for_action_text = ""
-# call_for_action_url = ""
-# call_for_action_icon = ""
+  call_for_action_text = "Download"
+  call_for_action_url = "#"
+  call_for_action_icon = ""
 
 [taxonomies]
   category = "categories"
@@ -49,122 +49,26 @@ themesDir = "node_modules/"
   hrefTargetBlank = true
 
 [[menu.main]]
-    name = "About Us"
-    url = "/about-us"
-    weight = 1
+  name = "About"
+  url = "/about/"
+  weight = 1
 
 [[menu.main]]
-    name = "CORE-V DevKits"
-    url = "/core-v-devkits"
-    weight = 1
+  name = "Membership"
+  url = "/membership/"
+  weight = 2
 
 [[menu.main]]
-    name = "Projects"
-    url = "/projects"
-    weight = 2
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
 
 [[menu.main]]
-    name = "Membership"
-    url = "/membership"
-    weight = 3
+  name = "Get Involved"
+  url = "/get-involved/"
+  weight = 4
 
 [[menu.main]]
-    name = "Working Groups"
-    url = "/working-groups"
-    weight = 4
-
-[[menu.main]]
-    name = "Resources"
-    url = "/"
-    weight = 5
-
-[[menu.main]]
-    name = "Contact Us"
-    url = "/#contact-us"
-    weight = 6
-
-# Membership submenus
-[[menu.main]]
-    name = "Member Benefits and Services"
-    url = "/membership#tab-benefits"
-    parent = "Membership"
-    weight = 1
-[[menu.main]]
-    name = "Membership Levels"
-    url = "/membership#tab-levels"
-    parent = "Membership"
-    weight = 2
-[[menu.main]]
-    name = "Membership Fees"
-    url = "/membership#tab-fees"
-    parent = "Membership"
-    weight = 3
-[[menu.main]]
-    name = "Become a Member"
-    url = "/membership#tab-membership"
-    parent = "Membership"
-    weight = 4
-[[menu.main]]
-    name = "Explore our Members"
-    url = "/membership/members"
-    parent = "Membership"
-    weight = 5
-
-# Working Groups submenus
-[[menu.main]]
-    name = "Technical and Marketing Working Groups"
-    url = "/working-groups"
-    parent = "Working Groups"
-    weight = 1
-[[menu.main]]
-    name = "OpenHW Asia"
-    url = "/working-groups/openhw-asia"
-    parent = "Working Groups"
-    weight = 2
-[[menu.main]]
-    name = "OpenHW Europe"
-    url = "/working-groups/openhw-europe"
-    parent = "Working Groups"
-    weight = 3
-
-# Resources submenus
-[[menu.main]]
-    name = "Create or Edit Eclipse Account"
-    url = "/register"
-    parent = "Resources"
-    weight = 1
-[[menu.main]]
-    name = "OpenHW Mattermost"
-    url = "https://mattermost.openhwgroup.org/all-users/channels/town-square"
-    parent = "Resources"
-    weight = 2
-[[menu.main]]
-    name = "OpenHW Project Dashboard"
-    url = "https://github.com/openhwgroup/programs/blob/master/dashboard/Dashboard_SpreadSheetFriendly.md"
-    parent = "Resources"
-    weight = 3
-[[menu.main]]
-    name = "OpenHW Project Descriptions"
-    url = "https://github.com/openhwgroup/programs/tree/master/Project-Descriptions-and-Plans"
-    parent = "Resources"
-    weight = 4
-[[menu.main]]
-    name = "OpenHW TV"
-    url = "/resources/openhwtv/"
-    parent = "Resources"
-    weight = 5
-[[menu.main]]
-    name = "OpenHW Blog"
-    url = "/resources/blog/"
-    parent = "Resources"
-    weight = 6
-[[menu.main]]
-    name = "OpenHW Calendar"
-    url = "/working-groups/#working-group-calls"
-    parent = "Resources"
-    weight = 7
-[[menu.main]]
-    name = "OpenHW Downloads"
-    url = "http://downloads.openhwgroup.org/"
-    parent = "Resources"
-    weight = 8
+  name = "Resources"
+  url = "/resources/"
+  weight = 5
