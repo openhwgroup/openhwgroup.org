@@ -26,6 +26,7 @@ themesDir = "node_modules/"
   call_for_action_text = "Download"
   call_for_action_url = "#"
   call_for_action_icon = ""
+  jumbotron_class = "col-sm-20 col-sm-offset-2"
 
 [taxonomies]
   category = "categories"
