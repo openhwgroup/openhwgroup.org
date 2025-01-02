@@ -6,6 +6,7 @@ subtitle: "The leading global community for <br> Industrial Grade, Open Source R
 hide_sidebar : true
 hide_page_title: true
 hide_breadcrumb: true
+header_wrapper_class: "bg-home"
 date: 2019-03-14T15:50:25-04:00
 links: [[href: "/about/", text: "Members"], [href: "/become-a-member/", text: "Join Us"]]
 container: "container-fluid"

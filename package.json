@@ -23,5 +23,8 @@
   "browserslist": "last 5 version, > 0.2%, not dead, IE 11",
   "dependencies": {
     "eclipsefdn-hugo-solstice-theme": "0.1.4"
+  },
+  "resolutions": {
+    "eclipsefdn-solstice-assets": "https://gitlab.eclipse.org/oliviergoulet/solstice-assets.git#60b26eb2218e617f6098e408cfe34cd4d401ee9e"
   }
 }
