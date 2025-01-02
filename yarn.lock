@@ -980,6 +980,11 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
+"@fortawesome/fontawesome-free@^6.5.2":
+  version "6.7.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-6.7.2.tgz#8249de9b7e22fcb3ceb5e66090c30a1d5492b81a"
+  integrity sha512-JUOtgFW6k9u4Y+xeIaEiLr3+cjoUPiAuLXoyKOJSia6Duzb7pq+A76P9ZdPDoAoxHdHzq6gE9/jKBGXlZT8FbA==
+
 "@geedmo/yamm3@^1.3.1":
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/@geedmo/yamm3/-/yamm3-1.3.1.tgz#3387b66dd75d4d1c13853283b67526411416dfb9"
@@ -2644,20 +2649,20 @@ dotignore@~0.1.2:
   dependencies:
     minimatch "^3.0.4"
 
-eclipsefdn-hugo-solstice-theme@0.0.218:
-  version "0.0.218"
-  resolved "https://registry.yarnpkg.com/eclipsefdn-hugo-solstice-theme/-/eclipsefdn-hugo-solstice-theme-0.0.218.tgz#e27898ad60ced66eb18c0db51a30a89fc6da19a8"
-  integrity sha512-/bS7M+lctH/hBnZ1DKupAanvvZcC9wE+pO3LuyCJSkY+peH8UNje742T3TmIsHehK0aFpR772nVIjzh5amdGBw==
+eclipsefdn-hugo-solstice-theme@0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/eclipsefdn-hugo-solstice-theme/-/eclipsefdn-hugo-solstice-theme-0.1.4.tgz#4a42b6736c7d26e3fa96358f557238506c32f79e"
+  integrity sha512-tclgVU+qOiq4z1/mc+pn83cXWX9eHwFmAK+JbyNbVKKOeRjDC/h47eqxgyg90GR/NREUmtYx2Yi8j0B+BD+L8A==
   dependencies:
     axios "^1.7.7"
-    eclipsefdn-solstice-assets "0.0.270"
+    eclipsefdn-solstice-assets "0.1.5"
     json2yaml "^1.1.0"
     toml "^3.0.0"
 
-eclipsefdn-solstice-assets@0.0.270:
-  version "0.0.270"
-  resolved "https://registry.yarnpkg.com/eclipsefdn-solstice-assets/-/eclipsefdn-solstice-assets-0.0.270.tgz#9a28b4f665d88b3866b1f1f64ad6db12d27947bc"
-  integrity sha512-OCher7tPjiiKAz6ZHGbmOW5KcLgcDeX+5m1+p64kO56rI8jw5kjjRW7OLKprM8xEsqSfUFLGxv9s0y9DOIBkIw==
+eclipsefdn-solstice-assets@0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/eclipsefdn-solstice-assets/-/eclipsefdn-solstice-assets-0.1.5.tgz#c2542ff892bbb9e57eb40b8cc543a742d70bac7d"
+  integrity sha512-aVtugTP3D9d3pgL93cFtuc5IYdkZksc8hr8G/WPsJaQKYSaMBONA8bLnxClSQIUcSkPhoOLsgQSmILgGRpkKWA==
   dependencies:
     "@babel/core" "^7.23.2"
     "@babel/plugin-proposal-class-properties" "^7.18.6"
@@ -2666,6 +2671,7 @@ eclipsefdn-solstice-assets@0.0.270:
     "@babel/plugin-syntax-dynamic-import" "^7.8.3"
     "@babel/plugin-transform-runtime" "^7.23.2"
     "@babel/preset-env" "^7.23.2"
+    "@fortawesome/fontawesome-free" "^6.5.2"
     "@geedmo/yamm3" "^1.3.1"
     "@types/hogan.js" "^3.0.5"
     "@types/jquery" "^3.5.29"
@@ -2680,7 +2686,6 @@ eclipsefdn-solstice-assets@0.0.270:
     ellipsize "^0.2.0"
     feather-icons "^4.29.1"
     file-loader "^6.2.0"
-    font-awesome "^4.7.0"
     hogan.js "^3.0.2"
     html-webpack-plugin "^5.5.3"
     isomorphic-fetch "^3.0.0"
@@ -3116,11 +3121,6 @@ follow-redirects@^1.0.0, follow-redirects@^1.15.6:
   version "1.15.9"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.9.tgz#a604fa10e443bf98ca94228d9eebcc2e8a2c8ee1"
   integrity sha512-gew4GsXizNgdoRyqmyfMHyAmXsZDk6mHkSxZFCzW9gwlbtOW44CDtYavM+y+72qD/Vq2l550kMF52DT8fOLJqQ==
-
-font-awesome@^4.7.0:
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/font-awesome/-/font-awesome-4.7.0.tgz#8fa8cf0411a1a31afd07b06d2902bb9fc815a133"
-  integrity sha512-U6kGnykA/6bFmg1M/oT9EkFeIYv7JlX3bozwQJWiiLz6L0w3F5vBVPxHlwyX/vtNq1ckcpRKOB9f2Qal/VtFpg==
 
 for-each@^0.3.3, for-each@~0.3.3:
   version "0.3.3"
