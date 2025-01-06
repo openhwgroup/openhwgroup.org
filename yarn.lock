@@ -2659,9 +2659,9 @@ eclipsefdn-hugo-solstice-theme@0.1.4:
     json2yaml "^1.1.0"
     toml "^3.0.0"
 
-eclipsefdn-solstice-assets@0.1.5, "eclipsefdn-solstice-assets@https://gitlab.eclipse.org/oliviergoulet/solstice-assets.git#60b26eb2218e617f6098e408cfe34cd4d401ee9e":
+eclipsefdn-solstice-assets@0.1.5, "eclipsefdn-solstice-assets@https://gitlab.eclipse.org/eclipsefdn/it/webdev/solstice-assets.git#e3c438cbec4c52e38ac0573320774b6496b9bfc3":
   version "0.1.5"
-  resolved "https://gitlab.eclipse.org/oliviergoulet/solstice-assets.git#60b26eb2218e617f6098e408cfe34cd4d401ee9e"
+  resolved "https://gitlab.eclipse.org/eclipsefdn/it/webdev/solstice-assets.git#e3c438cbec4c52e38ac0573320774b6496b9bfc3"
   dependencies:
     "@babel/core" "^7.23.2"
     "@babel/plugin-proposal-class-properties" "^7.18.6"
