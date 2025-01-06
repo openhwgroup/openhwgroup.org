@@ -21,3 +21,27 @@
   background-size: cover;
   background-position-y: 50%;
 }
+
+.featured-story-jumbotron {
+  border-radius: 0.5em;
+  background-color: fade(lighten(@brand-secondary, 30%), 30%);
+  backdrop-filter: blur(10px);
+  
+  & .featured-story-jumbotron-title {
+    color: #fff;
+  }
+
+  & .featured-story-jumbotron-content-body {
+    color: #eee;
+  }
+
+  .btn-primary {
+    background-color: black;
+    border-color: black;
+
+    &:hover,
+    &:active {
+      background-color: lighten(black, 10%);
+    }
+  }
+}
