@@ -18,6 +18,16 @@
 
 @import 'layout/_jumbotron.less';
 
+.btn-sharp {
+  border-radius: 0;
+}
+
+.bg-traces {
+  background: url('./images/bg-traces.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .jumbotron-logo {
   width: 400px;
 
@@ -27,64 +37,12 @@
   }
 }
 
-h2 {
-  padding-bottom: 15px;
-  font-weight: 600;
-  color: @brand-primary;
-}
-
-.news-list {
-  @media (min-width: 769px) {
-    .news-list-links {
-      text-align: left;
-    }
-  }
-
-  @media (max-width: 768px) {
-    text-align: center;
-
-    .header-underline:after {
-      margin: 15px auto 0;
-    }
-  }
-
-  h2 {
-    color: @brand-primary;
-    margin-top: 60px;
-  }
-
-  .news-item {
-    margin-bottom: 30px;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
-  }
-
-  .news-list-link {
-    color: #484848;
-  }
+.eclipsefdn-members-list .logo-placeholder-text {
+  font-size: 1em; 
 }
 
 .featured-section {
-  background-size: cover;
-  color: @white;
-
-  h2 {
-    color: @white;
-  }
-
-  h3 {
-    color: @brand-primary;
-    font-size: 19px;
-    margin-bottom: 0;
-    font-weight: 600;
-    margin-top: 0;
-  }
-
-  .header-underline:after {
-    border-color: @brand-primary;
-  }
+  font-size: @font-size-lg;
 }
 
 .featured-testimonials {
@@ -389,25 +347,56 @@ table {
   }
 }
 
-.pinned-news-item {
-  display: block;
+// Move to EFSA
+.news-cards .news-item-card {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding: 2rem;
+  background-color: @white;
 
-  .block-summary-item {
-    position: relative;
+  &:hover {
+    background-color: darken(@white, 5%);
   }
 
-  .pinned-news-item-icon {
-    position: absolute;
-    right: -1rem;
-    top: -1rem;
+  .news-item-card-title {
+    font-weight: bold;
+  }
+
+  .news-item-card-date {
+    margin: 1rem 0;
+    color: @brand-primary;
+    font-weight: bold;
   }
 }
 
-.jumbotron-announcement {
-  background-color: #00000022; 
-  backdrop-filter: blur(10px);
+.news-cards {
+  & .news-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
 
-  &-inline-logo {
-    margin: 0 -17px 10px -25px;
+  @media (min-width: @screen-sm-min) {
+    &-horizontal .news-container {
+      flex-direction: row;
+    }
+  }
+
+  @media (min-width: @screen-lg-min) {
+    &-horizontal .news-item-card {
+      width: 30%;
+    }
+  }
+
+  &-gapped {
+    .news-container {
+      justify-content: space-evenly;
+    }
+
+    // Place shadow on individual cards
+    .news-item-card {
+      box-shadow: 0px 0px 12px #00000044;
+    }
   }
 }

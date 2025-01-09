@@ -8,6 +8,7 @@ disableKinds = ["taxonomyTerm"]
 themesDir = "node_modules/"
 
 [Params]
+  website_type = "Working Group"
   google_tag_manager = "GTM-5WLCZXC"
   layout_style = "astro"
   description = "OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects."
@@ -27,6 +28,7 @@ themesDir = "node_modules/"
   call_for_action_url = "#"
   call_for_action_icon = ""
   jumbotron_class = "col-sm-20 col-sm-offset-2"
+  hide_footer_newsletter = true
 
 [taxonomies]
   category = "categories"
