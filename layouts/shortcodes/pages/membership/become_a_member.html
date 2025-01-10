@@ -44,7 +44,7 @@
 </section>
 
 <!-- Testimonials -->
-<section class="row featured-testimonials dark bg-traces">
+<section class="row featured-testimonials dark bg-traces padding-y-60">
   <div class="container">
     <h2 id="testimonials">What Our Members Are Saying</h2>
     <div class="row">
@@ -81,21 +81,22 @@
       <ul class="text-center margin-top-15 list-inline">
         <li>
           <a
-            data-toggle-text="Close" 
+            data-toggle-text="<i class='fa-solid fa-chevron-up margin-right-5'></i>View Less" 
             role="button" 
             data-toggle="collapse" 
             href="#featured-more-items" 
             aria-expanded="true" 
             aria-controls="featured-more-items" 
-            class="btn btn-link toggle-text text-white"
+            class="btn btn-link btn-lg toggle-text text-white"
           >
-            <i class="fa-solid fa-chevron-down"></i>
+            <i class="fa-solid fa-chevron-down margin-right-5"></i>
             View More
           </a>
         </li>
       </ul>
     {{ end }}
-
-    {{ template "membership_ctas" . }}
+    <div class="margin-top-40">
+      {{ template "membership_ctas" . }}
+    </div>
   </div>
 </section>
