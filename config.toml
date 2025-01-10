@@ -15,7 +15,7 @@ themesDir = "node_modules/"
   subtitle = ""
   seo_title_suffix = " | OpenHW Group"
   keywords = ["open-source", "risc-v", "hardware", "software", "hw", "sw", "eclipse ide"]
-  logo = "images/openhw-landscape.png"
+  logo = "/images/openhw-landscape.png"
   styles = "css/styles.css"
   favicon = "images/favicon.ico"
 # share_img = ""
@@ -51,10 +51,32 @@ themesDir = "node_modules/"
   plainIDAnchors = true
   hrefTargetBlank = true
 
+# About Menu
+
 [[menu.main]]
   name = "About"
-  url = "/about/"
   weight = 1
+  identifier = "about"
+
+[[menu.main]]
+  name = "OpenHW Foundation"
+  url = "/about-us/"
+  weight = 1
+  parent = "about"
+
+[[menu.main]]
+  name = "CORE-V RISC-V Cores"
+  url = "/about-us/core-v-risc-v-cores/"
+  weight = 2
+  parent = "about"
+
+[[menu.main]]
+  name = "CORE-V DevKits"
+  url = "/core-v-devkits/"
+  weight = 3
+  parent = "about"
+
+# Membership Menu
 
 [[menu.main]]
   name = "Membership"

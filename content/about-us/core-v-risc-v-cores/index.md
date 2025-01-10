@@ -41,4 +41,4 @@ address emerging challenges and opportunities. By proactively shaping our
 initiatives, we aim to deliver impactful solutions that drive progress across
 the ecosystem.
 
-<!-- Insert img -->
+{{< figure class="text-center margin-top-40" imgClass="margin-x-auto" src="./images/openhw-risc-v-portfolio.jpg" alt="A chart titled OpenHW RISC-V Portfolio. Legend contains three items: Ready, In Development, and Planning. The X axis represents Performance and the Y axis represents Area. From the least area and performance to most is as follows: CVE2 (in development), CVE4 (ready), CV32E40P (ready), " >}}
