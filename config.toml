@@ -82,6 +82,19 @@ themesDir = "node_modules/"
   name = "Membership"
   url = "/membership/"
   weight = 2
+  identifier = "membership"
+
+[[menu.main]]
+  name = "Our Members"
+  url = "/membership/members/"
+  weight = 1
+  parent = "membership"
+
+[[menu.main]]
+  name = "Become a Member"
+  url = "/membership/become-a-member/"
+  weight = 2
+  parent = "membership"
 
 [[menu.main]]
   name = "Projects"
