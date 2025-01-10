@@ -49,11 +49,6 @@
     <div class="eclipsefdn-members-list" data-ml-wg="openhw-foundation" data-ml-template="carousel"></div>
   </div>
 </section>
-<section class="row text-center padding-y-60">
-  <div class="container">
-    <h2 class="margin-bottom-40" id="sponsors">Sponsors</h2>
-  </div>
-</section>
 <section class="row padding-y-60 bg-traces">
   <div class="container">
     <div class="col-sm-10">
@@ -72,7 +67,7 @@
           </div>
         </div>
         <div
-          class="news-items news-cards"
+          class="news-items news-cards match-height-item-by-row"
           id="{{ $news_id }}"
           data-news-count="3"
           data-template-id="news-cards"
@@ -95,8 +90,15 @@
             </a>
           </div>
         </div>
-        <div class="feed-list-items">
-
+        <div
+          class="events-list padding-20 match-height-item-by-row"
+          id="{{ $events_id }}"
+          data-count="4"
+          data-template-id="event-timeline"
+          data-publish-target="openhwgroup"
+          data-upcoming="1"
+        >
+          <div class="events-container h-100" id="events-container"></div>
         </div>
       </div>
     </div>
