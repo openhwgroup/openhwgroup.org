@@ -7,8 +7,6 @@ hide_page_title: true
 layout: "single"
 ---
 
-{{< grid/div class="margin-top-30" >}}
-
 OpenHW is a global non-profit organisation dedicated to developing, verifying,
 and delivering high quality, open source RISC-V processor cores and related IP
 for commercial and industrial applications. With over 100 members and partners,
@@ -24,4 +22,3 @@ For more information on OpenHW Foundation’s mission, governance structure, and
 steering and technical advisory committees, 
 [read the charter](https://www.eclipse.org/org/workinggroups/openhw-foundation-charter.php).
 
-{{</ grid/div >}}
