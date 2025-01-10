@@ -1,7 +1,7 @@
 {{ define "membership_ctas" }}
   <div class="text-center">
-    <a class="btn btn-primary" href="#">Contact Us About Membership</a>
-    <a class="btn btn-primary" href="#">My Organisation is Ready to Join Now</a>
+    <a class="btn btn-primary btn-sm" href="#">Contact Us About Membership</a>
+    <a class="btn btn-primary btn-sm" href="#">My Organisation is Ready to Join Now</a>
   </div>
 {{ end }}
 
@@ -50,7 +50,7 @@
     <div class="row">
       {{ range first 3 .Site.Data.testimonials.items }}
         <div class="col-sm-8 margin-bottom-20 testimonial-item">
-          <div class="bg-primary padding-20 match-height-item">
+          <div class="padding-20 match-height-item">
           <div class="testimonial-logo">
             <img width="{{ .logo_width }}" class="img-responsive" src="{{ .logo }}">
           </div>
@@ -65,7 +65,7 @@
         <div class="row testimonial-container">
         {{ range after 3 .Site.Data.testimonials.items }}
           <div class="col-sm-8 margin-bottom-20 testimonial-item">
-            <div class="bg-primary padding-20 match-height-item">
+            <div class="padding-20 match-height-item">
             <div class="testimonial-logo">
               <img width="{{ .logo_width }}" class="img-responsive" src="{{ .logo }}">
             </div>

@@ -1,5 +1,5 @@
 .featured-testimonials {
-  background-image: url('/images/bg-testimonials.jpg');
+  .bg-traces;
 
   .header-underline:after {
     margin: 15px auto 0;
@@ -9,6 +9,16 @@
   .testimonial-item {
     margin-top: 120px;
     display: block;
+
+    @media (min-width: @screen-sm-min) {
+      padding: 0 1.5rem;
+    }
+
+    & > div {
+      background-color: fade(@brand-primary, 25%);
+      backdrop-filter: blur(4px);
+      border-radius: 0.5em;
+    }
 
     .testimonial-logo {
       background-color: #fff;
