@@ -1,1 +1,63 @@
 // Todo: add icon-card
+
+
+@card-padding: 4rem;
+@icon-card-padding: @card-padding;
+
+.card.icon-card {
+  position: relative;
+  padding: @icon-card-padding;
+  padding-top: calc(@icon-card-padding + 2rem);
+
+  .icon-card-header {
+    margin-bottom: 2rem;
+
+    &-title {
+      .h4;
+      margin: 0;
+      text-transform: uppercase;
+      text-align: center;
+    }
+
+    &-icon {
+      position: absolute;
+      top: -3rem;
+      left: calc(50% - 3rem);
+      width: 6rem;
+      height: 6rem;
+      padding: 1rem;
+      border-radius: 50% 50%;
+      background-color: @brand-primary;
+      // For FA icons
+      font-size: 1.75em;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  .icon-card-body-cta {
+    position: absolute;
+    left: 0;
+    bottom: calc(@icon-card-padding/2);
+    width: 100%;
+  }
+}
+
+.card.icon-card.icon-card-rounded {
+  border-radius: 0.75rem;
+}
+
+.card.icon-card.icon-card-dark {
+  color: @white;
+  background-color: @brand-secondary;
+
+  &,
+  .icon-card-header-title {
+    color: @white;
+  }
+}
+
+.card.icon-card {
+  height: 30rem;
+}
