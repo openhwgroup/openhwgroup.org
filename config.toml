@@ -16,6 +16,7 @@ themesDir = "node_modules/"
   seo_title_suffix = " | OpenHW Group"
   keywords = ["open-source", "risc-v", "hardware", "software", "hw", "sw", "eclipse ide"]
   logo = "/images/openhw-landscape.png"
+  logo_width = "200"
   styles = "css/styles.css"
   favicon = "images/favicon.ico"
 # share_img = ""
@@ -110,3 +111,16 @@ themesDir = "node_modules/"
   name = "Resources"
   url = "/resources/"
   weight = 5
+  identifier = "resources"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/resources/blog/"
+  parent = "resources"
+  weight = 1
+
+[[menu.main]]
+  name = "OpenHW TV"
+  url = "/resources/openhwtv"
+  parent = "resources"
+  weight = 2

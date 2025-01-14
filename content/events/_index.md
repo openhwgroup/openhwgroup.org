@@ -6,9 +6,10 @@ layout: "single"
 ---
 
 {{< grid/div isMarkdown="false" >}}
-    <a href="/events/members" class="btn btn-primary margin-15 margin-bottom-30">Events from Members</a>
+    <a href="/events/members" class="btn btn-primary margin-bottom-30">Events from Members</a>
 {{</ grid/div>}}
 
+{{< grid/div class="row" isMarkdown="false" >}}
 {{< newsroom/events
     id="events_archive" 
     archive="true"
@@ -17,3 +18,4 @@ layout: "single"
     templateId="event-list-with-description"
     templatePath="js/templates/event-list-with-description.mustache"
     paginate="true" >}} 
+{{</ grid/div >}}
