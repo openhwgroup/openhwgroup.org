@@ -1,6 +1,8 @@
 ---
 title: "Contact Us"
+headline: "Contact Us"
 date: 2025-01-13T00:00:00
+hide_page_title: true
 ---
 
 Is your organisation ready to become a member? [Join now](https://membership.eclipse.org/application/ready-to-join).
