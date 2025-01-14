@@ -10,9 +10,9 @@ Created by OpenHW members, CORE-V DevKits are tailored to facilitate the
 evaluation and development of OpenHW system-on-chips (SoCs), offering essential
 tools for innovation and testing.
 
+{{< grid/div class="row" isMarkdown="false" >}}
+  {{< grid/div class="col-sm-12" isMarkdown="true" >}}
 ## CORE-V MCU DevKit
-
-<!-- Add image -->
 
 The [CORE-V MCU DevKit](https://github.com/openhwgroup/core-v-mcu-devkit) 
 is a turnkey, open source development and prototyping platform for the 
@@ -22,6 +22,18 @@ and embedded systems to evaluate CORE-V MCU performance, connect seamlessly
 with WiFi and IoT cloud services, and to build and test software using the
 [CORE-V SDK](https://github.com/openhwgroup/core-v-sdk), offering a versatile
 foundation for prototyping and development.
+  {{</ grid/div >}}
+  {{< grid/div class="col-sm-12" isMarkdown="false" >}}
+    {{< figure 
+      class="margin-bottom-60"
+      imgClass="img-responsive margin-x-auto" 
+      width="400" 
+      src="./images/core-v-mcu-devkit.png" 
+      caption="CORE-V MCU DevKit" 
+    >}}
+  {{</ grid/div >}}
+
+{{</ grid/div >}}
 
 ### Features
 
@@ -56,9 +68,10 @@ includes links and instructions to download and bring up the SDK on Linux and
 Windows. A [DevKit User Manual](https://docs.openhwgroup.org/projects/core-v-mcu-devkit-user-manual/en/latest/) 
 is also available.
 
-## CORE-V MCU Emulation Platform
 
-<!-- Insert image -->
+{{< grid/div isMarkdown="false" >}}
+  {{< grid/div class="col-sm-12 margin-y-30" isMarkdown="true" >}}
+## CORE-V MCU Emulation Platform
 
 The [CORE-V MCU](https://github.com/openhwgroup/core-v-mcu) 
 emulation platform integrates the [CV32E40P Processor IP](https://github.com/openhwgroup/cv32e40p) 
@@ -69,3 +82,14 @@ evaluation of processor functionality and software development using the [CORE-V
 
 To get started with the CORE-V-MCU, consult the [CORE-V-MCU Quick Start Guide](https://github.com/openhwgroup/core-v-mcu/blob/master/emulation/quickstart/README.md)
 and the [CORE-V-SDK Quick Start Guide](https://github.com/openhwgroup/core-v-sdk/blob/main/README.md).
+  {{</ grid/div >}}
+  {{< grid/div class="col-sm-12" isMarkdown="false" >}}
+    {{< figure 
+      class="margin-bottom-60"
+      imgClass="img-responsive margin-x-auto" 
+      width="400" 
+      src="./images/digilent-nexsys-a7.png" 
+      caption="Digilent Nexsys A7 board configured as CORE-V MCU Emulation Platform" 
+    >}}
+  {{</ grid/div >}}
+{{</ grid/div >}}
