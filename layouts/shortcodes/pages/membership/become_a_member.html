@@ -1,6 +1,6 @@
 {{ define "membership_ctas" }}
-  <a class="btn btn-primary btn-sm" href="/membership/contact-us/">Contact Us About Membership</a>
-  <a class="btn btn-primary btn-sm" href="https://membership.eclipse.org/portal/ready-to-join">My Organisation is Ready to Join Now</a>
+  <a class="btn btn-primary btn-sm margin-bottom-10" href="/membership/contact-us/">Contact Us About Membership</a>
+  <a class="btn btn-primary btn-sm margin-bottom-10" href="https://membership.eclipse.org/portal/ready-to-join">My Organisation is Ready to Join Now</a>
 {{ end }}
 
 <section class="row padding-bottom-60">
@@ -15,7 +15,46 @@
     </div>
 
     <h2 id="why-join">Why Join?</h2>
-    <!-- CTAs -->
+    <div class="row margin-y-40">
+
+      <div class="col-xs-12 col-sm-8 margin-bottom-30 match-height-item-by-row">
+        <div class="highlight-card bg-secondary dark">
+          <p>Be part of the rapidly growing CORE-V  ecosystem</p>
+          <i class="highlight-card-bg-icon fa-solid fa-arrow-up-right-dots" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-8 margin-bottom-30 match-height-item-by-row">
+        <div class="highlight-card bg-primary text-white">
+          <p>Participate in the Steering Committee and Technical Advisory</p>
+          <i class="highlight-card-bg-icon fa-solid fa-users" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-8 margin-bottom-30 match-height-item-by-row">
+        <div class="highlight-card bg-secondary text-white">
+          <p>Work to drive a global open hardware roadmap</p>
+          <i class="highlight-card-bg-icon fa-solid fa-road" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-8 margin-bottom-30 match-height-item-by-row">
+        <div class="highlight-card bg-primary text-white">
+          <p>Gain industry prominence through leadership roles</p>
+          <i class="highlight-card-bg-icon fa-solid fa-medal" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-8 margin-bottom-30 match-height-item-by-row">
+        <div class="highlight-card bg-secondary text-white">
+          <p>Drive various OpenHW and industry events</p>
+          <i class="highlight-card-bg-icon fa-solid fa-calendar" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-8 margin-bottom-30 match-height-item-by-row">
+        <div class="highlight-card bg-primary text-white">
+          <p>Use OpenHW and CORE-V trademark logos</p>
+          <i class="highlight-card-bg-icon fa-solid fa-gavel" aria-hidden="true"></i>
+        </div>
+      </div>
+
+    </div>
 
     <h3 id="benefits">Benefits of Joining the OpenHW Ecosystem</h3>
     <ul>
@@ -79,7 +118,7 @@
       </div>
     {{ end }}
     {{ if gt (len .Site.Data.testimonials.items) 3 }}
-      <ul class="text-center margin-top-15 list-inline">
+      <ul class="text-center margin-top-30 list-inline">
         <li>
           <a
             data-toggle-text="<i class='fa-solid fa-chevron-up margin-right-5'></i>View Less" 
