@@ -1,17 +1,33 @@
 items:
   -
     title: Rob Oshana, Chairman of the Board OpenHW Group and VP Software Engineering, NXP
-    text: The electronics industry is embracing open-source processor technologies at an unprecedented rate. At NXP we believe there’s a need to create a deep ecosystem to support adoption of the RISC-V ISA. This includes various components - middleware, stacks and tools - all aligned to move the architecture forward. I’m pleased to serve as Chairman of the OpenHW Group board to help realise this goal.
+    text: |
+      The electronics industry is embracing open source processor technologies
+      at an unprecedented rate. At NXP we believe there’s a need to create a
+      deep ecosystem to support adoption of the RISC-V ISA. This includes
+      various components - middleware, stacks and tools - all aligned to move
+      the architecture forward. I’m pleased to work with OpenHW to help realise
+      this goal.
     logo: /images/testimonials/nxp.jpg
     logo_width: 90
   -
     title: Alessandro Piovaccari, Board Director of OpenHW Group and CTO of Silicon Labs
-    text: Within the next few years, most of the billions of SoCs in our smart, connected world will contain many specialized cores to address various tasks from subsystems supervision, to security and machine learning. I’m delighted to join the board of the OpenHW Group because I believe the CORE-V Family of open-source RISC-V cores will be vital in providing robust and accessible processors to address this need, which will ultimately help accelerate innovation in the IoT.
+    text: |
+      Within the next few years, most of the billions of SoCs in our smart,
+      connected world will contain many specialized cores to address various
+      tasks from subsystems supervision, to security and machine learning. I’m
+      delighted to join OpenHW because I believe the CORE-V Family of open
+      source RISC-V cores will be vital in providing robust and accessible
+      processors to address this need, which will ultimately help accelerate
+      innovation in the IoT.
     logo: /images/testimonials/silicon-labs.svg
     logo_width: 90
   -
     title: Xiaoning Qi, Ph.D.,Board Director OpenHW Group and VP of Alibaba Group
-    text: Alibaba Group values open innovation that drives the internet technology forward. I am honoured to join the board of the OpenHW Group and support the development of open-source processor technology driving IoT, AI, ML and server platforms.
+    text: |
+      Alibaba Group values open innovation that drives the internet technology
+      forward. I am honoured to join OpenHW and support the development of open
+      source processor technology driving IoT, AI, ML and server platforms.
     logo: /images/testimonials/alibaba-group.png
     logo_width: 130
   -
