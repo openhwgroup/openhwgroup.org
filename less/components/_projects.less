@@ -8,11 +8,15 @@
  * SPDX-License-Identifier: EPL-2.0
 */
 
-.header-wrapper .header-navbar-nav-links > * {
-  margin-right: unset;
+.featured-projects {
+  &-item,
+  & .form-control {
+    border-radius: @border-radius-base;
+  }
+
+  .form-control {
+    padding: 1.125em;
+  }
 }
 
-.navbar-nav-links-item > .dropdown > button,
-.navbar-nav-links-item > a {
-  padding: 0.3rem 2.5rem;
-}
+

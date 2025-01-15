@@ -8,11 +8,23 @@
  * SPDX-License-Identifier: EPL-2.0
 */
 
-.header-wrapper .header-navbar-nav-links > * {
-  margin-right: unset;
+.feed-list .events-list {
+  background-color: #fff;
 }
 
-.navbar-nav-links-item > .dropdown > button,
-.navbar-nav-links-item > a {
-  padding: 0.3rem 2.5rem;
+.member-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+
+  li {
+    max-width: 250px;
+
+    @media all and (-ms-high-contrast:none) {
+      margin: 20px
+    }
+  }
 }
+
