@@ -1,19 +1,5 @@
-{{ define "membership_ctas" }}
-  <a class="btn btn-primary btn-sm margin-bottom-10" href="/membership/contact-us/">Contact Us About Membership</a>
-  <a class="btn btn-primary btn-sm margin-bottom-10" href="https://membership.eclipse.org/portal/ready-to-join">My Organisation is Ready to Join Now</a>
-{{ end }}
-
 <section class="row padding-bottom-60">
   <div class="container">
-    <p class="h1">Become a Member</p>
-    <p>
-      Join <a href="/membership/members/">industry leaders</a> as we define and
-      build the hardware of the future.
-    </p>
-    <div class="margin-top-30 padding-bottom-60">
-      {{ template "membership_ctas" . }}
-    </div>
-
     <h2 id="why-join">Why Join?</h2>
     <div class="row margin-y-40">
 
@@ -136,7 +122,8 @@
       </ul>
     {{ end }}
     <div class="margin-top-40 text-center">
-      {{ template "membership_ctas" . }}
+      <a class="btn btn-primary btn-sm margin-bottom-10" href="/membership/contact-us/">Contact Us About Membership</a>
+      <a class="btn btn-primary btn-sm margin-bottom-10" href="https://membership.eclipse.org/portal/ready-to-join">My Organisation is Ready to Join Now</a>
     </div>
   </div>
 </section>
