@@ -23,6 +23,7 @@ themesDir = "node_modules/"
   gcse = ""
 # subtheme = ""
   header_wrapper_class = "header-default-bg-img"
+  hide_call_for_action = true
   js = "js/solstice.js"
   featured_content_publish_target = "openhwgroup"
   call_for_action_text = "Download"
