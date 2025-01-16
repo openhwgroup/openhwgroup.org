@@ -26,3 +26,8 @@
 .bg-secondary-gradient-darker {
   background: linear-gradient(45deg, darken(@brand-secondary, 15%), @brand-secondary);
 }
+
+// Removes the dark gradient from mobile
+.header-default-bg-img .featured-jumbotron::before {
+  background: unset;
+}

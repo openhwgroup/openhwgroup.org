@@ -23,6 +23,14 @@
   & &-subtitle {
     font-size: @font-size-xl;
   }
+
+  // @todo: See if I can remove EFSA's media query
+  .btn {
+    @media (max-width: @screen-sm-max) {
+      border-radius: @border-radius-base;
+      padding: @padding-base-vertical @padding-base-horizontal; 
+    }
+  }
 }
 
 .header-default-bg-img .featured-jumbotron {
