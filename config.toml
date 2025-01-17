@@ -38,7 +38,7 @@ themesDir = "node_modules/"
 
 [Author]
   name = "OpenHW Group"
-  website = "https://www.openhwfoundation.org"
+  website = "https://www.openhwgroup.org"
   email = "info@openhwgroup.org"
 # facebook = ""
   twitter = "openhwgroup"
