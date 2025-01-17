@@ -9,7 +9,6 @@ summary: >-
   We are looking for an experienced Chief Executive Officer to develop, oversee
   and control all strategic and business aspects of the non-profit corporation.
 author: OpenHW Group
-container: container 
 ---
 
 ## OpenHW Group CEO Job Description

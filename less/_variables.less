@@ -12,9 +12,6 @@
 */
 
 //== /_core/template/header.less
-
-@font-family-sans-serif:  "Open Sans", Arial, sans-serif;
-@font-size-base:          18px;
 @font-size-h2:32px;
 
 @header-toolbar-background-color: transparent;
@@ -27,22 +24,25 @@
 
 //== Colors
 
-@brand-primary:         #6a9d58; // Green
-@brand-secondary:       #1d3152; // Blue
+@brand-primary:         #16A13C; // Green
+@brand-secondary:       #212E5B; // Blue
 @brand-tertiary:        #bbbbbb; // Grey
 @brand-quaternary:      #efefef; // Light Gray
 @brand-quinary:         @brand-quaternary; // Light Gray (Breadcrumbs)
+
+//== Base Styles 
+@border-radius-base: 0.5em;
 
 //==  Mobile menu colors
 
 // Main colors for the menu
 @mobile-menu-nav-background: @brand-secondary;
 @mobile-menu-hover: #9ab8c1;
-@mobile-menu-color:#fff;
+@mobile-menu-color:#000;
 
 // Colors for active link
 @mobile-menu-open-active-background: #efeef2;
-@mobile-menu-open-active-color: #fff;
+@mobile-menu-open-active-color: #000;
 
 // Default dropdown link colors
 @mobile-menu-background: transparent;
@@ -51,11 +51,11 @@
 @mobile-main-menu-link-padding:10px 15px;
 @mobile-main-menu-link-border-bottom:none;
 @mobile-menu-dropdown-menu-background: #2a2a2c;
-@mobile-menu-dropdown-menu-color: #fff;
+@mobile-menu-dropdown-menu-color: #000;
 @mobile-menu-dropdown-menu-hover: #000;
 @mobile-menu-dropdown-menu-hover-background: #f5f5f5;
 @mobile-menu-dropdown-menu-active-background: @brand-warning;
-@mobile-menu-dropdown-menu-active-color: #fff;
+@mobile-menu-dropdown-menu-active-color: #000;
 @mobile-menu-dropdown-menu-active-hover: #000;
 @mobile-menu-dropdown-menu-active-hover-background: #f5f5f5;
 @mobile-menu-dropdown-menu-border-bottom:none;
@@ -75,22 +75,36 @@
 @main-menu-link-size:15px;
 @alternate-main-menu-link-size:@main-menu-link-size;
 
-@main-menu-dropdown-menu-background:@white;
-@main-menu-dropdown-link-color: @white;
-@main-menu-dropdown-link-active-color: @brand-warning;
-@main-menu-dropdown-link-hover-color: @brand-warning;
-
-
 // Default dropdown link colors
 @alternate-mobile-menu-background:@header-background;
 @alternate-mobile-main-menu-link-size:@mobile-main-menu-link-size;
+
+// Buttons
+@padding-base-horizontal: 2em;
+@padding-xs-horizontal: 2em;
+@padding-small-horizontal: 2em;
+@padding-large-horizontal: 2em;
+
+@padding-base-vertical: 0.875em;
+@padding-xs-vertical: 0.875em;
+@padding-small-vertical: 0.875em;
+@padding-large-vertical: 0.875em;
+
+@btn-border-radius-base: 0.5em;
+@btn-border-radius-xs: 0.5em;
+@btn-border-radius-small: 0.5em;
+@btn-border-radius-large: 0.5em;
+
+@btn-font-weight: 600;
+
+@btn-primary-color: @white;
 
 // links
 @link-color: darken(@brand-primary, 10%);
 @breadcrumb-color: darken(@brand-tertiary, 60%);
 @jumbotron-h1-size:60px;
 
-@header-default-bg-img:url('/images/bg-jumbotron.jpg');
+@header-default-bg-img:url('./images/bg-jumbotron-default.jpg');
 @heading-underline-border: @heading-underline-thickness solid @brand-primary;
 
 @footer-background: #fafafa;

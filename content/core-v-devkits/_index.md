@@ -1,29 +1,41 @@
 ---
 title: "CORE-V DevKits"
 date: 2019-05-04T10:00:45-04:00
+headline: "CORE-V DevKits"
 hide_sidebar: true
 hide_page_title: true
 ---
 
-# CORE-V DevKits
+Created by OpenHW members, CORE-V DevKits are tailored to facilitate the
+evaluation and development of OpenHW system-on-chips (SoCs), offering essential
+tools for innovation and testing.
 
-Welcome to the OpenHW Group CORE-V DevKits page.
-
-CORE-V DevKits that support evaluation of and development for OpenHW SoCs are developed by the OpenHW Hardware Task Group and the OpenHW Software Task Group contributing members.
-
-Available CORE-V DevKits are listed below.
-
+{{< grid/div class="row" isMarkdown="false" >}}
+  {{< grid/div class="col-sm-12" isMarkdown="true" >}}
 ## CORE-V MCU DevKit
 
-![CORE-V MCU DevKit. Described in detail below.](/images/core-v-devkits/core-v-mcu-devkit-top.png)
+The [CORE-V MCU DevKit](https://github.com/openhwgroup/core-v-mcu-devkit) 
+is a turnkey, open source development and prototyping platform for the 
+[CORE-V MCU SoC](https://github.com/openhwgroup/core-v-mcu). 
+The DevKit was built by OpenHW Members for OpenHW Members enables makers of IoT
+and embedded systems to evaluate CORE-V MCU performance, connect seamlessly
+with WiFi and IoT cloud services, and to build and test software using the
+[CORE-V SDK](https://github.com/openhwgroup/core-v-sdk), offering a versatile
+foundation for prototyping and development.
+  {{</ grid/div >}}
+  {{< grid/div class="col-sm-12" isMarkdown="false" >}}
+    {{< figure 
+      class="margin-bottom-60"
+      imgClass="img-responsive margin-x-auto" 
+      width="400" 
+      src="./images/core-v-mcu-devkit.png" 
+      caption="CORE-V MCU DevKit" 
+    >}}
+  {{</ grid/div >}}
 
-CORE-V MCU DevKit
+{{</ grid/div >}}
 
-### Description
-
-The [CORE-V MCU DevKit](https://github.com/openhwgroup/core-v-mcu-devkit) is a turnkey, open-source development and prototyping platform for the [CORE-V MCU System on Chip](https://github.com/openhwgroup/core-v-mcu). The CORE-V MCU DevKit enables makers of IoT and embedded systems to evaluate the performance of the CORE-V MCU, to interconnect with WiFi and the IoT cloud, and to develop and test software using the [CORE-V SDK](https://github.com/openhwgroup/core-v-sdk).
-
-The CORE-V MCU DevKit includes these features
+### Features
 
 - CORE-V MCU
 - CV32E40P processor core
@@ -33,7 +45,8 @@ The CORE-V MCU DevKit includes these features
 - USB-C for terminal and onboard debug access
 - JTAG connector for external debug access
 - Espressif AWS IoT ExpressLink Module for AWS IoT cloud interconnect
-- mikroBUS onboard socket, allowing access to a vast range of [mikroBUS modules](https://www.mikroe.com/mikrobus)
+- mikroBUS onboard socket, allowing access to a vast range of 
+  [mikroBUS modules](https://www.mikroe.com/mikrobus)
 - Himax HM01B0 Ultralow Power CMOS Image Sensor
 - I2C temperature sensor
 - Several LEDs
@@ -41,25 +54,42 @@ The CORE-V MCU DevKit includes these features
 - Dimensions 75 mm x 100 mm
 - Power supply via USB-C or barrel connector (5V - 18V in)
 
-The CORE-V MCU DevKit is supported by OpenHW Group’s open-source CORE-V MCU SDK. The SDK comprises the following features
+### CORE-V MCU SDK (supports the CORE-V MCU DevKit)
 
-- Eclipse based IDE
+- Eclipse-based IDE
 - Debug support
 - FreeRTOS
 - CORE-V GNU GCC tool chain
 - Peripheral driver libraries
 - Example Code
 
-The [CORE-V MCU SDK Quickstart Guide](https://github.com/openhwgroup/core-v-sdk/blob/main/README.md) includes links and instructions to download and bring up the SDK on Linux and Windows. The [DevKit User Manual](https://docs.openhwgroup.org/projects/core-v-mcu-devkit-user-manual/en/latest/) is available on Read the Docs.
+The [CORE-V MCU SDK Quickstart Guide](https://github.com/openhwgroup/core-v-sdk/blob/main/README.md) 
+includes links and instructions to download and bring up the SDK on Linux and
+Windows. A [DevKit User Manual](https://docs.openhwgroup.org/projects/core-v-mcu-devkit-user-manual/en/latest/) 
+is also available.
 
+
+{{< grid/div isMarkdown="false" >}}
+  {{< grid/div class="col-sm-12 margin-y-30" isMarkdown="true" >}}
 ## CORE-V MCU Emulation Platform
 
-![Nexsys A7. Described in detail below.](/images/core-v-devkits/nexys-a7.jpg)
+The [CORE-V MCU](https://github.com/openhwgroup/core-v-mcu) 
+emulation platform integrates the [CV32E40P Processor IP](https://github.com/openhwgroup/cv32e40p) 
+using the PULPissimo SoC from the [PULP Platform](https://pulp-platform.org/) 
+and the [Quicklogic ArticPro eFPGA](https://www.quicklogic.com/products/efpga/arcticpro/). 
+The CORE-V-MCU has been implemented on the Nexys A7 FPGA platform to support
+evaluation of processor functionality and software development using the [CORE-V SDK](https://github.com/openhwgroup/core-v-sdk).
 
-Digilent Nexsys A7 board configured as CORE-V MCU Emulation platform
-
-### Description
-
-The [CORE-V MCU](https://github.com/openhwgroup/core-v-mcu) emulation platform integrates the [CV32E40P Processor IP](https://github.com/openhwgroup/cv32e40p) using the PULPissimo SoC from the [PULP Platform](https://pulp-platform.org/) and the [Quicklogic ArticPro eFPGA](https://www.quicklogic.com/products/efpga/arcticpro/). The CORE-V-MCU has been implemented on the Nexys A7 FPGA platform to support evaluation of processor functionality and software development using the [CORE-V SDK](https://github.com/openhwgroup/core-v-sdk).
-
-To get started with the CORE-V-MCU, consult the [CORE-V-MCU Quick Start Guide](https://github.com/openhwgroup/core-v-mcu/blob/master/emulation/quickstart/README.md) and the [CORE-V-SDK Quick Start Guide](https://github.com/openhwgroup/core-v-sdk/blob/main/README.md)
+To get started with the CORE-V-MCU, consult the [CORE-V-MCU Quick Start Guide](https://github.com/openhwgroup/core-v-mcu/blob/master/emulation/quickstart/README.md)
+and the [CORE-V-SDK Quick Start Guide](https://github.com/openhwgroup/core-v-sdk/blob/main/README.md).
+  {{</ grid/div >}}
+  {{< grid/div class="col-sm-12" isMarkdown="false" >}}
+    {{< figure 
+      class="margin-bottom-60"
+      imgClass="img-responsive margin-x-auto" 
+      width="400" 
+      src="./images/digilent-nexsys-a7.png" 
+      caption="Digilent Nexsys A7 board configured as CORE-V MCU Emulation Platform" 
+    >}}
+  {{</ grid/div >}}
+{{</ grid/div >}}

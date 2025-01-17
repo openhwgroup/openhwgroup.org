@@ -22,6 +22,9 @@
   "readmeFilename": "README.md",
   "browserslist": "last 5 version, > 0.2%, not dead, IE 11",
   "dependencies": {
-    "eclipsefdn-hugo-solstice-theme": "0.0.218"
+    "eclipsefdn-hugo-solstice-theme": "0.1.4"
+  },
+  "resolutions": {
+    "eclipsefdn-solstice-assets": "https://gitlab.eclipse.org/eclipsefdn/it/webdev/solstice-assets.git#e3c438cbec4c52e38ac0573320774b6496b9bfc3"
   }
 }
