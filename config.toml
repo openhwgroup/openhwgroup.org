@@ -1,4 +1,4 @@
-baseurl = "https://www.openhwgroup.org/"
+baseurl = "https://openhwfoundation.org/"
 DefaultContentLanguage = "en"
 title = ""
 theme = "eclipsefdn-hugo-solstice-theme"
@@ -37,8 +37,8 @@ themesDir = "node_modules/"
   tag = "tags"
 
 [Author]
-  name = "OpenHW Group"
-  website = "https://www.openhwgroup.org"
+  name = "OpenHW Foundation"
+  website = "https://openhwfoundation.org"
   email = "info@openhwgroup.org"
 # facebook = ""
   twitter = "openhwgroup"
