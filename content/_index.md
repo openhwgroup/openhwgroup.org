@@ -5,7 +5,7 @@ headline: "OpenHW Foundation"
 custom_jumbotron: |
   <p class="featured-jumbotron-subtitle">
     The leading global community for <br> Industrial Grade, Open Source RISC-V
-    CPU development and Innovation
+    CPU development and innovation
   </p>
 custom_jumbotron_class: "col-xs-24"
 hide_sidebar : true
