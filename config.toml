@@ -115,19 +115,13 @@ themesDir = "node_modules/"
   identifier = "resources"
 
 [[menu.main]]
-  name = "Events"
-  url = "/events/"
-  parent = "resources"
-  weight = 1
-
-[[menu.main]]
   name = "Blog"
   url = "/resources/blog/"
   parent = "resources"
-  weight = 2
+  weight = 1
 
 [[menu.main]]
   name = "OpenHW TV"
   url = "/resources/openhwtv"
   parent = "resources"
-  weight = 3
+  weight = 2
