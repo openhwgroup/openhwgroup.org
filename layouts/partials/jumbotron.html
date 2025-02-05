@@ -1,0 +1,58 @@
+<!-- 
+  Copyright (c) 2018 Eclipse Foundation, Inc.
+
+  This program and the accompanying materials are made available under the
+  terms of the Eclipse Public License v. 2.0 which is available at
+  http://www.eclipse.org/legal/epl-2.0.
+
+  Contributors:
+    Christopher Guindon <chris.guindon@eclipse-foundation.org>
+
+  SPDX-License-Identifier: EPL-2.0
+-->
+{{ if isset .Page.Params "headline" }}
+<div class="jumbotron featured-jumbotron margin-bottom-0 padding-top-40">
+  <div class="container">
+    <div class="row">
+      {{ if .IsHome }}
+	      <div class="col-sm-6">
+	        <img class="jumbotron-logo img-responsive" src="/images/openhw-circle.svg">
+	      </div>
+      {{ end }}
+      {{ if .IsHome }}
+      <div class="col-sm-18 padding-top-40">
+      {{ else }}
+      <div class="col-xs-24 text-center">
+      {{ end }}
+        <h1 class="heading-underline heading-underline-extended text-center{{ cond .IsHome " home-alt" ""}}">{{ .Page.Params.headline }}</h1>
+         {{ if isset .Page.Params "subtitle" }}
+        <h2>{{ .Page.Params.subtitle }}</h2>
+         {{end}}
+         {{ if isset .Page.Params "tagline" }}
+         <p>{{ .Page.Params.tagline }}</p>
+         {{ end }}
+        {{ if isset .Page.Params "links" }}
+        <ul class="list-inline{{ cond (isset .Page.Params "tagline") " padding-top-30" "" }}">
+          {{range $key,$val := index .Page.Params.links}}
+            <li><a class="btn btn-primary" href="{{ (index $val 0).href}}">{{ (index $val 1).text}}</a></li>
+          {{end}} 
+        </ul>
+         {{end}} 
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+{{ if .Page.IsHome }}
+  <section class="jumbotron-announcement padding-top-30 padding-bottom-60 dark text-center">
+    <div class="container">
+      <div class="col-sm-18 col-sm-offset-3 margin-y-30 fs-2 fw-600">
+        We are joining the
+        <img class="jumbotron-announcement-inline-logo" src="/images/eclipse-foundation-white.png" alt="Logo of the Eclipse Foundation" width="250">
+      </div>
+      <div class="col-sm-18 col-sm-offset-3 text-center">
+        <a class="btn btn-primary" href="/about-us/transition-faq/">Learn More</a>
+      </div>
+    </div>
+  </section>
+{{ end }}

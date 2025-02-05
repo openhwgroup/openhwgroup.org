@@ -1,4 +1,4 @@
-baseurl = "https://openhwfoundation.org/"
+baseurl = "https://www.openhwgroup.org/"
 DefaultContentLanguage = "en"
 title = ""
 theme = "eclipsefdn-hugo-solstice-theme"
@@ -8,37 +8,32 @@ disableKinds = ["taxonomyTerm"]
 themesDir = "node_modules/"
 
 [Params]
-  website_type = "Working Group"
   google_tag_manager = "GTM-5WLCZXC"
-  layout_style = "astro"
-  description = "OpenHW Foundation is an Eclipse Foundation Working Group driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects."
+  layout_style = "quicksilver"
+  description = "OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate on open source cores, related IP, tools and software projects."
   subtitle = ""
-  seo_title_suffix = " | OpenHW Foundation"
+  seo_title_suffix = " | OpenHW Group"
   keywords = ["open-source", "risc-v", "hardware", "software", "hw", "sw", "eclipse ide"]
-  logo = "/images/openhw-landscape.png"
-  logo_width = "200"
+  logo = "images/openhw-landscape.png"
   styles = "css/styles.css"
   favicon = "images/favicon.ico"
 # share_img = ""
   gcse = ""
 # subtheme = ""
   header_wrapper_class = "header-default-bg-img"
-  hide_call_for_action = true
   js = "js/solstice.js"
   featured_content_publish_target = "openhwgroup"
-  call_for_action_text = "Download"
-  call_for_action_url = "#"
-  call_for_action_icon = ""
-  jumbotron_class = "col-sm-20 col-sm-offset-2"
-  hide_footer_newsletter = true
+# call_for_action_text = ""
+# call_for_action_url = ""
+# call_for_action_icon = ""
 
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [Author]
-  name = "OpenHW Foundation"
-  website = "https://openhwfoundation.org"
+  name = "OpenHW Group"
+  website = "https://www.openhwgroup.org"
   email = "info@openhwgroup.org"
 # facebook = ""
   twitter = "openhwgroup"
@@ -53,81 +48,123 @@ themesDir = "node_modules/"
   plainIDAnchors = true
   hrefTargetBlank = true
 
-# About Menu
+[[menu.main]]
+    name = "About Us"
+    url = "/about-us"
+    weight = 1
 
 [[menu.main]]
-  name = "About"
-  weight = 1
-  identifier = "about"
+    name = "CORE-V DevKits"
+    url = "/core-v-devkits"
+    weight = 1
 
 [[menu.main]]
-  name = "OpenHW Foundation"
-  url = "/about-us/"
-  weight = 1
-  parent = "about"
+    name = "Projects"
+    url = "/projects"
+    weight = 2
 
 [[menu.main]]
-  name = "CORE-V RISC-V Cores"
-  url = "/about-us/core-v-risc-v-cores/"
-  weight = 2
-  parent = "about"
+    name = "Membership"
+    url = "/membership"
+    weight = 3
 
 [[menu.main]]
-  name = "CORE-V DevKits"
-  url = "/core-v-devkits/"
-  weight = 3
-  parent = "about"
-
-# Membership Menu
+    name = "Working Groups"
+    url = "/working-groups"
+    weight = 4
 
 [[menu.main]]
-  name = "Membership"
-  url = "/membership/"
-  weight = 2
-  identifier = "membership"
+    name = "Resources"
+    url = "/"
+    weight = 5
 
 [[menu.main]]
-  name = "Our Members"
-  url = "/membership/members/"
-  weight = 1
-  parent = "membership"
+    name = "Contact Us"
+    url = "/#contact-us"
+    weight = 6
 
+# Membership submenus
 [[menu.main]]
-  name = "Become a Member"
-  url = "/membership/become-a-member/"
-  weight = 2
-  parent = "membership"
+    name = "Member Benefits and Services"
+    url = "/membership#tab-benefits"
+    parent = "Membership"
+    weight = 1
+[[menu.main]]
+    name = "Membership Levels"
+    url = "/membership#tab-levels"
+    parent = "Membership"
+    weight = 2
+[[menu.main]]
+    name = "Membership Fees"
+    url = "/membership#tab-fees"
+    parent = "Membership"
+    weight = 3
+[[menu.main]]
+    name = "Become a Member"
+    url = "/membership#tab-membership"
+    parent = "Membership"
+    weight = 4
+[[menu.main]]
+    name = "Explore our Members"
+    url = "/membership/members"
+    parent = "Membership"
+    weight = 5
 
+# Working Groups submenus
 [[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 3
+    name = "Technical and Marketing Working Groups"
+    url = "/working-groups"
+    parent = "Working Groups"
+    weight = 1
+[[menu.main]]
+    name = "OpenHW Asia"
+    url = "/working-groups/openhw-asia"
+    parent = "Working Groups"
+    weight = 2
+[[menu.main]]
+    name = "OpenHW Europe"
+    url = "/working-groups/openhw-europe"
+    parent = "Working Groups"
+    weight = 3
 
+# Resources submenus
 [[menu.main]]
-  name = "Get Involved"
-  url = "/get-involved/"
-  weight = 4
-
+    name = "Create or Edit Eclipse Account"
+    url = "/register"
+    parent = "Resources"
+    weight = 1
 [[menu.main]]
-  name = "Resources"
-  url = "/resources/"
-  weight = 5
-  identifier = "resources"
-
+    name = "OpenHW Mattermost"
+    url = "https://mattermost.openhwgroup.org/all-users/channels/town-square"
+    parent = "Resources"
+    weight = 2
 [[menu.main]]
-  name = "Events"
-  url = "/events/"
-  parent = "resources"
-  weight = 1
-
+    name = "OpenHW Project Dashboard"
+    url = "https://github.com/openhwgroup/programs/blob/master/dashboard/Dashboard_SpreadSheetFriendly.md"
+    parent = "Resources"
+    weight = 3
 [[menu.main]]
-  name = "Blog"
-  url = "/resources/blog/"
-  parent = "resources"
-  weight = 2
-
+    name = "OpenHW Project Descriptions"
+    url = "https://github.com/openhwgroup/programs/tree/master/Project-Descriptions-and-Plans"
+    parent = "Resources"
+    weight = 4
 [[menu.main]]
-  name = "OpenHW TV"
-  url = "/resources/openhwtv"
-  parent = "resources"
-  weight = 3
+    name = "OpenHW TV"
+    url = "/resources/openhwtv/"
+    parent = "Resources"
+    weight = 5
+[[menu.main]]
+    name = "OpenHW Blog"
+    url = "/resources/blog/"
+    parent = "Resources"
+    weight = 6
+[[menu.main]]
+    name = "OpenHW Calendar"
+    url = "/working-groups/#working-group-calls"
+    parent = "Resources"
+    weight = 7
+[[menu.main]]
+    name = "OpenHW Downloads"
+    url = "http://downloads.openhwgroup.org/"
+    parent = "Resources"
+    weight = 8

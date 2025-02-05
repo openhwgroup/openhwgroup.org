@@ -6,6 +6,7 @@ tags: ["openhw foundation", "transition", "working group", "frequently asked que
 headline: "FAQs"
 subtitle: "OpenHW joining the Eclipse Foundation"
 hide_page_title: true
+container: "container margin-top-30"
 ---
 
 We’re thrilled to announce that OpenHW is officially joining the Eclipse
