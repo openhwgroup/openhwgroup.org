@@ -2,12 +2,7 @@
 title: "Home"
 seo_title: "OpenHW Group"
 headline: "OpenHW Foundation"
-custom_jumbotron: |
-  <p class="featured-jumbotron-subtitle">
-    The leading global community for <br> Industrial Grade, Open Source RISC-V
-    CPU development and innovation
-  </p>
-custom_jumbotron_class: "col-xs-24"
+subtitle: "The leading global community for <br> Industrial Grade, Open Source RISC-V CPU development and Innovation"
 hide_sidebar : true
 hide_page_title: true
 hide_breadcrumb: true
