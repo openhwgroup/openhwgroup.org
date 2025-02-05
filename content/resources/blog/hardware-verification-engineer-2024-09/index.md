@@ -11,6 +11,7 @@ summary: |
   candidate will work to verify at industrial-grade open-source IPs based on
   RISC-V.
 hide_page_title: true
+container: "container margin-top-40"
 ---
 
 ## Statement of Work for OpenHW Europe WG HW Verification Engineer

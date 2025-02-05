@@ -8,6 +8,7 @@ categories: ["blogs"]
 summary: |
   Security has become a critical issue for the entire IoT supply chain in recent years, as the number of connected devices continues to grow and our reliance on them increases.
 author: Chris Jones, Director of Applications at Crypto Quantique
+container: container margin-top-40
 ---
 
 _Author: Chris Jones, Director of Applications at Crypto Quantique_

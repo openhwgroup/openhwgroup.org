@@ -8,6 +8,7 @@ summary: |
   Heading to Embedded World 2023? Stop by the OpenHW Group & Eclipse Foundation 
   booth Hall 4 – 554. OpenHW Group will be highlighting their CORE-V Family of 
   Open Source RISC-V Cores for High Volume Production SoCs.
+container: container margin-top-40
 ---
 
 Heading to Embedded World 2023? Stop by the OpenHW Group & Eclipse Foundation
