@@ -4,7 +4,7 @@ title = ""
 theme = "eclipsefdn-hugo-solstice-theme"
 metaDataFormat = "yaml"
 #googleAnalytics = ""
-disableKinds = ["taxonomyTerm"]
+disableKinds = ["taxonomyTerm", "taxonomy"]
 themesDir = "node_modules/"
 
 [Params]
